@@ -1,0 +1,2640 @@
+SEX,DESIGNATION,AGE,SALARY,UNIT,LEAVES USED,LEAVES REMAINING,RATINGS,PAST EXP,years_experience
+F,Analyst,21.0,44570,Finance,24.0,6.0,2.0,0,2
+F,Associate,25.0,89207,Web,22.0,13.0,4.0,7,3
+F,Analyst,21.0,40955,Finance,23.0,7.0,3.0,0,2
+F,Analyst,22.0,45550,IT,22.0,8.0,3.0,0,3
+M,Analyst,25.0,43161,Operations,27.0,3.0,4.0,3,2
+F,Analyst,22.0,48736,Marketing,20.0,10.0,4.0,0,3
+M,Analyst,22.0,40339,Marketing,19.0,11.0,5.0,0,3
+M,Analyst,25.0,40058,Marketing,29.0,1.0,2.0,2,3
+F,Senior Analyst,28.0,63478,Operations,20.0,10.0,3.0,1,2
+F,Analyst,22.0,43110,Finance,15.0,15.0,3.0,0,2
+F,Analyst,24.0,41590,Marketing,22.0,8.0,4.0,1,2
+M,Senior Manager,36.0,160613,Finance,22.0,11.0,2.0,9,6
+M,Analyst,24.0,44828,Finance,15.0,15.0,5.0,1,3
+M,Analyst,21.0,45830,Web,23.0,7.0,2.0,0,3
+M,Analyst,24.0,43457,Management,30.0,0.0,4.0,1,3
+F,Analyst,21.0,44812,IT,16.0,8.0,5.0,0,2
+M,Analyst,25.0,47636,Finance,27.0,3.0,3.0,2,3
+M,Analyst,24.0,48651,Web,27.0,3.0,5.0,1,2
+M,Analyst,23.0,40411,Management,21.0,9.0,3.0,0,3
+M,Analyst,24.0,44665,Web,22.0,12.0,5.0,0,3
+M,Analyst,25.0,46941,Marketing,23.0,7.0,3.0,1,3
+M,Analyst,22.0,47734,Marketing,28.0,2.0,5.0,0,3
+F,Analyst,23.0,40541,Operations,15.0,15.0,5.0,1,2
+F,Analyst,25.0,43920,Web,28.0,8.0,2.0,2,3
+M,Analyst,21.0,45832,Management,28.0,2.0,2.0,0,3
+F,Analyst,23.0,48102,Marketing,17.0,13.0,2.0,0,2
+M,Analyst,21.0,48662,Management,30.0,0.0,5.0,0,2
+M,Analyst,25.0,49685,Operations,15.0,15.0,2.0,1,3
+M,Senior Analyst,25.0,57488,Operations,25.0,5.0,3.0,0,2
+F,Analyst,21.0,45410,Marketing,29.0,1.0,2.0,0,3
+M,Analyst,21.0,43030,Management,22.0,8.0,5.0,0,3
+F,Analyst,22.0,42388,Management,30.0,0.0,5.0,0,2
+M,Senior Analyst,26.0,68295,Operations,28.0,2.0,5.0,3,2
+F,Associate,29.0,73397,Web,30.0,0.0,5.0,2,5
+F,Analyst,22.0,47008,Management,27.0,3.0,2.0,0,3
+M,Analyst,23.0,49898,Marketing,19.0,11.0,5.0,1,2
+F,Analyst,23.0,45389,Management,27.0,3.0,2.0,1,2
+M,Analyst,22.0,49326,Web,29.0,1.0,3.0,0,3
+F,Analyst,24.0,49901,Web,24.0,6.0,4.0,0,3
+M,Analyst,24.0,42529,IT,23.0,7.0,2.0,2,2
+F,Analyst,25.0,44448,Finance,25.0,5.0,5.0,2,2
+F,Senior Manager,39.0,175497,Marketing,30.0,0.0,4.0,13,5
+F,Analyst,25.0,47739,IT,21.0,9.0,4.0,2,2
+F,Analyst,25.0,49046,Web,25.0,5.0,4.0,2,2
+M,Analyst,25.0,47961,Operations,20.0,10.0,3.0,2,2
+F,Associate,29.0,96378,Operations,23.0,7.0,2.0,5,2
+M,Associate,32.0,76411,IT,16.0,14.0,4.0,9,1
+F,Analyst,23.0,40264,Web,24.0,6.0,2.0,0,3
+M,Analyst,22.0,45364,Web,20.0,10.0,2.0,0,2
+M,Analyst,22.0,42013,Web,27.0,3.0,4.0,0,3
+M,Analyst,25.0,42362,Marketing,24.0,6.0,5.0,2,3
+F,Analyst,25.0,44620,Finance,26.0,4.0,5.0,2,3
+F,Analyst,23.0,43285,Operations,23.0,7.0,5.0,1,2
+F,Senior Analyst,28.0,66338,Web,24.0,6.0,3.0,5,2
+F,Analyst,25.0,46436,IT,27.0,3.0,4.0,2,3
+F,Analyst,24.0,49705,Management,28.0,2.0,3.0,0,3
+M,Analyst,21.0,40095,Management,19.0,11.0,3.0,0,2
+F,Senior Analyst,28.0,61647,Finance,28.0,2.0,4.0,3,2
+F,Analyst,21.0,42811,Marketing,22.0,8.0,3.0,0,2
+F,Analyst,25.0,47365,Finance,15.0,15.0,2.0,2,3
+M,Analyst,22.0,45721,Operations,18.0,12.0,5.0,0,3
+M,Analyst,25.0,49976,Web,25.0,5.0,2.0,1,3
+M,Analyst,21.0,42650,Marketing,21.0,9.0,2.0,0,3
+M,Analyst,25.0,44632,Management,27.0,3.0,3.0,3,1
+M,Analyst,25.0,48389,Operations,15.0,15.0,3.0,3,2
+M,Analyst,21.0,48665,Operations,18.0,12.0,2.0,0,3
+M,Associate,31.0,72886,Management,21.0,9.0,4.0,6,3
+F,Analyst,21.0,45225,IT,28.0,2.0,5.0,0,2
+M,Senior Analyst,25.0,60712,Finance,26.0,4.0,4.0,0,3
+M,Analyst,24.0,41290,Operations,17.0,13.0,3.0,1,3
+F,Analyst,21.0,44993,IT,18.0,12.0,2.0,0,2
+F,Analyst,24.0,46118,IT,22.0,8.0,4.0,1,3
+F,Senior Analyst,25.0,65212,Management,29.0,1.0,5.0,1,4
+F,Senior Manager,38.0,193621,Operations,19.0,11.0,4.0,9,5
+F,Analyst,23.0,44223,Marketing,19.0,11.0,2.0,0,3
+F,Senior Analyst,27.0,53339,Finance,26.0,4.0,2.0,1,3
+F,Analyst,24.0,43638,Web,29.0,1.0,3.0,1,2
+M,Analyst,22.0,44963,Marketing,21.0,9.0,2.0,0,3
+F,Analyst,21.0,42686,Marketing,22.0,8.0,3.0,0,2
+F,Analyst,21.0,40381,Web,22.0,8.0,2.0,0,2
+F,Analyst,21.0,48461,Finance,15.0,15.0,5.0,0,3
+F,Analyst,25.0,46584,Marketing,18.0,12.0,4.0,1,3
+M,Senior Analyst,25.0,50739,IT,25.0,5.0,3.0,0,2
+M,Associate,31.0,82083,Management,17.0,13.0,3.0,5,2
+F,Analyst,23.0,40324,Operations,27.0,3.0,2.0,1,2
+M,Analyst,23.0,44001,Management,26.0,4.0,3.0,1,2
+F,Analyst,22.0,43059,Management,30.0,0.0,3.0,0,3
+F,Analyst,24.0,41685,Finance,30.0,0.0,2.0,2,2
+M,Associate,28.0,95982,Operations,26.0,4.0,4.0,0,4
+F,Analyst,23.0,44699,Management,26.0,4.0,3.0,0,3
+F,Senior Analyst,28.0,52690,Marketing,30.0,0.0,5.0,3,3
+F,Analyst,21.0,40041,Management,18.0,12.0,4.0,0,2
+F,Senior Analyst,28.0,56314,Finance,16.0,14.0,5.0,3,2
+M,Analyst,25.0,49785,Operations,26.0,4.0,3.0,2,2
+F,Analyst,24.0,41284,Web,29.0,1.0,5.0,1,3
+F,Analyst,22.0,40562,Finance,26.0,4.0,5.0,0,2
+M,Analyst,22.0,46741,Operations,30.0,0.0,2.0,0,3
+M,Analyst,24.0,45100,Operations,28.0,2.0,2.0,1,2
+M,Analyst,22.0,41712,IT,23.0,7.0,5.0,0,2
+F,Analyst,24.0,47069,Operations,20.0,10.0,4.0,1,2
+M,Analyst,25.0,40460,Web,28.0,2.0,3.0,1,3
+M,Analyst,24.0,47068,Finance,28.0,2.0,4.0,0,3
+F,Senior Analyst,25.0,50813,Marketing,26.0,4.0,2.0,0,3
+M,Manager,33.0,129191,Operations,22.0,8.0,4.0,3,6
+F,Senior Analyst,28.0,66338,Web,24.0,6.0,3.0,5,2
+M,Analyst,24.0,46749,Operations,28.0,2.0,5.0,2,2
+F,Manager,33.0,108665,Finance,15.0,15.0,2.0,6,5
+F,Associate,32.0,76964,Management,23.0,7.0,5.0,5,4
+M,Analyst,24.0,47417,Marketing,21.0,9.0,3.0,1,3
+M,Analyst,21.0,47669,IT,25.0,5.0,5.0,0,2
+F,Analyst,21.0,40318,Finance,20.0,10.0,3.0,0,2
+M,Analyst,23.0,46743,IT,17.0,13.0,2.0,0,3
+M,Analyst,25.0,40060,Management,20.0,10.0,2.0,2,2
+F,Analyst,25.0,46129,Management,20.0,10.0,3.0,2,3
+M,Senior Manager,38.0,189435,Marketing,19.0,11.0,4.0,10,3
+F,Senior Analyst,26.0,62537,Management,27.0,3.0,2.0,0,3
+M,Analyst,24.0,44145,Management,17.0,13.0,5.0,1,3
+F,Analyst,22.0,47998,Marketing,23.0,7.0,5.0,0,2
+M,Analyst,25.0,49310,Marketing,16.0,14.0,2.0,2,2
+F,Analyst,24.0,49235,Management,17.0,13.0,4.0,1,2
+M,Senior Analyst,26.0,68245,Finance,26.0,4.0,3.0,0,3
+F,Analyst,23.0,47498,Finance,25.0,5.0,5.0,1,2
+M,Analyst,25.0,40636,Finance,26.0,4.0,4.0,3,2
+F,Analyst,25.0,45233,Operations,25.0,5.0,4.0,1,3
+F,Senior Analyst,27.0,53275,Finance,16.0,14.0,4.0,4,3
+F,Analyst,24.0,43540,Web,17.0,13.0,5.0,1,3
+M,Analyst,21.0,40275,Management,30.0,0.0,5.0,0,1
+M,Analyst,21.0,44361,Web,28.0,2.0,5.0,0,3
+M,Analyst,25.0,41936,Web,16.0,14.0,2.0,1,3
+F,Analyst,21.0,45830,Finance,25.0,5.0,5.0,0,3
+F,Analyst,23.0,44521,Web,28.0,2.0,3.0,0,3
+M,Analyst,22.0,45997,Management,18.0,12.0,3.0,0,2
+M,Analyst,25.0,44218,Finance,19.0,11.0,2.0,2,3
+F,Manager,35.0,140926,Finance,28.0,2.0,2.0,12,3
+F,Analyst,21.0,48886,Operations,23.0,7.0,3.0,0,2
+M,Analyst,23.0,49081,Operations,26.0,4.0,3.0,1,2
+F,Analyst,23.0,42195,Operations,28.0,2.0,2.0,0,2
+M,Senior Analyst,25.0,50130,Marketing,22.0,8.0,3.0,0,3
+M,Senior Analyst,25.0,55472,Finance,30.0,0.0,3.0,0,2
+M,Analyst,25.0,43269,Operations,17.0,13.0,5.0,1,3
+F,Analyst,22.0,43712,Operations,17.0,13.0,2.0,0,3
+M,Analyst,25.0,42377,Marketing,24.0,6.0,5.0,3,2
+F,Senior Analyst,28.0,69316,Operations,24.0,6.0,3.0,0,4
+F,Analyst,23.0,46418,Marketing,29.0,1.0,2.0,0,3
+M,Senior Analyst,28.0,65566,Marketing,17.0,13.0,3.0,5,2
+F,Analyst,24.0,48976,Finance,25.0,5.0,2.0,1,3
+M,Analyst,23.0,43760,Marketing,24.0,6.0,4.0,0,3
+F,Analyst,22.0,41047,Operations,21.0,9.0,4.0,0,3
+F,Analyst,25.0,43225,Operations,30.0,0.0,2.0,2,3
+M,Analyst,22.0,42361,Marketing,25.0,5.0,2.0,0,1
+F,Analyst,22.0,43835,Management,26.0,4.0,4.0,0,2
+F,Analyst,25.0,47326,Operations,24.0,6.0,5.0,2,2
+M,Senior Analyst,25.0,61221,Marketing,19.0,11.0,3.0,0,4
+F,Analyst,21.0,42943,Finance,17.0,13.0,4.0,0,3
+M,Analyst,23.0,48751,Operations,24.0,6.0,3.0,0,3
+M,Analyst,22.0,42136,Finance,23.0,7.0,4.0,0,3
+F,Analyst,21.0,42472,Web,27.0,3.0,5.0,0,3
+M,Analyst,22.0,46677,IT,26.0,4.0,4.0,0,3
+M,Analyst,25.0,45977,Web,28.0,2.0,5.0,3,2
+M,Analyst,25.0,41345,Web,18.0,12.0,5.0,3,2
+F,Director,41.0,323196,Marketing,23.0,7.0,3.0,10,6
+F,Analyst,22.0,42727,Marketing,19.0,11.0,2.0,0,2
+M,Senior Analyst,25.0,53218,Marketing,18.0,12.0,5.0,0,4
+F,Analyst,21.0,48422,IT,21.0,9.0,3.0,0,3
+M,Associate,32.0,83066,IT,23.0,7.0,4.0,6,3
+F,Analyst,21.0,41627,Operations,29.0,1.0,2.0,0,3
+M,Director,42.0,388112,Marketing,27.0,3.0,2.0,18,3
+F,Analyst,23.0,44469,Web,25.0,5.0,3.0,0,3
+M,Analyst,24.0,41109,Marketing,23.0,7.0,3.0,2,2
+M,Analyst,23.0,43924,Operations,27.0,3.0,4.0,1,2
+M,Senior Analyst,25.0,64232,Operations,23.0,7.0,4.0,2,3
+M,Analyst,22.0,49644,Operations,19.0,11.0,2.0,0,3
+F,Director,43.0,284733,Web,15.0,15.0,2.0,11,7
+F,Analyst,22.0,48802,Operations,20.0,10.0,4.0,0,2
+F,Analyst,21.0,41748,IT,21.0,9.0,4.0,0,3
+M,Senior Analyst,27.0,61575,Finance,20.0,10.0,2.0,1,3
+F,Analyst,24.0,46062,Marketing,25.0,5.0,3.0,1,3
+F,Analyst,25.0,40251,Finance,18.0,12.0,2.0,1,3
+M,Analyst,21.0,42416,Management,16.0,14.0,2.0,0,2
+F,Analyst,22.0,43951,Finance,18.0,12.0,5.0,0,2
+M,Analyst,25.0,47903,Finance,19.0,11.0,2.0,2,2
+F,Analyst,22.0,45275,Operations,27.0,3.0,3.0,0,3
+M,Senior Analyst,26.0,61046,Finance,28.0,2.0,5.0,1,2
+F,Analyst,25.0,48204,Web,15.0,15.0,4.0,2,2
+F,Senior Analyst,27.0,51053,Operations,23.0,7.0,3.0,1,3
+M,Analyst,22.0,42560,Operations,16.0,14.0,2.0,0,2
+F,Analyst,25.0,40947,Marketing,20.0,10.0,2.0,3,2
+F,Senior Analyst,28.0,68432,IT,30.0,0.0,2.0,0,4
+F,Analyst,24.0,44561,Management,24.0,6.0,4.0,1,2
+F,Senior Analyst,26.0,63882,Operations,27.0,3.0,2.0,1,4
+M,Analyst,23.0,45903,Finance,21.0,9.0,2.0,0,3
+M,Analyst,23.0,48470,Web,28.0,2.0,3.0,0,3
+F,Analyst,23.0,45704,Finance,24.0,6.0,4.0,0,2
+F,Senior Analyst,25.0,57064,Management,18.0,12.0,5.0,0,3
+M,Analyst,22.0,48546,IT,15.0,15.0,2.0,0,2
+F,Senior Analyst,28.0,50044,Operations,25.0,5.0,3.0,5,3
+F,Analyst,21.0,41604,Marketing,16.0,14.0,2.0,0,3
+F,Analyst,23.0,45022,Finance,23.0,7.0,3.0,0,2
+M,Manager,33.0,107432,Web,24.0,6.0,4.0,8,5
+F,Analyst,24.0,45499,IT,26.0,4.0,4.0,0,3
+M,Analyst,22.0,47846,Marketing,26.0,4.0,2.0,0,3
+F,Senior Analyst,28.0,67299,Operations,29.0,1.0,3.0,1,4
+F,Analyst,24.0,48047,Web,21.0,9.0,2.0,2,2
+M,Senior Manager,36.0,186356,Finance,20.0,10.0,3.0,8,6
+F,Analyst,22.0,48539,Operations,26.0,4.0,5.0,0,3
+F,Analyst,22.0,45146,Marketing,18.0,12.0,2.0,0,2
+F,Senior Analyst,25.0,67321,IT,26.0,4.0,3.0,0,4
+F,Analyst,24.0,43137,IT,27.0,3.0,2.0,2,2
+F,Analyst,24.0,46974,Web,30.0,0.0,4.0,0,3
+F,Analyst,25.0,48602,Marketing,30.0,0.0,2.0,1,3
+F,Analyst,22.0,43036,Web,25.0,5.0,4.0,0,3
+M,Analyst,23.0,49318,Finance,17.0,13.0,3.0,0,2
+F,Analyst,23.0,48356,Web,19.0,11.0,2.0,0,3
+M,Analyst,25.0,49894,Operations,22.0,8.0,3.0,1,3
+F,Analyst,24.0,42344,Marketing,17.0,13.0,4.0,2,2
+M,Analyst,24.0,43343,Web,27.0,3.0,4.0,0,3
+F,Analyst,22.0,47750,Operations,27.0,3.0,4.0,0,3
+M,Analyst,22.0,42440,Marketing,19.0,11.0,3.0,0,2
+F,Analyst,25.0,45236,Web,16.0,14.0,2.0,3,2
+M,Analyst,24.0,41514,Operations,27.0,3.0,4.0,0,3
+M,Analyst,23.0,45084,IT,24.0,6.0,4.0,1,1
+F,Analyst,24.0,41676,Marketing,29.0,1.0,3.0,1,3
+F,Analyst,23.0,46127,Marketing,28.0,2.0,5.0,0,3
+M,Associate,29.0,99416,Management,20.0,10.0,5.0,4,4
+F,Analyst,25.0,47899,Operations,15.0,15.0,3.0,1,3
+F,Analyst,23.0,45927,Finance,15.0,15.0,3.0,0,3
+M,Analyst,23.0,48891,Management,22.0,8.0,2.0,1,2
+M,Analyst,22.0,41284,Finance,19.0,11.0,5.0,0,3
+M,Director,43.0,313649,IT,21.0,9.0,2.0,17,5
+M,Analyst,22.0,49111,Marketing,22.0,8.0,2.0,0,3
+M,Senior Analyst,25.0,51509,Marketing,23.0,7.0,3.0,0,4
+M,Analyst,21.0,49393,IT,16.0,14.0,3.0,0,2
+M,Analyst,21.0,46580,Web,27.0,3.0,4.0,0,3
+F,Analyst,25.0,44538,Finance,16.0,14.0,4.0,2,2
+F,Analyst,21.0,46507,Finance,22.0,8.0,2.0,0,3
+F,Analyst,24.0,47308,Web,26.0,4.0,5.0,1,3
+M,Analyst,22.0,45952,Management,25.0,5.0,5.0,0,2
+M,Senior Analyst,25.0,68505,Operations,15.0,15.0,3.0,1,3
+F,Senior Analyst,26.0,65316,Marketing,21.0,9.0,5.0,0,3
+M,Analyst,23.0,47401,Marketing,17.0,13.0,5.0,1,2
+F,Manager,35.0,129017,Operations,25.0,5.0,3.0,11,3
+F,Analyst,23.0,46347,Finance,28.0,2.0,4.0,1,2
+M,Analyst,25.0,47573,Web,25.0,5.0,4.0,2,2
+M,Associate,32.0,97708,IT,29.0,1.0,2.0,5,5
+M,Analyst,21.0,46002,Finance,21.0,9.0,5.0,0,2
+F,Analyst,25.0,47201,IT,27.0,3.0,5.0,1,3
+M,Analyst,21.0,46733,Web,15.0,15.0,2.0,0,2
+F,Senior Manager,39.0,191793,IT,20.0,10.0,3.0,17,2
+M,Senior Analyst,25.0,68505,Operations,15.0,15.0,3.0,1,3
+M,Analyst,22.0,41035,Management,19.0,11.0,4.0,0,2
+F,Manager,34.0,126871,Management,16.0,14.0,4.0,7,3
+F,Senior Analyst,27.0,51532,Marketing,25.0,5.0,5.0,0,3
+F,Analyst,24.0,43339,Finance,28.0,2.0,5.0,1,2
+M,Analyst,22.0,44506,IT,30.0,0.0,4.0,0,2
+M,Analyst,23.0,40045,Management,25.0,5.0,2.0,0,3
+M,Analyst,24.0,48938,Finance,19.0,11.0,2.0,0,3
+M,Analyst,23.0,48185,IT,19.0,11.0,4.0,0,3
+F,Analyst,25.0,47579,Marketing,25.0,5.0,3.0,2,2
+F,Director,41.0,375647,Finance,20.0,10.0,5.0,14,7
+F,Analyst,24.0,47386,Management,23.0,7.0,2.0,0,3
+M,Analyst,24.0,43952,Finance,23.0,7.0,4.0,1,2
+F,Analyst,24.0,48981,Finance,26.0,4.0,4.0,0,3
+F,Analyst,25.0,40702,Marketing,30.0,0.0,4.0,1,3
+F,Director,43.0,235565,Web,20.0,10.0,4.0,17,2
+F,Analyst,22.0,41641,Web,28.0,2.0,4.0,0,2
+M,Analyst,21.0,44350,Finance,25.0,5.0,4.0,0,3
+F,Analyst,23.0,48887,Operations,26.0,4.0,4.0,0,3
+M,Analyst,24.0,47499,Web,24.0,6.0,2.0,0,3
+F,Analyst,25.0,42128,Finance,18.0,12.0,5.0,1,3
+M,Analyst,24.0,48271,Finance,29.0,1.0,3.0,0,3
+F,Analyst,23.0,41029,Management,19.0,11.0,4.0,0,3
+F,Analyst,25.0,43659,Web,15.0,15.0,5.0,3,1
+M,Manager,33.0,140867,IT,27.0,3.0,4.0,7,2
+F,Analyst,24.0,49806,IT,22.0,8.0,5.0,1,2
+F,Analyst,24.0,49110,IT,25.0,5.0,2.0,1,3
+M,Analyst,23.0,42081,Management,23.0,7.0,4.0,0,2
+F,Analyst,21.0,41017,IT,27.0,3.0,5.0,0,3
+F,Analyst,24.0,48869,IT,26.0,4.0,5.0,0,3
+M,Senior Analyst,28.0,66965,Web,16.0,14.0,3.0,5,3
+M,Analyst,24.0,42338,Management,22.0,8.0,4.0,0,3
+M,Analyst,22.0,49380,Management,25.0,5.0,4.0,0,3
+F,Manager,33.0,117354,Management,26.0,4.0,3.0,6,2
+F,Analyst,25.0,41679,Web,20.0,10.0,2.0,2,3
+M,Analyst,22.0,44207,Finance,28.0,2.0,4.0,0,2
+F,Analyst,22.0,45059,Management,29.0,1.0,2.0,0,2
+F,Associate,29.0,95056,Operations,15.0,15.0,3.0,0,5
+M,Analyst,22.0,48777,Management,29.0,1.0,3.0,0,3
+F,Senior Analyst,28.0,56728,IT,16.0,14.0,4.0,4,2
+F,Senior Analyst,28.0,53113,Finance,20.0,10.0,3.0,1,4
+F,Analyst,21.0,45039,Management,19.0,11.0,4.0,0,2
+F,Analyst,21.0,41619,Management,21.0,9.0,2.0,0,2
+F,Senior Analyst,26.0,62672,Management,28.0,2.0,3.0,1,3
+M,Analyst,23.0,42925,Management,26.0,4.0,3.0,0,3
+F,Analyst,25.0,44343,Marketing,28.0,2.0,5.0,1,3
+F,Analyst,22.0,47967,Finance,23.0,7.0,4.0,0,2
+M,Associate,30.0,92323,Marketing,30.0,0.0,5.0,4,2
+M,Analyst,25.0,42002,Marketing,25.0,5.0,5.0,2,3
+F,Senior Manager,38.0,199577,Marketing,15.0,15.0,5.0,11,2
+F,Associate,30.0,96478,Marketing,29.0,1.0,4.0,0,5
+M,Senior Analyst,25.0,51817,IT,21.0,9.0,3.0,3,2
+F,Analyst,24.0,45604,Web,20.0,10.0,4.0,2,2
+M,Analyst,25.0,46844,Operations,19.0,11.0,5.0,2,2
+F,Analyst,23.0,46425,Operations,21.0,9.0,2.0,0,3
+F,Analyst,21.0,41908,Operations,18.0,12.0,5.0,0,2
+F,Analyst,22.0,42848,Web,29.0,1.0,3.0,0,3
+M,Analyst,21.0,45895,Marketing,17.0,13.0,2.0,0,2
+F,Analyst,22.0,41580,Finance,20.0,10.0,5.0,0,3
+M,Senior Analyst,27.0,55417,IT,18.0,12.0,2.0,0,4
+M,Analyst,21.0,41803,Web,30.0,0.0,2.0,0,3
+F,Manager,35.0,113837,Marketing,20.0,10.0,4.0,8,5
+F,Senior Analyst,28.0,69851,Finance,28.0,2.0,4.0,3,2
+M,Analyst,23.0,42429,Operations,24.0,6.0,2.0,1,2
+M,Associate,30.0,90346,Marketing,21.0,9.0,3.0,2,4
+M,Analyst,22.0,44980,Web,19.0,11.0,4.0,0,2
+M,Manager,32.0,124711,Finance,17.0,13.0,3.0,6,4
+M,Analyst,21.0,42803,Management,24.0,6.0,2.0,0,3
+M,Analyst,22.0,44015,IT,20.0,10.0,5.0,0,2
+F,Senior Analyst,28.0,55693,Management,15.0,15.0,2.0,2,4
+F,Senior Analyst,26.0,52083,Operations,19.0,11.0,4.0,1,3
+M,Analyst,24.0,46907,IT,16.0,14.0,2.0,0,3
+F,Senior Analyst,26.0,63008,Marketing,28.0,2.0,2.0,0,4
+M,Senior Analyst,25.0,64112,Management,19.0,11.0,3.0,0,2
+M,Analyst,24.0,44888,Operations,29.0,1.0,2.0,2,1
+F,Analyst,25.0,41921,Operations,29.0,1.0,5.0,2,3
+F,Analyst,22.0,41926,IT,18.0,12.0,3.0,0,2
+F,Director,45.0,324783,Finance,24.0,6.0,5.0,19,4
+F,Analyst,24.0,46499,Operations,22.0,8.0,3.0,1,3
+F,Analyst,21.0,42754,Marketing,16.0,14.0,3.0,0,3
+M,Analyst,22.0,46812,Operations,28.0,2.0,4.0,0,2
+M,Analyst,22.0,47001,IT,16.0,14.0,4.0,0,2
+F,Analyst,24.0,40646,Operations,24.0,6.0,5.0,1,2
+F,Associate,30.0,97879,Marketing,30.0,0.0,2.0,3,4
+F,Analyst,21.0,49013,Marketing,16.0,14.0,5.0,0,2
+F,Analyst,23.0,41120,Finance,21.0,9.0,3.0,0,3
+F,Manager,32.0,126181,IT,22.0,8.0,5.0,5,2
+F,Associate,31.0,76143,Operations,24.0,6.0,3.0,6,2
+M,Analyst,23.0,40998,Management,27.0,3.0,5.0,0,3
+M,Senior Manager,36.0,198814,Operations,22.0,8.0,5.0,6,6
+M,Analyst,24.0,43417,Finance,27.0,3.0,2.0,0,3
+F,Senior Analyst,27.0,59111,IT,19.0,11.0,3.0,4,3
+M,Associate,28.0,72328,Finance,27.0,3.0,3.0,0,4
+M,Analyst,23.0,44225,Operations,17.0,13.0,3.0,1,2
+M,Analyst,25.0,47561,Marketing,30.0,0.0,2.0,1,3
+F,Analyst,25.0,44512,Marketing,25.0,5.0,2.0,2,2
+M,Analyst,25.0,43352,Finance,27.0,3.0,4.0,2,3
+M,Analyst,25.0,49619,Marketing,30.0,0.0,2.0,3,1
+F,Analyst,25.0,43991,Management,25.0,5.0,4.0,2,2
+F,Analyst,23.0,44712,Marketing,18.0,12.0,5.0,0,2
+F,Analyst,21.0,47401,Finance,27.0,3.0,2.0,0,2
+M,Associate,29.0,85391,Web,19.0,11.0,2.0,1,4
+F,Analyst,24.0,47638,Web,21.0,9.0,2.0,2,1
+F,Analyst,22.0,41284,Operations,23.0,7.0,4.0,0,3
+M,Analyst,24.0,46251,Finance,28.0,2.0,5.0,2,2
+M,Analyst,25.0,47183,IT,23.0,7.0,2.0,3,2
+F,Analyst,23.0,44214,Web,23.0,7.0,4.0,0,2
+M,Analyst,22.0,41227,IT,24.0,6.0,2.0,0,3
+M,Analyst,25.0,43474,Management,27.0,3.0,5.0,2,3
+F,Analyst,22.0,42178,Web,28.0,2.0,3.0,0,2
+F,Analyst,23.0,40436,Operations,19.0,11.0,4.0,0,3
+M,Analyst,22.0,41354,Marketing,26.0,4.0,4.0,0,3
+M,Analyst,22.0,40417,Operations,24.0,6.0,4.0,0,3
+F,Analyst,22.0,44617,Management,28.0,2.0,2.0,0,2
+M,Analyst,21.0,44163,Finance,18.0,12.0,4.0,0,3
+F,Analyst,23.0,45123,Web,29.0,1.0,4.0,0,3
+M,Analyst,22.0,41550,Management,19.0,11.0,5.0,0,2
+M,Analyst,22.0,41989,IT,18.0,12.0,5.0,0,3
+M,Analyst,24.0,46206,IT,19.0,11.0,2.0,1,2
+M,Analyst,23.0,42255,Web,26.0,4.0,4.0,1,2
+M,Analyst,24.0,42667,Management,19.0,11.0,2.0,1,2
+M,Analyst,25.0,41734,Finance,21.0,9.0,5.0,2,2
+F,Analyst,22.0,40975,IT,30.0,0.0,4.0,0,3
+F,Analyst,22.0,47695,Operations,21.0,9.0,4.0,0,3
+M,Analyst,21.0,42786,Marketing,20.0,10.0,5.0,0,3
+F,Analyst,22.0,48681,Management,26.0,4.0,3.0,0,3
+M,Analyst,21.0,43185,IT,20.0,10.0,5.0,0,3
+F,Analyst,21.0,41577,Management,16.0,14.0,3.0,0,3
+M,Analyst,24.0,41691,Web,30.0,0.0,2.0,0,3
+M,Senior Analyst,27.0,51534,Operations,30.0,0.0,4.0,3,3
+F,Analyst,24.0,49020,IT,19.0,11.0,4.0,0,3
+M,Manager,33.0,120184,Management,20.0,10.0,5.0,7,6
+M,Manager,34.0,147560,Management,19.0,11.0,3.0,6,4
+M,Analyst,24.0,49602,Operations,21.0,9.0,5.0,0,3
+F,Analyst,24.0,42538,Marketing,25.0,5.0,5.0,0,3
+M,Analyst,22.0,41027,Management,21.0,9.0,2.0,0,1
+F,Analyst,21.0,43716,Management,30.0,0.0,2.0,0,3
+F,Senior Analyst,27.0,60085,Web,17.0,13.0,4.0,0,4
+M,Analyst,21.0,48682,Web,25.0,5.0,2.0,0,3
+F,Analyst,22.0,42710,IT,20.0,10.0,3.0,0,2
+M,Senior Analyst,26.0,53390,Marketing,20.0,10.0,5.0,2,4
+M,Associate,32.0,99130,Web,17.0,13.0,4.0,3,5
+M,Analyst,23.0,45152,Web,15.0,15.0,4.0,0,3
+M,Analyst,21.0,43357,Web,28.0,2.0,3.0,0,3
+F,Senior Analyst,26.0,57000,Marketing,27.0,3.0,5.0,0,4
+M,Analyst,21.0,44134,Marketing,30.0,0.0,2.0,0,2
+M,Analyst,23.0,44148,Finance,25.0,5.0,3.0,1,2
+M,Senior Analyst,25.0,56181,Management,15.0,15.0,2.0,0,4
+F,Analyst,23.0,48287,Finance,19.0,11.0,2.0,1,2
+M,Senior Analyst,25.0,69421,Finance,25.0,5.0,4.0,3,2
+M,Analyst,23.0,44342,Operations,26.0,4.0,5.0,0,2
+F,Senior Analyst,28.0,61710,Management,15.0,15.0,4.0,2,2
+M,Senior Analyst,27.0,61575,Finance,20.0,10.0,2.0,1,3
+M,Analyst,22.0,46038,IT,16.0,14.0,3.0,0,3
+M,Associate,31.0,78493,IT,21.0,9.0,2.0,4,2
+F,Analyst,25.0,43292,Operations,26.0,4.0,4.0,3,2
+M,Analyst,25.0,42657,Operations,27.0,3.0,3.0,2,2
+M,Analyst,25.0,42400,Operations,29.0,1.0,3.0,1,3
+F,Analyst,24.0,41713,Marketing,16.0,14.0,3.0,0,3
+M,Analyst,21.0,46664,Finance,21.0,9.0,3.0,0,3
+F,Senior Analyst,26.0,66339,Management,24.0,6.0,5.0,1,3
+F,Analyst,22.0,45450,IT,27.0,3.0,2.0,0,2
+F,Analyst,25.0,43355,Web,22.0,8.0,3.0,2,2
+F,Analyst,23.0,42140,Operations,29.0,1.0,4.0,0,3
+M,Senior Analyst,28.0,52406,Operations,19.0,11.0,2.0,5,2
+M,Analyst,24.0,42440,IT,20.0,10.0,4.0,2,2
+M,Senior Analyst,25.0,64913,Finance,29.0,1.0,4.0,0,4
+F,Analyst,21.0,41551,Operations,21.0,9.0,2.0,0,3
+M,Senior Analyst,26.0,54689,Management,23.0,7.0,5.0,0,3
+F,Analyst,22.0,48747,Operations,21.0,9.0,4.0,0,2
+F,Senior Analyst,25.0,59907,IT,17.0,13.0,5.0,0,2
+M,Analyst,25.0,45319,Management,16.0,14.0,2.0,2,3
+M,Senior Analyst,28.0,60707,Finance,26.0,4.0,3.0,2,4
+F,Analyst,24.0,43124,IT,19.0,11.0,4.0,1,2
+F,Analyst,24.0,43137,IT,27.0,3.0,2.0,2,2
+M,Analyst,22.0,42121,Finance,30.0,0.0,5.0,0,3
+F,Analyst,24.0,45950,Marketing,15.0,15.0,3.0,2,2
+F,Senior Analyst,25.0,55525,Operations,18.0,12.0,2.0,0,3
+M,Manager,34.0,112580,Management,30.0,0.0,5.0,8,6
+F,Analyst,23.0,42160,Finance,20.0,10.0,3.0,0,2
+F,Analyst,22.0,40335,Finance,27.0,3.0,3.0,0,2
+F,Analyst,21.0,40363,IT,27.0,3.0,5.0,0,2
+F,Analyst,24.0,49029,Marketing,23.0,7.0,2.0,0,3
+F,Analyst,24.0,48775,Operations,22.0,8.0,5.0,1,3
+M,Analyst,21.0,40396,Marketing,28.0,2.0,2.0,0,2
+F,Analyst,25.0,45998,Finance,18.0,12.0,5.0,3,2
+M,Senior Analyst,25.0,68996,Operations,16.0,14.0,2.0,0,3
+M,Analyst,24.0,48222,Management,20.0,10.0,2.0,1,2
+M,Analyst,24.0,47982,Finance,19.0,11.0,5.0,0,3
+M,Analyst,25.0,44888,Operations,25.0,5.0,4.0,3,1
+F,Analyst,25.0,42457,Marketing,28.0,2.0,5.0,2,3
+M,Senior Analyst,26.0,58619,Finance,17.0,13.0,2.0,1,4
+F,Analyst,24.0,45482,Management,26.0,4.0,4.0,0,3
+M,Analyst,21.0,47827,IT,22.0,8.0,5.0,0,2
+F,Senior Manager,35.0,169300,Management,22.0,8.0,3.0,10,4
+F,Analyst,21.0,48833,Web,28.0,2.0,2.0,0,2
+M,Associate,29.0,96909,IT,21.0,9.0,4.0,1,5
+M,Senior Analyst,28.0,65639,Management,21.0,9.0,2.0,4,3
+M,Analyst,25.0,43352,Finance,27.0,3.0,4.0,2,3
+M,Senior Analyst,28.0,63841,Web,21.0,9.0,5.0,0,4
+F,Analyst,24.0,46988,Operations,18.0,12.0,5.0,2,2
+M,Analyst,23.0,48739,Management,15.0,15.0,3.0,0,3
+F,Analyst,21.0,46438,Marketing,24.0,6.0,2.0,0,2
+F,Analyst,22.0,49253,Web,17.0,13.0,2.0,0,3
+M,Analyst,22.0,43508,Management,20.0,10.0,4.0,0,2
+M,Analyst,23.0,43586,Operations,20.0,10.0,2.0,0,2
+M,Analyst,24.0,46064,Management,25.0,5.0,2.0,1,3
+M,Analyst,24.0,43031,IT,24.0,6.0,3.0,1,2
+F,Analyst,24.0,40513,IT,29.0,1.0,5.0,1,3
+M,Analyst,21.0,47018,Operations,15.0,15.0,3.0,0,3
+F,Senior Analyst,28.0,50368,Operations,24.0,6.0,4.0,3,3
+F,Associate,32.0,99098,Marketing,28.0,2.0,3.0,8,2
+F,Analyst,25.0,47735,Finance,29.0,1.0,3.0,2,2
+M,Analyst,23.0,42722,Operations,22.0,8.0,2.0,0,3
+M,Associate,31.0,73190,Web,24.0,6.0,2.0,3,3
+F,Analyst,23.0,40134,Finance,26.0,4.0,4.0,0,3
+M,Associate,28.0,93854,Web,19.0,11.0,3.0,1,2
+M,Senior Analyst,25.0,67014,IT,20.0,10.0,4.0,0,2
+M,Analyst,24.0,46726,IT,22.0,8.0,2.0,1,2
+F,Analyst,21.0,49497,Finance,25.0,5.0,5.0,0,2
+F,Analyst,25.0,40270,IT,17.0,13.0,5.0,3,2
+F,Senior Analyst,28.0,60155,Marketing,27.0,3.0,5.0,4,2
+F,Analyst,24.0,44054,Finance,30.0,0.0,4.0,1,2
+F,Analyst,22.0,49006,Web,19.0,11.0,2.0,0,2
+M,Analyst,22.0,41008,Operations,29.0,1.0,4.0,0,2
+M,Analyst,24.0,44497,Marketing,17.0,13.0,4.0,1,3
+F,Analyst,21.0,45528,IT,30.0,0.0,5.0,0,3
+M,Analyst,24.0,41196,Marketing,17.0,13.0,4.0,1,3
+F,Senior Analyst,25.0,60159,Finance,27.0,3.0,2.0,0,3
+F,Senior Analyst,26.0,65316,Marketing,21.0,9.0,5.0,0,3
+F,Analyst,22.0,49744,Web,28.0,2.0,2.0,0,2
+M,Analyst,21.0,41865,Finance,18.0,12.0,4.0,0,2
+M,Analyst,22.0,45784,Operations,30.0,0.0,4.0,0,1
+M,Manager,35.0,111599,Management,25.0,5.0,5.0,10,4
+M,Associate,31.0,77261,Finance,30.0,0.0,4.0,6,4
+F,Analyst,25.0,41323,Finance,22.0,8.0,5.0,2,3
+M,Analyst,25.0,44664,Operations,23.0,7.0,4.0,1,3
+F,Senior Analyst,28.0,65927,Finance,28.0,2.0,2.0,1,4
+M,Analyst,22.0,42723,Marketing,30.0,0.0,4.0,0,2
+F,Director,40.0,313938,Management,22.0,8.0,4.0,12,6
+M,Analyst,21.0,46616,Management,21.0,9.0,3.0,0,3
+F,Analyst,25.0,47517,IT,15.0,15.0,5.0,2,2
+M,Senior Analyst,25.0,66311,Management,15.0,15.0,3.0,2,2
+M,Analyst,21.0,43620,IT,28.0,2.0,4.0,0,2
+F,Associate,32.0,72359,Web,21.0,9.0,4.0,9,3
+F,Analyst,22.0,43324,Operations,19.0,11.0,5.0,0,3
+M,Senior Analyst,25.0,66984,Marketing,21.0,9.0,5.0,0,2
+M,Senior Analyst,27.0,63154,Finance,16.0,14.0,5.0,3,4
+F,Analyst,25.0,45992,Finance,30.0,0.0,4.0,2,3
+M,Analyst,22.0,44887,IT,27.0,3.0,2.0,0,2
+M,Senior Analyst,26.0,57046,Web,27.0,3.0,2.0,0,4
+M,Analyst,21.0,40065,Web,23.0,7.0,4.0,0,2
+F,Analyst,23.0,43676,Marketing,18.0,12.0,2.0,0,3
+F,Analyst,21.0,43428,Marketing,15.0,15.0,3.0,0,2
+M,Analyst,22.0,43976,Marketing,19.0,11.0,2.0,0,2
+M,Senior Analyst,25.0,66820,Finance,20.0,10.0,3.0,1,3
+M,Senior Analyst,27.0,64798,Web,21.0,9.0,3.0,2,1
+F,Analyst,22.0,40403,Marketing,19.0,11.0,5.0,0,3
+F,Associate,31.0,99603,Marketing,18.0,12.0,2.0,5,4
+F,Associate,28.0,96198,Web,25.0,5.0,2.0,2,5
+M,Senior Analyst,27.0,51930,IT,26.0,4.0,5.0,4,3
+M,Analyst,25.0,48996,IT,18.0,12.0,5.0,2,2
+F,Analyst,25.0,46808,Web,19.0,11.0,3.0,3,2
+F,Senior Manager,36.0,167610,Finance,25.0,5.0,3.0,12,3
+F,Analyst,25.0,44454,Operations,27.0,3.0,2.0,3,2
+M,Associate,28.0,86231,Finance,18.0,12.0,2.0,6,2
+F,Analyst,24.0,45252,IT,16.0,14.0,5.0,2,2
+M,Analyst,25.0,44011,Finance,24.0,6.0,4.0,3,2
+F,Analyst,22.0,47519,Management,19.0,11.0,5.0,0,2
+M,Analyst,25.0,46947,IT,18.0,12.0,4.0,3,2
+M,Analyst,25.0,46556,Web,19.0,11.0,4.0,3,2
+F,Analyst,21.0,43363,Marketing,21.0,9.0,2.0,0,3
+F,Analyst,25.0,43391,Management,26.0,4.0,5.0,1,3
+F,Analyst,22.0,41164,Management,22.0,8.0,4.0,0,3
+F,Analyst,24.0,48476,Operations,15.0,15.0,4.0,1,2
+F,Senior Manager,35.0,167525,Marketing,29.0,1.0,4.0,10,4
+F,Senior Analyst,27.0,65594,IT,22.0,8.0,4.0,0,4
+F,Analyst,23.0,45579,Marketing,30.0,0.0,4.0,0,3
+M,Senior Analyst,26.0,65880,Management,25.0,5.0,5.0,0,4
+M,Analyst,21.0,48948,Marketing,29.0,1.0,4.0,0,3
+F,Analyst,23.0,45525,Management,17.0,13.0,5.0,0,3
+F,Analyst,22.0,41819,Web,30.0,0.0,5.0,0,2
+M,Analyst,24.0,49752,Finance,22.0,8.0,4.0,1,3
+M,Analyst,22.0,48611,Marketing,19.0,11.0,5.0,0,2
+M,Analyst,24.0,43295,Operations,22.0,8.0,3.0,2,2
+F,Analyst,22.0,40395,Finance,23.0,7.0,2.0,0,3
+M,Senior Analyst,25.0,62960,Operations,16.0,14.0,2.0,0,4
+M,Analyst,23.0,41912,Web,19.0,11.0,2.0,0,3
+M,Analyst,22.0,45013,IT,24.0,6.0,3.0,0,3
+F,Senior Analyst,25.0,56854,Finance,27.0,3.0,2.0,0,2
+F,Analyst,23.0,47681,Operations,17.0,13.0,2.0,0,3
+M,Analyst,25.0,43638,Web,17.0,13.0,2.0,3,2
+M,Analyst,24.0,45776,Management,17.0,13.0,4.0,1,2
+M,Analyst,21.0,47216,Marketing,19.0,11.0,3.0,0,3
+M,Analyst,23.0,46824,Finance,16.0,14.0,5.0,0,3
+F,Manager,32.0,143778,Management,16.0,14.0,4.0,6,5
+F,Senior Analyst,28.0,55693,Management,15.0,15.0,2.0,2,4
+M,Senior Analyst,27.0,60465,Web,19.0,11.0,4.0,0,4
+F,Analyst,21.0,40816,Management,28.0,2.0,3.0,0,2
+M,Analyst,23.0,44427,Web,19.0,11.0,5.0,1,2
+M,Analyst,23.0,48930,Finance,21.0,9.0,3.0,0,3
+M,Manager,34.0,148273,Finance,28.0,2.0,4.0,7,5
+M,Analyst,23.0,48583,Web,18.0,12.0,3.0,1,2
+M,Analyst,23.0,40413,IT,20.0,10.0,5.0,1,1
+M,Analyst,24.0,46891,Marketing,24.0,6.0,5.0,2,2
+F,Senior Analyst,28.0,56166,IT,20.0,10.0,3.0,4,2
+F,Analyst,21.0,43986,IT,18.0,12.0,3.0,0,3
+M,Analyst,24.0,43621,Operations,16.0,14.0,2.0,2,2
+M,Analyst,21.0,40228,Management,28.0,2.0,2.0,0,2
+F,Analyst,21.0,49384,Management,17.0,13.0,3.0,0,3
+M,Analyst,24.0,48969,Marketing,26.0,4.0,3.0,1,2
+M,Senior Analyst,27.0,58341,Finance,15.0,15.0,2.0,4,1
+F,Analyst,22.0,44448,Web,19.0,11.0,4.0,0,3
+F,Senior Analyst,26.0,51655,Finance,28.0,2.0,5.0,4,2
+M,Analyst,25.0,42776,Marketing,15.0,15.0,4.0,2,3
+F,Analyst,23.0,47326,Management,22.0,8.0,5.0,0,2
+F,Analyst,21.0,48098,Finance,30.0,0.0,5.0,0,1
+M,Analyst,21.0,49903,Management,26.0,4.0,4.0,0,2
+F,Analyst,23.0,45704,Finance,24.0,6.0,4.0,0,2
+M,Analyst,23.0,41984,Management,29.0,1.0,4.0,0,2
+M,Analyst,25.0,48447,Web,20.0,10.0,5.0,2,2
+F,Senior Analyst,26.0,50809,Operations,21.0,9.0,4.0,1,4
+F,Analyst,21.0,45181,Finance,23.0,7.0,5.0,0,3
+F,Analyst,23.0,45579,Marketing,30.0,0.0,4.0,0,3
+M,Analyst,22.0,44543,IT,22.0,8.0,2.0,0,2
+F,Analyst,24.0,41380,Management,23.0,7.0,5.0,1,3
+M,Senior Analyst,27.0,53406,Web,27.0,3.0,3.0,3,2
+M,Analyst,23.0,41662,IT,20.0,10.0,5.0,0,3
+M,Analyst,24.0,41955,Management,24.0,6.0,3.0,0,3
+M,Analyst,23.0,45323,Web,29.0,1.0,3.0,0,2
+M,Associate,28.0,90201,IT,16.0,14.0,5.0,4,3
+M,Analyst,21.0,40222,Web,21.0,9.0,3.0,0,3
+M,Analyst,23.0,43247,Finance,22.0,8.0,3.0,0,3
+F,Senior Analyst,25.0,62673,Operations,29.0,1.0,3.0,2,3
+M,Senior Analyst,28.0,69306,Web,18.0,12.0,3.0,2,4
+F,Analyst,23.0,48462,Finance,26.0,4.0,3.0,1,1
+F,Senior Analyst,27.0,54643,Marketing,23.0,7.0,4.0,4,2
+F,Senior Analyst,28.0,57182,Management,28.0,2.0,4.0,3,3
+F,Analyst,21.0,49395,Management,19.0,11.0,2.0,0,2
+F,Senior Analyst,28.0,60348,Management,26.0,4.0,3.0,2,2
+M,Associate,32.0,72626,Marketing,28.0,2.0,2.0,4,3
+F,Analyst,25.0,43751,IT,23.0,7.0,3.0,2,2
+F,Senior Analyst,28.0,65607,Management,16.0,14.0,2.0,1,2
+M,Analyst,23.0,40183,IT,19.0,11.0,3.0,0,2
+F,Analyst,25.0,47609,IT,18.0,12.0,4.0,2,3
+M,Analyst,21.0,45896,IT,27.0,3.0,4.0,0,3
+F,Analyst,24.0,40486,Finance,22.0,8.0,5.0,1,3
+F,Analyst,25.0,46808,Web,19.0,11.0,3.0,3,2
+M,Associate,28.0,96535,Management,26.0,4.0,3.0,0,4
+M,Analyst,22.0,44762,Web,19.0,11.0,2.0,0,2
+F,Analyst,21.0,48839,Finance,17.0,13.0,3.0,0,3
+F,Analyst,22.0,43397,Web,23.0,7.0,5.0,0,3
+M,Analyst,23.0,49611,Management,28.0,2.0,2.0,0,3
+F,Senior Analyst,26.0,67051,Web,22.0,8.0,5.0,3,3
+F,Associate,31.0,93516,Operations,26.0,4.0,2.0,7,2
+F,Analyst,21.0,44181,Web,25.0,5.0,2.0,0,3
+F,Manager,33.0,100471,Web,25.0,5.0,4.0,7,3
+F,Senior Analyst,27.0,69383,Management,16.0,14.0,4.0,0,4
+F,Analyst,22.0,43132,IT,16.0,14.0,3.0,0,2
+F,Analyst,25.0,40403,Marketing,16.0,14.0,3.0,2,2
+M,Analyst,21.0,43239,Finance,22.0,8.0,4.0,0,3
+M,Analyst,22.0,42943,Web,21.0,9.0,3.0,0,3
+F,Analyst,23.0,41664,Operations,30.0,0.0,2.0,0,2
+M,Senior Analyst,26.0,63290,Marketing,23.0,7.0,2.0,0,2
+M,Analyst,24.0,47598,Marketing,20.0,10.0,2.0,1,3
+F,Analyst,24.0,45447,IT,16.0,14.0,2.0,0,3
+M,Analyst,23.0,42213,Web,21.0,9.0,4.0,0,3
+M,Analyst,21.0,44397,IT,25.0,5.0,5.0,0,2
+F,Analyst,21.0,48801,Finance,23.0,7.0,3.0,0,2
+M,Analyst,25.0,47532,Marketing,24.0,6.0,2.0,1,3
+M,Senior Manager,37.0,184143,IT,19.0,11.0,4.0,12,2
+M,Manager,35.0,124154,IT,20.0,10.0,4.0,8,4
+M,Analyst,25.0,40786,IT,25.0,5.0,5.0,2,2
+M,Analyst,23.0,47080,Operations,21.0,9.0,5.0,0,3
+F,Analyst,25.0,46572,Web,16.0,14.0,3.0,1,3
+F,Analyst,24.0,42066,Management,29.0,1.0,5.0,1,3
+F,Associate,32.0,72598,Web,17.0,13.0,5.0,6,5
+F,Analyst,22.0,46506,Web,25.0,5.0,2.0,0,2
+F,Analyst,24.0,44733,Management,26.0,4.0,4.0,1,3
+M,Senior Analyst,26.0,53390,Marketing,20.0,10.0,5.0,2,4
+M,Analyst,22.0,46227,IT,15.0,15.0,3.0,0,2
+F,Analyst,23.0,46207,IT,17.0,13.0,4.0,0,2
+M,Senior Analyst,28.0,62243,Web,23.0,7.0,4.0,0,4
+M,Analyst,23.0,48479,Operations,15.0,15.0,4.0,0,3
+M,Analyst,23.0,48364,Finance,26.0,4.0,3.0,0,3
+F,Analyst,25.0,46564,Operations,25.0,5.0,4.0,3,2
+M,Analyst,21.0,48001,Operations,18.0,12.0,4.0,0,3
+M,Senior Analyst,25.0,55001,Operations,22.0,8.0,2.0,0,1
+F,Analyst,24.0,49901,Management,18.0,12.0,5.0,2,2
+M,Senior Analyst,25.0,65919,Marketing,19.0,11.0,5.0,2,3
+M,Senior Analyst,25.0,61353,IT,22.0,8.0,2.0,0,4
+F,Analyst,25.0,49321,Marketing,18.0,12.0,2.0,3,2
+M,Associate,31.0,93715,Web,25.0,5.0,4.0,6,2
+M,Analyst,23.0,41052,IT,15.0,15.0,5.0,1,2
+M,Analyst,24.0,46907,IT,29.0,1.0,3.0,0,3
+F,Analyst,22.0,45518,Web,25.0,5.0,3.0,0,2
+F,Analyst,23.0,43894,Web,25.0,5.0,5.0,0,2
+M,Analyst,25.0,48355,IT,19.0,11.0,3.0,1,3
+M,Analyst,22.0,47759,Management,15.0,15.0,3.0,0,2
+F,Analyst,25.0,40105,Marketing,27.0,3.0,3.0,1,3
+F,Senior Analyst,26.0,60014,Operations,24.0,6.0,5.0,1,4
+M,Analyst,21.0,44848,Finance,21.0,9.0,2.0,0,3
+M,Analyst,22.0,45103,Finance,19.0,11.0,4.0,0,3
+F,Associate,32.0,81191,Finance,15.0,15.0,5.0,4,3
+F,Analyst,22.0,45025,Marketing,15.0,15.0,5.0,0,2
+M,Analyst,21.0,41943,Finance,16.0,14.0,3.0,0,2
+F,Senior Analyst,27.0,50393,Management,28.0,2.0,2.0,0,4
+F,Analyst,22.0,42003,Web,25.0,5.0,4.0,0,3
+M,Analyst,22.0,42041,IT,24.0,6.0,2.0,0,2
+F,Analyst,25.0,44015,IT,24.0,6.0,3.0,1,3
+M,Manager,32.0,140916,Marketing,29.0,1.0,2.0,4,5
+M,Analyst,22.0,46173,Web,22.0,8.0,5.0,0,3
+M,Analyst,23.0,41701,Web,22.0,8.0,5.0,1,2
+M,Analyst,24.0,47465,Marketing,20.0,10.0,4.0,0,3
+F,Analyst,21.0,43986,IT,18.0,12.0,3.0,0,3
+F,Analyst,24.0,49670,Management,22.0,8.0,3.0,1,2
+F,Senior Manager,35.0,153111,Operations,19.0,11.0,4.0,6,5
+M,Analyst,23.0,47408,Finance,16.0,14.0,3.0,1,2
+M,Analyst,23.0,47629,Management,17.0,13.0,2.0,1,2
+F,Senior Analyst,28.0,68884,Operations,26.0,4.0,5.0,5,2
+F,Analyst,24.0,49849,Web,30.0,0.0,4.0,1,3
+M,Senior Analyst,25.0,68785,IT,16.0,14.0,4.0,1,2
+F,Analyst,21.0,48102,Finance,27.0,3.0,4.0,0,3
+M,Analyst,23.0,44610,Operations,29.0,1.0,5.0,0,3
+F,Analyst,25.0,46659,Finance,21.0,9.0,5.0,1,3
+M,Analyst,21.0,47781,IT,17.0,13.0,3.0,0,3
+F,Analyst,25.0,49942,Operations,23.0,7.0,3.0,2,2
+F,Manager,35.0,148606,Web,18.0,12.0,2.0,8,2
+F,Manager,33.0,110885,Web,21.0,9.0,2.0,5,3
+M,Analyst,22.0,45019,Web,28.0,2.0,2.0,0,2
+M,Analyst,22.0,41378,Marketing,22.0,8.0,3.0,0,3
+F,Analyst,21.0,42327,Management,25.0,5.0,2.0,0,2
+M,Senior Analyst,28.0,68446,Management,23.0,7.0,5.0,3,1
+M,Analyst,23.0,47764,IT,26.0,4.0,4.0,0,2
+M,Analyst,21.0,49905,Finance,22.0,8.0,5.0,0,2
+M,Director,45.0,253284,IT,15.0,15.0,2.0,23,2
+F,Analyst,22.0,49703,Operations,29.0,1.0,3.0,0,3
+F,Analyst,23.0,48049,Operations,22.0,8.0,5.0,1,2
+F,Analyst,25.0,43428,Management,19.0,11.0,5.0,2,2
+M,Senior Manager,35.0,185221,Operations,24.0,6.0,5.0,11,1
+F,Analyst,23.0,48969,Operations,29.0,1.0,4.0,1,2
+M,Analyst,23.0,45740,Web,30.0,0.0,5.0,1,1
+F,Analyst,23.0,46601,Web,21.0,9.0,5.0,0,3
+M,Analyst,23.0,45949,Finance,25.0,5.0,4.0,1,2
+M,Analyst,22.0,41861,Finance,22.0,8.0,3.0,0,3
+M,Analyst,23.0,42213,Web,21.0,9.0,4.0,0,3
+M,Senior Analyst,28.0,56772,Marketing,26.0,4.0,2.0,0,4
+F,Analyst,25.0,46052,Web,25.0,5.0,4.0,3,1
+F,Analyst,22.0,43483,Management,22.0,8.0,4.0,0,2
+M,Analyst,25.0,43860,Web,16.0,14.0,2.0,2,3
+F,Senior Analyst,28.0,61374,Web,24.0,6.0,3.0,3,3
+F,Analyst,24.0,48095,Operations,19.0,11.0,5.0,0,3
+M,Analyst,23.0,49592,Management,23.0,7.0,5.0,0,2
+M,Analyst,24.0,46942,Marketing,18.0,12.0,2.0,1,2
+F,Analyst,24.0,42333,Web,25.0,5.0,3.0,2,1
+F,Director,45.0,319141,Web,21.0,9.0,4.0,17,7
+F,Associate,29.0,91596,IT,20.0,10.0,2.0,3,5
+F,Analyst,21.0,40586,Web,26.0,4.0,4.0,0,2
+M,Analyst,24.0,49530,Finance,18.0,12.0,3.0,0,3
+F,Analyst,24.0,42583,Management,26.0,4.0,5.0,2,2
+F,Associate,29.0,92453,Management,29.0,1.0,3.0,4,5
+F,Associate,28.0,93659,Management,24.0,6.0,3.0,5,2
+M,Analyst,24.0,48222,Marketing,29.0,1.0,3.0,2,2
+M,Analyst,25.0,46319,Finance,26.0,4.0,3.0,2,2
+M,Analyst,24.0,45861,Operations,29.0,1.0,5.0,2,2
+F,Analyst,23.0,45481,Marketing,24.0,6.0,4.0,0,3
+F,Analyst,25.0,42008,IT,16.0,14.0,2.0,1,3
+M,Analyst,22.0,47850,IT,22.0,8.0,3.0,0,2
+M,Analyst,25.0,40113,Web,25.0,5.0,4.0,2,2
+M,Analyst,22.0,47525,IT,20.0,10.0,4.0,0,3
+M,Analyst,21.0,47685,IT,16.0,14.0,3.0,0,2
+F,Senior Analyst,25.0,64823,Management,25.0,5.0,2.0,1,1
+M,Analyst,23.0,40414,Management,23.0,7.0,2.0,1,2
+F,Analyst,22.0,40572,IT,16.0,14.0,5.0,0,1
+F,Analyst,25.0,46350,Finance,22.0,8.0,5.0,2,2
+M,Associate,28.0,93529,Management,25.0,5.0,3.0,3,3
+M,Senior Analyst,25.0,63647,Web,16.0,14.0,2.0,0,4
+F,Manager,35.0,140401,Marketing,28.0,2.0,4.0,9,3
+F,Analyst,23.0,49141,IT,25.0,5.0,5.0,0,2
+M,Analyst,23.0,43670,IT,26.0,4.0,2.0,1,2
+M,Analyst,23.0,42553,Operations,25.0,5.0,5.0,0,3
+M,Analyst,22.0,46783,Operations,19.0,11.0,5.0,0,2
+M,Analyst,22.0,47146,Finance,29.0,1.0,5.0,0,3
+F,Analyst,22.0,48730,Management,23.0,7.0,2.0,0,2
+M,Analyst,22.0,40808,IT,17.0,13.0,2.0,0,2
+F,Analyst,25.0,40508,Management,17.0,13.0,4.0,1,3
+F,Analyst,22.0,45111,IT,27.0,3.0,5.0,0,3
+F,Analyst,23.0,47414,Web,17.0,13.0,5.0,1,2
+M,Senior Manager,39.0,161839,Marketing,25.0,5.0,4.0,11,4
+F,Associate,29.0,82993,Finance,29.0,1.0,5.0,5,2
+F,Analyst,25.0,43354,IT,27.0,3.0,4.0,1,3
+M,Analyst,24.0,47791,Web,29.0,1.0,2.0,1,3
+F,Senior Analyst,25.0,59115,Management,26.0,4.0,4.0,0,3
+F,Analyst,23.0,49830,Finance,21.0,9.0,2.0,0,3
+F,Analyst,24.0,46822,Operations,29.0,1.0,2.0,0,3
+F,Analyst,21.0,45321,Operations,19.0,11.0,5.0,0,3
+M,Analyst,22.0,48781,Web,16.0,14.0,4.0,0,2
+F,Analyst,25.0,49631,Marketing,20.0,10.0,3.0,2,3
+F,Analyst,25.0,46102,IT,29.0,1.0,5.0,1,3
+F,Analyst,25.0,46781,Management,26.0,4.0,3.0,1,3
+M,Analyst,24.0,46935,IT,30.0,0.0,5.0,1,2
+M,Analyst,24.0,41705,Operations,27.0,3.0,2.0,0,3
+M,Analyst,22.0,43434,Web,19.0,11.0,4.0,0,2
+M,Analyst,24.0,43726,Management,30.0,0.0,5.0,1,3
+M,Analyst,23.0,48443,Management,29.0,1.0,4.0,0,2
+F,Senior Analyst,28.0,50687,Management,23.0,7.0,5.0,5,2
+F,Analyst,25.0,42635,IT,18.0,12.0,3.0,2,3
+F,Analyst,25.0,41834,Finance,29.0,1.0,3.0,1,3
+F,Analyst,24.0,44028,Web,30.0,0.0,5.0,2,2
+M,Analyst,22.0,44787,Operations,28.0,2.0,5.0,0,3
+F,Senior Analyst,28.0,60183,Marketing,24.0,6.0,5.0,1,4
+M,Analyst,24.0,40594,IT,23.0,7.0,5.0,1,2
+M,Senior Analyst,27.0,53406,Web,27.0,3.0,3.0,3,2
+M,Analyst,24.0,40251,Operations,19.0,11.0,5.0,0,3
+F,Analyst,23.0,44551,Marketing,19.0,11.0,5.0,0,2
+M,Analyst,24.0,49525,Finance,29.0,1.0,4.0,2,2
+M,Analyst,21.0,43624,Web,16.0,14.0,4.0,0,2
+F,Analyst,25.0,41785,Finance,20.0,10.0,4.0,2,3
+M,Senior Analyst,27.0,52760,Operations,19.0,11.0,4.0,2,4
+F,Analyst,21.0,42143,Operations,15.0,15.0,4.0,0,2
+M,Senior Analyst,26.0,68067,Web,15.0,15.0,3.0,2,3
+F,Associate,30.0,87166,Operations,24.0,6.0,5.0,3,4
+M,Analyst,24.0,48519,IT,18.0,12.0,2.0,0,3
+M,Analyst,22.0,47013,Marketing,18.0,12.0,3.0,0,1
+M,Analyst,23.0,47131,IT,26.0,4.0,4.0,0,2
+M,Senior Analyst,26.0,67582,Management,23.0,7.0,5.0,3,2
+M,Analyst,21.0,48343,Web,30.0,0.0,4.0,0,3
+M,Analyst,21.0,44693,Web,28.0,2.0,2.0,0,3
+F,Analyst,22.0,47812,Operations,21.0,9.0,5.0,0,2
+F,Analyst,23.0,40690,Operations,30.0,0.0,2.0,1,1
+M,Senior Analyst,25.0,66311,Management,15.0,15.0,3.0,2,2
+F,Analyst,21.0,48587,IT,20.0,10.0,3.0,0,2
+F,Analyst,21.0,44467,Marketing,28.0,2.0,2.0,0,2
+F,Analyst,23.0,43172,Finance,17.0,13.0,3.0,1,2
+F,Analyst,23.0,44014,Web,22.0,8.0,2.0,0,3
+M,Analyst,23.0,44372,Marketing,29.0,1.0,4.0,0,3
+F,Analyst,22.0,47033,Finance,20.0,10.0,2.0,0,2
+F,Analyst,22.0,47990,Marketing,28.0,2.0,4.0,0,2
+F,Analyst,22.0,46452,Management,16.0,14.0,3.0,0,3
+M,Analyst,25.0,42826,Management,19.0,11.0,3.0,2,3
+F,Analyst,23.0,40846,IT,30.0,0.0,2.0,0,3
+F,Analyst,22.0,45036,Web,21.0,9.0,5.0,0,3
+M,Associate,28.0,71673,Finance,29.0,1.0,3.0,3,3
+M,Analyst,21.0,41386,Web,19.0,11.0,4.0,0,3
+M,Analyst,23.0,44094,Management,17.0,13.0,3.0,0,3
+M,Senior Analyst,28.0,67575,Finance,23.0,7.0,5.0,0,3
+F,Analyst,23.0,45156,IT,27.0,3.0,3.0,0,2
+M,Analyst,21.0,49686,Web,27.0,3.0,3.0,0,2
+M,Analyst,22.0,41032,Finance,20.0,10.0,3.0,0,2
+M,Associate,31.0,98715,Operations,27.0,3.0,5.0,5,5
+F,Senior Analyst,25.0,58773,Finance,28.0,2.0,5.0,2,2
+M,Analyst,22.0,41925,IT,24.0,6.0,2.0,0,2
+F,Analyst,25.0,43531,Web,24.0,6.0,4.0,3,2
+M,Analyst,22.0,42673,Operations,25.0,5.0,2.0,0,3
+M,Analyst,22.0,49618,Operations,30.0,0.0,5.0,0,3
+F,Senior Analyst,27.0,69643,Marketing,16.0,14.0,4.0,3,3
+F,Senior Analyst,26.0,59262,Web,18.0,12.0,2.0,0,2
+M,Analyst,25.0,41583,IT,15.0,15.0,5.0,3,1
+F,Analyst,21.0,40415,Marketing,28.0,2.0,3.0,0,2
+F,Analyst,24.0,42416,Web,22.0,8.0,5.0,0,3
+M,Associate,31.0,87324,Marketing,16.0,14.0,2.0,5,2
+F,Associate,28.0,84967,Web,29.0,1.0,2.0,0,5
+F,Analyst,24.0,41869,Management,24.0,6.0,5.0,0,3
+F,Analyst,21.0,43481,Operations,29.0,1.0,5.0,0,3
+F,Senior Analyst,28.0,54166,Web,15.0,15.0,4.0,2,4
+M,Analyst,25.0,47649,Finance,20.0,10.0,3.0,3,2
+F,Manager,33.0,119673,Marketing,27.0,3.0,2.0,5,6
+F,Analyst,21.0,47431,Web,22.0,8.0,3.0,0,2
+F,Analyst,23.0,48014,Marketing,15.0,15.0,2.0,0,2
+F,Analyst,22.0,49686,Management,28.0,2.0,2.0,0,3
+F,Analyst,23.0,46043,IT,26.0,4.0,2.0,1,2
+M,Analyst,25.0,46110,Management,29.0,1.0,2.0,1,3
+F,Senior Analyst,27.0,62307,Web,26.0,4.0,2.0,0,3
+M,Analyst,21.0,49627,Web,18.0,12.0,3.0,0,2
+M,Analyst,25.0,44882,Operations,28.0,2.0,3.0,2,2
+M,Manager,34.0,144573,IT,25.0,5.0,5.0,10,3
+M,Senior Manager,37.0,164773,Web,30.0,0.0,5.0,13,3
+M,Senior Analyst,26.0,67735,Marketing,27.0,3.0,5.0,0,3
+M,Analyst,23.0,44964,Marketing,26.0,4.0,3.0,0,3
+F,Analyst,21.0,41476,Marketing,30.0,0.0,2.0,0,3
+F,Analyst,25.0,40251,Finance,18.0,12.0,2.0,1,3
+M,Associate,31.0,97830,IT,25.0,5.0,2.0,2,5
+M,Analyst,24.0,42797,Operations,26.0,4.0,3.0,1,2
+M,Analyst,22.0,43173,IT,20.0,10.0,2.0,0,2
+F,Analyst,25.0,47683,IT,29.0,1.0,4.0,3,2
+F,Senior Manager,38.0,196757,IT,21.0,9.0,4.0,7,6
+F,Analyst,23.0,42075,Operations,24.0,6.0,4.0,0,3
+M,Analyst,22.0,43353,Web,19.0,11.0,3.0,0,2
+M,Analyst,22.0,43923,Finance,19.0,11.0,4.0,0,3
+F,Analyst,24.0,43605,Operations,24.0,6.0,5.0,0,3
+F,Analyst,22.0,41262,Marketing,21.0,9.0,3.0,0,3
+M,Analyst,21.0,48056,Management,23.0,7.0,3.0,0,3
+F,Analyst,24.0,46584,Finance,15.0,15.0,3.0,1,2
+M,Analyst,21.0,42651,Finance,20.0,10.0,4.0,0,3
+M,Analyst,23.0,42465,Marketing,22.0,8.0,3.0,0,3
+M,Analyst,24.0,42453,Operations,22.0,8.0,2.0,0,3
+M,Analyst,21.0,46026,Management,23.0,7.0,3.0,0,2
+M,Analyst,24.0,49581,Management,18.0,12.0,5.0,1,2
+F,Analyst,22.0,41729,IT,27.0,3.0,5.0,0,3
+M,Senior Analyst,27.0,56977,Marketing,20.0,10.0,2.0,2,3
+M,Senior Manager,37.0,166335,Management,21.0,9.0,4.0,11,4
+M,Manager,35.0,135653,Finance,29.0,1.0,2.0,7,6
+F,Associate,30.0,98057,Management,18.0,12.0,5.0,6,2
+M,Senior Analyst,28.0,54184,Web,15.0,15.0,2.0,4,2
+M,Analyst,25.0,49953,Finance,22.0,8.0,3.0,3,2
+F,Senior Analyst,25.0,52113,Marketing,15.0,15.0,3.0,0,2
+M,Analyst,24.0,44983,Management,30.0,0.0,3.0,1,3
+F,Analyst,22.0,45057,Management,26.0,4.0,4.0,0,1
+M,Analyst,23.0,46985,Web,23.0,7.0,4.0,0,3
+M,Analyst,24.0,41846,Management,28.0,2.0,4.0,1,2
+M,Senior Analyst,26.0,65880,Management,25.0,5.0,5.0,0,4
+F,Associate,32.0,79721,Marketing,24.0,6.0,5.0,6,4
+F,Analyst,23.0,45636,Marketing,25.0,5.0,4.0,1,2
+F,Analyst,24.0,41609,Management,21.0,9.0,2.0,2,2
+F,Senior Analyst,27.0,69643,Marketing,16.0,14.0,4.0,3,3
+F,Analyst,25.0,47178,Management,24.0,6.0,3.0,2,2
+M,Senior Analyst,25.0,50739,IT,25.0,5.0,3.0,0,2
+M,Analyst,23.0,40331,Finance,18.0,12.0,2.0,0,2
+M,Senior Analyst,25.0,57997,Operations,28.0,2.0,4.0,2,2
+F,Analyst,25.0,46514,Web,28.0,2.0,2.0,2,2
+F,Analyst,22.0,41164,Management,22.0,8.0,4.0,0,3
+M,Analyst,25.0,40140,Marketing,30.0,0.0,4.0,1,3
+M,Analyst,21.0,46116,Marketing,29.0,1.0,4.0,0,3
+F,Analyst,25.0,49111,IT,28.0,2.0,5.0,2,2
+F,Analyst,24.0,47782,Management,25.0,5.0,5.0,2,2
+M,Analyst,25.0,44022,IT,15.0,15.0,4.0,2,2
+M,Analyst,22.0,41468,Operations,18.0,12.0,3.0,0,2
+F,Analyst,21.0,40142,Web,26.0,4.0,4.0,0,2
+F,Senior Manager,37.0,151618,Marketing,16.0,14.0,3.0,10,3
+M,Senior Analyst,28.0,66022,IT,24.0,6.0,2.0,1,2
+F,Analyst,25.0,47746,IT,21.0,9.0,5.0,1,3
+M,Analyst,22.0,48101,Marketing,16.0,14.0,4.0,0,3
+F,Analyst,23.0,45028,Management,30.0,0.0,2.0,0,3
+F,Analyst,24.0,43461,IT,20.0,10.0,5.0,1,2
+M,Analyst,21.0,43726,Finance,29.0,1.0,2.0,0,2
+M,Analyst,25.0,49310,Marketing,16.0,14.0,2.0,2,2
+M,Analyst,23.0,44925,IT,21.0,9.0,2.0,0,2
+F,Senior Manager,39.0,187426,IT,21.0,9.0,5.0,13,4
+F,Analyst,22.0,47430,Operations,17.0,13.0,3.0,0,3
+F,Analyst,21.0,44312,Marketing,22.0,8.0,3.0,0,2
+F,Analyst,25.0,40271,IT,25.0,5.0,4.0,2,2
+F,Analyst,21.0,45105,Marketing,17.0,13.0,3.0,0,3
+F,Analyst,24.0,45174,Finance,18.0,12.0,5.0,1,3
+M,Analyst,24.0,49908,Web,24.0,6.0,4.0,1,2
+F,Analyst,22.0,44591,Management,15.0,15.0,4.0,0,3
+M,Analyst,22.0,40054,IT,26.0,4.0,3.0,0,2
+F,Analyst,21.0,48773,Finance,24.0,6.0,2.0,0,2
+F,Analyst,24.0,41685,Finance,30.0,0.0,2.0,2,2
+F,Analyst,23.0,49026,Operations,30.0,0.0,4.0,0,3
+M,Associate,30.0,71873,IT,27.0,3.0,5.0,3,2
+F,Analyst,22.0,46078,Operations,15.0,15.0,3.0,0,3
+F,Analyst,23.0,47936,Finance,26.0,4.0,5.0,0,3
+F,Analyst,24.0,41653,Marketing,19.0,11.0,5.0,2,2
+M,Analyst,23.0,49265,IT,29.0,1.0,3.0,0,2
+M,Analyst,21.0,43315,Management,29.0,1.0,3.0,0,2
+F,Analyst,22.0,43569,Finance,27.0,3.0,2.0,0,2
+F,Manager,32.0,122535,IT,24.0,6.0,4.0,5,3
+M,Analyst,23.0,45606,Finance,20.0,10.0,4.0,1,2
+M,Analyst,23.0,40300,Marketing,20.0,10.0,2.0,1,2
+F,Analyst,21.0,44956,Web,28.0,2.0,2.0,0,2
+M,Analyst,22.0,40562,Marketing,29.0,1.0,2.0,0,3
+M,Analyst,22.0,45155,Web,25.0,5.0,5.0,0,2
+M,Analyst,23.0,45531,Operations,26.0,4.0,4.0,0,2
+F,Analyst,25.0,44618,Management,28.0,2.0,3.0,1,3
+F,Analyst,24.0,46823,Finance,27.0,3.0,3.0,1,3
+M,Analyst,25.0,48268,Finance,23.0,7.0,4.0,2,3
+M,Analyst,22.0,43807,IT,24.0,6.0,4.0,0,1
+F,Analyst,23.0,47160,Web,20.0,10.0,4.0,1,2
+F,Analyst,22.0,42519,IT,16.0,14.0,2.0,0,2
+F,Analyst,21.0,47297,Management,21.0,9.0,5.0,0,3
+M,Senior Manager,37.0,153246,Marketing,18.0,12.0,5.0,11,3
+M,Analyst,21.0,45122,Finance,16.0,14.0,2.0,0,2
+F,Analyst,25.0,46152,Operations,19.0,11.0,3.0,2,3
+M,Associate,28.0,90802,Finance,17.0,13.0,2.0,3,4
+F,Analyst,22.0,47788,Operations,15.0,15.0,3.0,0,3
+M,Analyst,22.0,46218,Management,28.0,2.0,2.0,0,2
+F,Analyst,21.0,40398,Operations,19.0,11.0,3.0,0,2
+M,Analyst,24.0,40267,IT,17.0,13.0,4.0,0,3
+M,Analyst,25.0,46965,Management,30.0,0.0,3.0,2,3
+F,Analyst,22.0,41071,Management,28.0,2.0,5.0,0,3
+M,Analyst,25.0,40261,IT,24.0,6.0,2.0,3,1
+F,Analyst,25.0,40270,IT,17.0,13.0,5.0,3,2
+F,Analyst,21.0,42148,Management,29.0,1.0,2.0,0,2
+M,Analyst,22.0,43671,Management,18.0,12.0,5.0,0,2
+M,Analyst,22.0,42469,Management,19.0,11.0,3.0,0,3
+M,Analyst,23.0,47979,Finance,16.0,14.0,5.0,0,2
+F,Analyst,21.0,46370,Operations,23.0,7.0,2.0,0,2
+M,Analyst,25.0,44273,Web,29.0,1.0,5.0,2,2
+F,Manager,32.0,129647,Marketing,16.0,14.0,5.0,8,3
+M,Analyst,22.0,41316,Finance,15.0,15.0,2.0,0,2
+F,Analyst,22.0,43159,Web,25.0,5.0,5.0,0,1
+F,Senior Analyst,26.0,56300,IT,15.0,15.0,2.0,3,3
+F,Analyst,24.0,40236,IT,26.0,4.0,5.0,2,2
+M,Analyst,23.0,44730,Finance,19.0,11.0,3.0,1,1
+M,Associate,32.0,78311,Marketing,30.0,0.0,3.0,7,4
+M,Analyst,22.0,45875,Web,18.0,12.0,2.0,0,3
+M,Senior Analyst,27.0,65600,IT,24.0,6.0,4.0,3,2
+M,Analyst,21.0,46851,Operations,16.0,14.0,4.0,0,3
+M,Manager,34.0,114337,Finance,27.0,3.0,4.0,9,1
+F,Analyst,22.0,45527,Marketing,30.0,0.0,5.0,0,3
+F,Associate,31.0,83091,Web,28.0,2.0,3.0,2,5
+F,Analyst,21.0,40244,IT,22.0,8.0,3.0,0,2
+F,Analyst,24.0,49315,Operations,25.0,5.0,5.0,1,2
+M,Analyst,25.0,45461,Marketing,25.0,5.0,2.0,2,2
+F,Senior Analyst,25.0,59425,Finance,21.0,9.0,2.0,0,4
+F,Analyst,21.0,41966,IT,27.0,3.0,3.0,0,2
+M,Analyst,25.0,43938,Web,25.0,5.0,2.0,3,2
+F,Analyst,21.0,41759,Management,28.0,2.0,2.0,0,2
+M,Senior Manager,36.0,171056,IT,22.0,8.0,3.0,10,3
+M,Analyst,25.0,40214,Finance,29.0,1.0,2.0,2,2
+F,Analyst,25.0,43148,Operations,27.0,3.0,2.0,2,2
+M,Analyst,21.0,48074,Web,15.0,15.0,2.0,0,2
+F,Analyst,23.0,45561,Web,16.0,14.0,4.0,0,3
+F,Analyst,23.0,42987,Marketing,29.0,1.0,4.0,0,3
+F,Analyst,24.0,44125,Web,27.0,3.0,2.0,1,2
+M,Analyst,23.0,45790,Management,27.0,3.0,2.0,0,2
+F,Analyst,23.0,47807,Management,26.0,4.0,2.0,1,2
+F,Analyst,24.0,44763,Web,18.0,12.0,2.0,0,3
+M,Analyst,24.0,41516,Operations,28.0,2.0,2.0,2,2
+M,Analyst,25.0,49764,Operations,28.0,2.0,4.0,2,2
+F,Analyst,23.0,48892,Marketing,16.0,14.0,3.0,1,2
+F,Analyst,23.0,49248,Operations,26.0,4.0,3.0,0,3
+M,Analyst,25.0,45818,Marketing,21.0,9.0,2.0,2,3
+M,Analyst,24.0,45675,Finance,25.0,5.0,2.0,0,3
+M,Analyst,23.0,45744,IT,23.0,7.0,2.0,1,2
+M,Analyst,25.0,43418,Management,20.0,10.0,5.0,2,2
+F,Analyst,21.0,43601,IT,26.0,4.0,2.0,0,3
+F,Senior Analyst,26.0,66908,IT,17.0,13.0,4.0,1,3
+F,Analyst,23.0,47667,Marketing,28.0,2.0,4.0,0,3
+M,Analyst,24.0,48689,IT,29.0,1.0,2.0,1,2
+M,Analyst,22.0,45633,Management,26.0,4.0,5.0,0,3
+F,Analyst,25.0,48287,Management,15.0,15.0,3.0,2,2
+M,Analyst,25.0,49459,Marketing,30.0,0.0,3.0,3,2
+F,Analyst,24.0,48222,Operations,15.0,15.0,5.0,1,3
+M,Analyst,25.0,47590,IT,16.0,14.0,4.0,3,2
+M,Analyst,25.0,41166,Finance,21.0,9.0,2.0,3,2
+M,Analyst,25.0,42064,Operations,19.0,11.0,3.0,1,3
+M,Analyst,24.0,44557,Management,15.0,15.0,2.0,2,2
+F,Associate,28.0,87171,Finance,29.0,1.0,3.0,2,3
+F,Analyst,22.0,41053,Marketing,26.0,4.0,3.0,0,2
+M,Analyst,23.0,41320,Finance,22.0,8.0,5.0,0,3
+F,Analyst,24.0,49662,Finance,15.0,15.0,2.0,1,2
+M,Analyst,21.0,42476,Management,23.0,7.0,2.0,0,1
+M,Senior Analyst,27.0,51380,Finance,20.0,10.0,5.0,5,2
+F,Analyst,24.0,42344,Marketing,17.0,13.0,4.0,2,2
+M,Analyst,24.0,47714,Marketing,22.0,8.0,2.0,1,3
+M,Analyst,24.0,44406,Operations,23.0,7.0,4.0,1,2
+F,Analyst,25.0,42214,Finance,18.0,12.0,5.0,3,2
+M,Analyst,21.0,46813,Marketing,18.0,12.0,3.0,0,2
+F,Analyst,23.0,48406,Operations,27.0,3.0,2.0,1,2
+F,Analyst,22.0,41265,Web,29.0,1.0,4.0,0,3
+F,Analyst,21.0,43539,Web,25.0,5.0,2.0,0,3
+M,Analyst,24.0,43875,Finance,23.0,7.0,4.0,0,3
+M,Analyst,23.0,44814,Marketing,28.0,2.0,4.0,0,3
+F,Analyst,24.0,40961,Management,22.0,8.0,5.0,1,3
+M,Associate,31.0,91165,Management,28.0,2.0,5.0,9,2
+M,Analyst,24.0,48354,Management,29.0,1.0,5.0,1,3
+M,Associate,31.0,82514,Finance,28.0,2.0,2.0,5,4
+M,Analyst,24.0,42303,Management,16.0,14.0,4.0,1,2
+M,Analyst,21.0,40424,IT,29.0,1.0,4.0,0,2
+F,Analyst,23.0,47591,Marketing,29.0,1.0,3.0,0,2
+M,Analyst,23.0,42490,IT,24.0,6.0,4.0,1,2
+M,Manager,35.0,135858,Management,28.0,2.0,5.0,8,5
+F,Analyst,23.0,43783,Web,27.0,3.0,3.0,0,2
+M,Analyst,25.0,46386,IT,22.0,8.0,3.0,1,3
+M,Analyst,24.0,41781,Web,23.0,7.0,5.0,2,2
+F,Senior Analyst,27.0,64636,Web,26.0,4.0,3.0,1,3
+M,Analyst,24.0,41069,Operations,26.0,4.0,4.0,0,3
+M,Analyst,22.0,45481,Management,24.0,6.0,3.0,0,2
+M,Analyst,21.0,42473,Operations,30.0,0.0,5.0,0,2
+M,Senior Analyst,28.0,55949,Finance,20.0,10.0,2.0,0,4
+F,Analyst,25.0,47237,Management,23.0,7.0,2.0,2,3
+M,Analyst,22.0,49213,Marketing,28.0,2.0,5.0,0,2
+M,Analyst,23.0,45289,Management,20.0,10.0,4.0,0,3
+M,Analyst,24.0,47142,Management,18.0,12.0,4.0,2,1
+M,Analyst,25.0,41777,Operations,30.0,0.0,3.0,1,3
+M,Analyst,22.0,44478,Web,19.0,11.0,4.0,0,2
+F,Analyst,25.0,45128,IT,18.0,12.0,3.0,2,3
+F,Analyst,22.0,48959,Marketing,29.0,1.0,2.0,0,3
+F,Senior Analyst,25.0,52009,Marketing,16.0,14.0,4.0,3,2
+M,Analyst,25.0,46697,IT,21.0,9.0,5.0,2,3
+F,Analyst,25.0,43009,Operations,19.0,11.0,2.0,1,3
+M,Analyst,24.0,49928,Operations,28.0,2.0,5.0,1,2
+M,Associate,29.0,93342,Management,18.0,12.0,4.0,3,2
+M,Analyst,22.0,42886,Operations,25.0,5.0,5.0,0,2
+M,Analyst,23.0,46693,IT,20.0,10.0,3.0,0,3
+F,Analyst,21.0,43677,Marketing,16.0,14.0,3.0,0,3
+M,Senior Analyst,26.0,52792,Marketing,27.0,3.0,3.0,0,4
+F,Analyst,25.0,49300,Marketing,17.0,13.0,3.0,1,3
+M,Analyst,22.0,45538,IT,23.0,7.0,3.0,0,1
+F,Analyst,22.0,45538,Finance,20.0,10.0,4.0,0,3
+M,Associate,32.0,88539,Management,26.0,4.0,5.0,8,2
+F,Analyst,25.0,46847,Finance,15.0,15.0,2.0,3,2
+F,Analyst,24.0,47248,Marketing,28.0,2.0,3.0,2,2
+M,Analyst,22.0,43511,IT,29.0,1.0,3.0,0,2
+M,Associate,28.0,98506,Operations,20.0,10.0,3.0,2,2
+M,Senior Analyst,28.0,63841,Web,21.0,9.0,5.0,0,4
+F,Analyst,23.0,46990,Finance,19.0,11.0,2.0,0,3
+M,Senior Analyst,28.0,69432,Finance,19.0,11.0,4.0,4,3
+M,Analyst,23.0,47469,Operations,18.0,12.0,4.0,0,2
+M,Senior Analyst,27.0,69231,Marketing,16.0,14.0,2.0,0,4
+M,Analyst,24.0,49689,Marketing,27.0,3.0,5.0,1,2
+F,Analyst,25.0,47786,Finance,15.0,15.0,4.0,3,2
+F,Analyst,24.0,46116,Management,28.0,2.0,2.0,2,2
+M,Analyst,23.0,42481,IT,30.0,0.0,2.0,0,3
+F,Analyst,25.0,48484,Management,29.0,1.0,2.0,3,2
+F,Analyst,23.0,47216,IT,26.0,4.0,3.0,0,3
+M,Associate,32.0,86819,Finance,15.0,15.0,3.0,7,3
+M,Senior Analyst,25.0,55885,Marketing,30.0,0.0,4.0,0,2
+F,Senior Manager,39.0,177412,Web,17.0,13.0,2.0,14,1
+F,Senior Analyst,26.0,69716,Marketing,20.0,10.0,2.0,4,2
+F,Analyst,22.0,49831,Web,21.0,9.0,5.0,0,1
+M,Analyst,24.0,48410,Marketing,24.0,6.0,3.0,2,2
+M,Analyst,21.0,47201,Management,26.0,4.0,4.0,0,2
+M,Analyst,22.0,42384,IT,29.0,1.0,5.0,0,3
+M,Analyst,22.0,40808,IT,17.0,13.0,2.0,0,2
+M,Analyst,21.0,44657,Web,18.0,12.0,2.0,0,3
+M,Analyst,21.0,46142,Marketing,28.0,2.0,4.0,0,3
+M,Associate,29.0,92590,Operations,26.0,4.0,4.0,3,4
+F,Analyst,23.0,45755,Marketing,20.0,10.0,4.0,0,3
+M,Analyst,22.0,44469,IT,28.0,2.0,5.0,0,2
+F,Analyst,22.0,44744,Web,27.0,3.0,5.0,0,3
+F,Senior Analyst,28.0,62659,IT,29.0,1.0,2.0,2,4
+M,Analyst,23.0,48317,IT,25.0,5.0,2.0,1,2
+F,Analyst,22.0,49444,Finance,22.0,8.0,5.0,0,3
+F,Senior Analyst,28.0,61787,Marketing,22.0,8.0,5.0,0,4
+M,Analyst,22.0,45179,Management,22.0,8.0,5.0,0,2
+M,Analyst,25.0,44428,Management,28.0,2.0,5.0,3,1
+F,Analyst,22.0,42819,Finance,25.0,5.0,5.0,0,2
+M,Senior Analyst,26.0,65110,IT,25.0,5.0,5.0,0,3
+M,Associate,28.0,93996,Operations,21.0,9.0,2.0,1,5
+F,Analyst,24.0,40406,IT,24.0,6.0,4.0,1,3
+F,Analyst,22.0,43923,Management,22.0,8.0,5.0,0,3
+F,Analyst,24.0,43121,Management,18.0,12.0,4.0,1,3
+M,Analyst,22.0,48246,Marketing,22.0,8.0,5.0,0,3
+F,Analyst,23.0,45389,Management,27.0,3.0,2.0,1,2
+M,Analyst,21.0,47668,Operations,29.0,1.0,2.0,0,3
+M,Senior Analyst,25.0,51747,Marketing,24.0,6.0,4.0,0,2
+M,Associate,28.0,86702,Operations,16.0,14.0,5.0,1,5
+F,Analyst,21.0,42132,Finance,24.0,6.0,2.0,0,2
+F,Senior Analyst,28.0,51640,Management,28.0,2.0,2.0,5,2
+F,Analyst,23.0,47755,Web,15.0,15.0,3.0,0,3
+F,Analyst,22.0,49660,Marketing,24.0,6.0,4.0,0,2
+F,Analyst,21.0,49826,Operations,17.0,13.0,3.0,0,1
+F,Analyst,21.0,46839,Marketing,17.0,13.0,3.0,0,3
+F,Analyst,21.0,48203,Web,24.0,6.0,2.0,0,3
+F,Analyst,23.0,48869,IT,21.0,9.0,4.0,1,2
+F,Senior Manager,36.0,181470,Finance,18.0,12.0,2.0,8,4
+F,Senior Analyst,26.0,69590,IT,22.0,8.0,3.0,0,3
+F,Analyst,22.0,45513,Operations,25.0,5.0,3.0,0,2
+F,Analyst,21.0,47769,Finance,21.0,9.0,5.0,0,3
+M,Analyst,25.0,48171,Management,18.0,12.0,2.0,3,2
+M,Analyst,23.0,45551,Management,17.0,13.0,2.0,0,3
+M,Analyst,22.0,49206,Marketing,24.0,6.0,2.0,0,2
+F,Associate,28.0,75658,Operations,27.0,3.0,4.0,4,4
+F,Analyst,21.0,40832,Management,17.0,13.0,5.0,0,3
+F,Analyst,23.0,47376,Web,25.0,5.0,3.0,0,2
+M,Analyst,23.0,44220,Web,25.0,5.0,4.0,0,3
+F,Senior Analyst,25.0,59246,Marketing,28.0,2.0,4.0,1,3
+F,Analyst,25.0,49559,Management,22.0,8.0,5.0,2,3
+F,Analyst,22.0,44806,Finance,27.0,3.0,4.0,0,3
+F,Analyst,22.0,49497,Web,19.0,11.0,4.0,0,2
+M,Analyst,23.0,40935,IT,19.0,11.0,5.0,1,2
+M,Analyst,23.0,48309,Operations,20.0,10.0,5.0,0,2
+M,Analyst,22.0,49108,Web,21.0,9.0,2.0,0,3
+F,Manager,35.0,143333,Operations,21.0,9.0,3.0,9,2
+M,Senior Analyst,26.0,52198,Web,25.0,5.0,5.0,4,2
+M,Analyst,25.0,41928,Marketing,27.0,3.0,3.0,1,3
+F,Senior Manager,35.0,167378,Operations,26.0,4.0,5.0,9,6
+M,Analyst,24.0,48164,Management,16.0,14.0,4.0,2,2
+F,Analyst,24.0,45450,Marketing,16.0,14.0,5.0,1,2
+M,Associate,32.0,78789,Marketing,28.0,2.0,2.0,4,5
+F,Analyst,22.0,44305,Finance,23.0,7.0,4.0,0,3
+M,Analyst,22.0,45148,Web,15.0,15.0,3.0,0,3
+M,Analyst,25.0,48915,Operations,17.0,13.0,2.0,2,2
+M,Analyst,21.0,45223,Marketing,30.0,0.0,3.0,0,2
+M,Analyst,25.0,45485,Web,18.0,12.0,5.0,3,1
+F,Manager,32.0,130749,Operations,28.0,2.0,5.0,7,3
+M,Senior Analyst,25.0,68290,Marketing,15.0,15.0,5.0,0,2
+F,Analyst,23.0,41421,IT,22.0,8.0,5.0,1,2
+F,Analyst,21.0,40363,IT,27.0,3.0,5.0,0,2
+M,Analyst,23.0,41904,Management,26.0,4.0,2.0,0,3
+F,Analyst,23.0,49449,Web,20.0,10.0,4.0,0,2
+M,Analyst,25.0,43794,IT,15.0,15.0,5.0,2,2
+F,Analyst,22.0,42102,Management,16.0,14.0,3.0,0,2
+M,Senior Analyst,28.0,54514,Management,16.0,14.0,3.0,3,2
+M,Analyst,24.0,43415,Marketing,19.0,11.0,4.0,1,3
+M,Analyst,25.0,43528,Marketing,15.0,15.0,4.0,1,3
+M,Analyst,22.0,47667,Operations,16.0,14.0,3.0,0,2
+M,Director,40.0,319742,IT,20.0,10.0,4.0,15,2
+M,Analyst,25.0,47477,Finance,16.0,14.0,4.0,2,3
+F,Analyst,24.0,44620,IT,24.0,6.0,4.0,1,3
+F,Senior Analyst,28.0,69772,Web,19.0,11.0,3.0,4,4
+M,Analyst,25.0,48355,IT,19.0,11.0,3.0,1,3
+M,Analyst,23.0,41455,Operations,16.0,14.0,4.0,0,2
+M,Analyst,24.0,48581,Operations,21.0,9.0,2.0,0,3
+F,Analyst,23.0,43959,Web,19.0,11.0,4.0,1,2
+M,Analyst,24.0,41287,Management,22.0,8.0,3.0,2,2
+M,Analyst,25.0,47183,IT,23.0,7.0,2.0,3,2
+F,Analyst,21.0,48546,IT,21.0,9.0,3.0,0,2
+F,Analyst,25.0,49773,IT,27.0,3.0,2.0,3,1
+F,Analyst,23.0,48772,Management,26.0,4.0,2.0,1,2
+F,Analyst,24.0,41104,Web,18.0,12.0,3.0,1,3
+F,Analyst,25.0,40553,Marketing,19.0,11.0,5.0,2,2
+F,Analyst,23.0,48272,Web,16.0,14.0,3.0,0,2
+M,Analyst,25.0,43438,Web,20.0,10.0,5.0,2,3
+M,Analyst,24.0,48181,Finance,22.0,8.0,4.0,1,3
+M,Analyst,21.0,45331,Finance,27.0,3.0,2.0,0,2
+M,Analyst,21.0,42458,Finance,27.0,3.0,3.0,0,2
+F,Senior Analyst,26.0,65875,IT,30.0,0.0,2.0,0,2
+F,Analyst,24.0,44108,Operations,27.0,3.0,3.0,2,2
+F,Analyst,23.0,46164,Finance,30.0,0.0,5.0,0,2
+F,Analyst,23.0,42493,IT,19.0,11.0,2.0,0,3
+M,Analyst,22.0,46883,Operations,25.0,5.0,5.0,0,3
+M,Analyst,23.0,48587,Management,17.0,13.0,4.0,0,3
+F,Analyst,24.0,40950,Management,23.0,7.0,5.0,0,3
+F,Senior Manager,36.0,190618,Operations,26.0,4.0,5.0,10,3
+F,Analyst,25.0,48784,Finance,29.0,1.0,3.0,2,2
+F,Analyst,24.0,44002,Finance,18.0,12.0,3.0,1,3
+F,Analyst,24.0,43597,Operations,19.0,11.0,2.0,0,3
+F,Senior Analyst,28.0,64432,Web,25.0,5.0,2.0,5,2
+F,Senior Analyst,28.0,68884,Operations,26.0,4.0,5.0,5,2
+F,Senior Analyst,25.0,50759,Marketing,16.0,14.0,2.0,1,2
+M,Senior Analyst,27.0,69301,Web,19.0,11.0,3.0,4,2
+F,Analyst,23.0,46217,Management,19.0,11.0,4.0,1,2
+M,Analyst,21.0,47261,Finance,21.0,9.0,5.0,0,3
+M,Analyst,22.0,48818,IT,17.0,13.0,2.0,0,3
+M,Analyst,22.0,48618,Web,16.0,14.0,2.0,0,3
+F,Associate,31.0,91316,Marketing,24.0,6.0,2.0,6,2
+M,Senior Manager,38.0,154106,Management,16.0,14.0,2.0,12,5
+M,Senior Manager,37.0,189307,Finance,18.0,12.0,3.0,12,3
+M,Analyst,22.0,44524,IT,21.0,9.0,5.0,0,2
+F,Analyst,25.0,40361,Web,24.0,6.0,3.0,2,2
+M,Analyst,22.0,44856,IT,26.0,4.0,4.0,0,2
+M,Manager,32.0,140762,Operations,29.0,1.0,2.0,6,4
+F,Analyst,25.0,47174,Management,19.0,11.0,3.0,3,2
+F,Analyst,22.0,47967,Finance,23.0,7.0,4.0,0,2
+F,Analyst,24.0,48441,IT,23.0,7.0,3.0,1,2
+F,Analyst,21.0,45425,Operations,29.0,1.0,2.0,0,2
+M,Analyst,23.0,41404,Finance,25.0,5.0,2.0,1,2
+M,Analyst,21.0,41743,Web,21.0,9.0,5.0,0,3
+F,Senior Analyst,25.0,52113,Marketing,15.0,15.0,3.0,0,2
+F,Analyst,24.0,43150,Marketing,15.0,15.0,4.0,1,3
+F,Analyst,22.0,40014,IT,16.0,14.0,3.0,0,3
+M,Senior Analyst,26.0,59121,Web,18.0,12.0,5.0,1,3
+M,Analyst,22.0,49418,Marketing,26.0,4.0,4.0,0,3
+M,Analyst,25.0,41357,Operations,21.0,9.0,3.0,2,3
+F,Analyst,21.0,45856,Operations,18.0,12.0,4.0,0,2
+F,Analyst,21.0,45316,IT,27.0,3.0,2.0,0,2
+M,Analyst,21.0,40332,IT,24.0,6.0,3.0,0,2
+F,Analyst,22.0,41673,Operations,15.0,15.0,4.0,0,2
+M,Analyst,25.0,45188,Management,29.0,1.0,3.0,2,2
+M,Analyst,23.0,47847,Marketing,15.0,15.0,3.0,0,3
+M,Analyst,25.0,48268,Finance,23.0,7.0,4.0,2,3
+M,Analyst,21.0,48427,Marketing,20.0,10.0,4.0,0,3
+M,Analyst,21.0,44774,Operations,29.0,1.0,2.0,0,3
+F,Analyst,22.0,42997,Web,24.0,6.0,2.0,0,2
+F,Analyst,21.0,48242,Operations,16.0,14.0,3.0,0,2
+M,Analyst,22.0,43356,Operations,25.0,5.0,4.0,0,3
+F,Analyst,22.0,46543,Web,25.0,5.0,2.0,0,2
+F,Analyst,24.0,41610,Web,17.0,13.0,4.0,0,3
+F,Analyst,22.0,41430,Management,24.0,6.0,2.0,0,2
+F,Analyst,24.0,46779,Web,26.0,4.0,3.0,2,2
+M,Analyst,25.0,40786,IT,24.0,6.0,5.0,2,3
+F,Analyst,25.0,49492,Operations,28.0,2.0,5.0,3,2
+M,Associate,30.0,93212,Web,28.0,2.0,3.0,2,5
+M,Analyst,23.0,47691,Web,17.0,13.0,4.0,1,2
+M,Analyst,21.0,48127,Marketing,19.0,11.0,3.0,0,3
+F,Analyst,23.0,42653,IT,18.0,12.0,4.0,1,2
+F,Analyst,21.0,49237,Web,22.0,8.0,3.0,0,2
+F,Analyst,24.0,49070,Operations,23.0,7.0,3.0,0,3
+M,Analyst,25.0,47843,Operations,27.0,3.0,5.0,2,2
+M,Senior Analyst,25.0,56181,Management,15.0,15.0,2.0,0,4
+F,Senior Manager,39.0,197246,Management,22.0,8.0,5.0,10,5
+F,Analyst,25.0,45986,Management,29.0,1.0,4.0,1,3
+F,Analyst,24.0,41500,Management,19.0,11.0,2.0,0,3
+F,Senior Analyst,25.0,60778,IT,29.0,1.0,5.0,0,3
+M,Analyst,21.0,41124,Operations,17.0,13.0,3.0,0,2
+M,Analyst,23.0,40669,Marketing,26.0,4.0,3.0,0,3
+M,Analyst,24.0,45278,Finance,23.0,7.0,3.0,0,3
+M,Analyst,25.0,45865,Management,23.0,7.0,4.0,2,2
+M,Analyst,24.0,42662,Management,24.0,6.0,3.0,1,2
+M,Senior Analyst,28.0,67796,IT,21.0,9.0,5.0,2,4
+F,Analyst,21.0,43669,Operations,29.0,1.0,5.0,0,3
+M,Analyst,21.0,48626,Marketing,27.0,3.0,2.0,0,2
+F,Analyst,24.0,45324,Marketing,29.0,1.0,4.0,2,2
+M,Analyst,21.0,49247,IT,30.0,0.0,3.0,0,2
+M,Analyst,23.0,42737,Finance,24.0,6.0,4.0,0,2
+M,Analyst,22.0,45545,Marketing,23.0,7.0,4.0,0,2
+F,Analyst,24.0,44212,Management,30.0,0.0,5.0,1,2
+M,Analyst,23.0,49736,Marketing,17.0,13.0,4.0,0,2
+M,Analyst,23.0,49512,IT,22.0,8.0,5.0,1,1
+M,Manager,32.0,104916,Operations,26.0,4.0,4.0,2,5
+F,Senior Analyst,27.0,67198,Marketing,20.0,10.0,3.0,5,2
+M,Analyst,25.0,42637,Web,25.0,5.0,5.0,1,3
+M,Analyst,21.0,45768,Web,30.0,0.0,3.0,0,3
+M,Analyst,25.0,43259,Finance,15.0,15.0,3.0,2,2
+F,Analyst,24.0,47050,Web,28.0,2.0,2.0,0,3
+M,Senior Analyst,26.0,68295,Operations,28.0,2.0,5.0,3,2
+M,Analyst,24.0,41506,Operations,19.0,11.0,5.0,0,3
+M,Analyst,22.0,42125,Management,24.0,6.0,5.0,0,2
+F,Senior Analyst,27.0,60827,Web,18.0,12.0,2.0,0,2
+M,Senior Analyst,26.0,61311,IT,29.0,1.0,3.0,1,2
+M,Analyst,24.0,41248,IT,21.0,9.0,2.0,1,3
+F,Analyst,22.0,47945,Marketing,22.0,8.0,2.0,0,2
+F,Senior Analyst,26.0,66908,IT,17.0,13.0,4.0,1,3
+F,Analyst,22.0,48959,Marketing,29.0,1.0,2.0,0,3
+M,Analyst,23.0,40240,IT,17.0,13.0,5.0,1,2
+F,Analyst,25.0,43615,Operations,30.0,0.0,5.0,2,3
+F,Analyst,25.0,46650,Web,15.0,15.0,3.0,2,2
+F,Analyst,23.0,48148,Operations,29.0,1.0,2.0,1,2
+M,Analyst,21.0,43939,Operations,21.0,9.0,4.0,0,3
+F,Analyst,23.0,40718,Marketing,15.0,15.0,5.0,0,2
+M,Analyst,24.0,47985,Management,20.0,10.0,5.0,0,3
+F,Analyst,21.0,44412,Operations,29.0,1.0,5.0,0,3
+F,Analyst,23.0,44832,Web,27.0,3.0,4.0,0,3
+F,Analyst,22.0,48161,IT,15.0,15.0,5.0,0,2
+M,Analyst,24.0,41981,Marketing,24.0,6.0,2.0,0,3
+M,Analyst,21.0,45477,Marketing,17.0,13.0,3.0,0,3
+M,Analyst,22.0,47890,Management,23.0,7.0,4.0,0,3
+F,Analyst,22.0,48736,Finance,15.0,15.0,2.0,0,3
+F,Analyst,21.0,47334,Operations,24.0,6.0,2.0,0,2
+F,Senior Analyst,27.0,61742,Web,18.0,12.0,5.0,0,4
+M,Analyst,21.0,48995,Management,26.0,4.0,3.0,0,2
+M,Analyst,22.0,47316,Web,20.0,10.0,4.0,0,2
+M,Analyst,25.0,45125,Management,16.0,14.0,4.0,1,3
+M,Analyst,22.0,49235,Marketing,19.0,11.0,4.0,0,3
+M,Manager,34.0,117726,IT,30.0,0.0,4.0,8,4
+M,Analyst,23.0,49095,Operations,29.0,1.0,3.0,1,2
+M,Associate,32.0,94212,Finance,24.0,6.0,4.0,8,3
+M,Analyst,25.0,42014,Finance,15.0,15.0,4.0,2,3
+F,Analyst,21.0,44193,Finance,19.0,11.0,2.0,0,1
+F,Analyst,22.0,46510,Operations,15.0,15.0,4.0,0,3
+F,Analyst,23.0,48482,Management,21.0,9.0,3.0,0,3
+F,Analyst,23.0,45715,Operations,17.0,13.0,2.0,0,2
+M,Analyst,24.0,46215,Finance,25.0,5.0,3.0,0,3
+F,Director,40.0,319407,Finance,28.0,2.0,5.0,12,5
+F,Analyst,22.0,40920,IT,29.0,1.0,5.0,0,2
+F,Analyst,25.0,48792,Management,24.0,6.0,4.0,2,2
+M,Analyst,21.0,43873,IT,23.0,7.0,5.0,0,2
+M,Analyst,24.0,45321,Operations,29.0,1.0,3.0,1,3
+M,Analyst,22.0,46848,Marketing,17.0,13.0,2.0,0,3
+F,Senior Analyst,25.0,50680,IT,15.0,15.0,5.0,0,4
+M,Analyst,22.0,46471,Finance,18.0,12.0,2.0,0,2
+F,Senior Analyst,28.0,57896,Marketing,18.0,12.0,4.0,0,4
+M,Analyst,24.0,45340,Finance,19.0,11.0,5.0,1,2
+M,Analyst,23.0,49873,Web,18.0,12.0,5.0,1,2
+F,Analyst,23.0,43257,IT,18.0,12.0,2.0,1,1
+M,Analyst,22.0,45062,Web,20.0,10.0,4.0,0,3
+F,Analyst,21.0,44513,Operations,22.0,8.0,4.0,0,2
+M,Analyst,25.0,44566,Marketing,28.0,2.0,5.0,3,2
+M,Analyst,23.0,40372,Management,21.0,9.0,2.0,0,3
+F,Senior Analyst,25.0,62595,Web,17.0,13.0,4.0,0,3
+F,Manager,32.0,124060,Finance,23.0,7.0,5.0,5,2
+M,Associate,32.0,90512,Marketing,19.0,11.0,3.0,3,5
+M,Analyst,25.0,41853,Finance,29.0,1.0,2.0,3,2
+F,Analyst,22.0,43548,Management,21.0,9.0,3.0,0,2
+M,Senior Analyst,28.0,59675,Finance,20.0,10.0,4.0,3,3
+F,Analyst,22.0,42398,IT,27.0,3.0,4.0,0,3
+M,Senior Analyst,28.0,61638,Finance,23.0,7.0,5.0,0,4
+M,Analyst,24.0,42791,IT,27.0,3.0,2.0,2,2
+F,Senior Analyst,26.0,64193,Finance,22.0,8.0,3.0,2,1
+F,Analyst,25.0,48366,Operations,26.0,4.0,5.0,1,3
+F,Analyst,25.0,48470,Operations,24.0,6.0,4.0,1,3
+F,Senior Analyst,27.0,60085,Web,17.0,13.0,4.0,0,4
+M,Senior Analyst,27.0,56430,Marketing,21.0,9.0,4.0,0,4
+F,Analyst,24.0,42910,Management,17.0,13.0,4.0,0,3
+M,Analyst,24.0,46265,IT,18.0,12.0,2.0,2,2
+F,Associate,28.0,90134,Operations,18.0,12.0,2.0,0,5
+F,Manager,33.0,126294,Operations,26.0,4.0,4.0,5,4
+F,Senior Analyst,25.0,56291,IT,30.0,0.0,3.0,1,2
+F,Senior Analyst,27.0,69329,Operations,18.0,12.0,4.0,1,2
+M,Associate,31.0,78274,Web,17.0,13.0,5.0,1,5
+F,Analyst,23.0,43681,Operations,17.0,13.0,3.0,0,2
+F,Senior Manager,36.0,179845,IT,27.0,3.0,3.0,6,6
+F,Analyst,21.0,49453,Web,19.0,11.0,5.0,0,2
+F,Analyst,21.0,44447,Marketing,16.0,14.0,4.0,0,2
+M,Senior Analyst,26.0,59121,Web,18.0,12.0,5.0,1,3
+F,Analyst,23.0,43319,Marketing,22.0,8.0,3.0,1,2
+M,Analyst,21.0,44837,IT,16.0,14.0,4.0,0,3
+F,Analyst,25.0,43380,IT,23.0,7.0,2.0,3,2
+F,Senior Analyst,27.0,57913,Finance,30.0,0.0,2.0,3,4
+F,Senior Analyst,25.0,64737,Marketing,30.0,0.0,5.0,1,3
+F,Analyst,22.0,46261,Marketing,21.0,9.0,5.0,0,3
+M,Analyst,23.0,41899,Finance,18.0,12.0,2.0,0,2
+F,Analyst,22.0,48624,Finance,29.0,1.0,4.0,0,3
+F,Associate,30.0,73718,IT,18.0,12.0,5.0,1,5
+F,Associate,30.0,92460,Marketing,27.0,3.0,3.0,1,5
+F,Analyst,24.0,44630,Finance,21.0,9.0,3.0,1,2
+M,Analyst,21.0,48067,Web,15.0,15.0,4.0,0,2
+F,Analyst,23.0,45927,Finance,15.0,15.0,3.0,0,3
+F,Analyst,24.0,43721,Operations,21.0,9.0,5.0,1,2
+F,Associate,32.0,91035,Operations,25.0,5.0,3.0,5,3
+F,Analyst,23.0,40264,Web,24.0,6.0,2.0,0,3
+F,Senior Analyst,25.0,66250,IT,19.0,11.0,5.0,0,4
+M,Analyst,24.0,44576,Finance,18.0,12.0,2.0,2,2
+F,Analyst,23.0,46927,Management,30.0,0.0,3.0,0,3
+M,Analyst,23.0,49712,IT,23.0,7.0,5.0,0,2
+F,Analyst,21.0,46772,Operations,30.0,0.0,4.0,0,2
+M,Manager,34.0,138812,Marketing,27.0,3.0,2.0,11,3
+M,Analyst,23.0,40196,Finance,23.0,7.0,5.0,1,1
+M,Senior Analyst,28.0,51084,Management,22.0,8.0,4.0,1,4
+F,Analyst,25.0,46927,Web,19.0,11.0,3.0,1,3
+F,Analyst,24.0,46349,Web,22.0,8.0,2.0,1,3
+F,Senior Analyst,26.0,50343,Finance,22.0,8.0,2.0,0,4
+F,Analyst,24.0,45507,Web,17.0,13.0,2.0,2,2
+F,Associate,30.0,81319,Finance,24.0,6.0,5.0,2,5
+M,Analyst,25.0,46322,Operations,27.0,3.0,3.0,1,3
+M,Analyst,23.0,42950,Management,17.0,13.0,2.0,0,3
+F,Analyst,24.0,48660,Web,29.0,1.0,5.0,2,2
+M,Analyst,24.0,41920,IT,22.0,8.0,3.0,1,3
+F,Analyst,21.0,47754,Web,21.0,9.0,2.0,0,3
+M,Analyst,21.0,42395,IT,18.0,12.0,4.0,0,3
+M,Analyst,22.0,44555,Web,26.0,4.0,3.0,0,2
+F,Analyst,25.0,44112,Management,15.0,15.0,5.0,3,1
+F,Analyst,22.0,46029,Web,23.0,7.0,3.0,0,2
+F,Analyst,21.0,47134,Marketing,20.0,10.0,5.0,0,3
+M,Analyst,23.0,47736,IT,27.0,3.0,4.0,1,2
+F,Analyst,23.0,45460,Marketing,18.0,12.0,3.0,0,3
+M,Senior Analyst,26.0,58872,IT,23.0,7.0,2.0,0,2
+M,Senior Analyst,27.0,69301,Web,19.0,11.0,3.0,4,2
+F,Analyst,25.0,48458,Finance,19.0,11.0,5.0,1,3
+M,Analyst,23.0,44178,IT,24.0,6.0,4.0,0,2
+F,Analyst,22.0,46261,Marketing,21.0,9.0,5.0,0,3
+F,Analyst,24.0,41045,Web,28.0,2.0,2.0,0,3
+M,Analyst,22.0,45193,IT,25.0,5.0,2.0,0,3
+M,Analyst,22.0,42853,Operations,17.0,13.0,4.0,0,3
+F,Analyst,24.0,49633,Management,24.0,6.0,4.0,0,3
+M,Analyst,23.0,45306,Operations,21.0,9.0,5.0,1,2
+M,Manager,34.0,100874,Finance,20.0,10.0,4.0,7,4
+F,Analyst,25.0,43909,Operations,17.0,13.0,4.0,2,2
+F,Senior Analyst,27.0,53275,Finance,16.0,14.0,4.0,4,3
+F,Analyst,21.0,43907,Finance,28.0,2.0,3.0,0,2
+M,Analyst,22.0,43733,IT,25.0,5.0,3.0,0,2
+F,Analyst,25.0,47464,IT,22.0,8.0,5.0,2,3
+F,Senior Analyst,28.0,58617,Management,24.0,6.0,4.0,5,3
+F,Analyst,23.0,41636,Marketing,17.0,13.0,2.0,1,2
+F,Analyst,25.0,42886,Finance,20.0,10.0,2.0,2,3
+M,Associate,30.0,89843,Operations,30.0,0.0,3.0,4,5
+F,Analyst,21.0,47018,Operations,30.0,0.0,3.0,0,3
+F,Analyst,24.0,40180,Management,23.0,7.0,3.0,2,2
+F,Senior Analyst,28.0,55790,Web,25.0,5.0,4.0,0,4
+M,Analyst,24.0,47194,Marketing,29.0,1.0,2.0,2,2
+M,Analyst,23.0,44799,Finance,25.0,5.0,3.0,1,2
+M,Analyst,21.0,49609,IT,30.0,0.0,2.0,0,2
+M,Analyst,25.0,48104,Marketing,22.0,8.0,4.0,1,3
+M,Analyst,25.0,43125,Operations,30.0,0.0,4.0,2,2
+M,Senior Analyst,26.0,60520,Finance,16.0,14.0,5.0,1,3
+M,Analyst,21.0,41124,Finance,18.0,12.0,3.0,0,2
+F,Analyst,24.0,47774,Management,15.0,15.0,4.0,0,3
+F,Analyst,22.0,47013,IT,21.0,9.0,2.0,0,2
+M,Associate,30.0,93212,Web,28.0,2.0,3.0,2,5
+M,Senior Manager,35.0,185205,Management,17.0,13.0,3.0,8,4
+M,Analyst,23.0,43777,Web,18.0,12.0,3.0,0,3
+M,Analyst,22.0,46703,Marketing,27.0,3.0,4.0,0,3
+F,Analyst,22.0,43189,Finance,28.0,2.0,2.0,0,3
+M,Analyst,22.0,48035,Operations,29.0,1.0,3.0,0,2
+M,Analyst,25.0,41866,IT,17.0,13.0,3.0,2,3
+M,Analyst,24.0,41466,IT,25.0,5.0,5.0,2,2
+F,Associate,32.0,97684,Management,26.0,4.0,4.0,6,2
+F,Senior Analyst,25.0,59398,Operations,23.0,7.0,3.0,0,4
+M,Analyst,23.0,46783,IT,17.0,13.0,2.0,1,2
+F,Analyst,23.0,48272,Web,16.0,14.0,3.0,0,2
+M,Analyst,22.0,43240,IT,22.0,8.0,4.0,0,3
+F,Analyst,23.0,40718,Marketing,15.0,15.0,5.0,0,2
+M,Analyst,22.0,48147,Operations,22.0,8.0,4.0,0,2
+F,Analyst,22.0,41929,IT,30.0,0.0,3.0,0,2
+F,Analyst,22.0,49937,Web,24.0,6.0,2.0,0,3
+F,Associate,29.0,97400,Operations,22.0,8.0,4.0,6,2
+M,Analyst,23.0,47203,Web,19.0,11.0,3.0,1,2
+M,Senior Manager,37.0,199060,IT,28.0,2.0,4.0,10,5
+F,Analyst,23.0,43900,Web,21.0,9.0,2.0,0,3
+M,Analyst,21.0,45964,Marketing,24.0,6.0,5.0,0,2
+M,Analyst,25.0,48823,Finance,26.0,4.0,3.0,2,3
+M,Analyst,21.0,43246,IT,29.0,1.0,2.0,0,2
+F,Analyst,25.0,42096,Web,26.0,4.0,4.0,1,3
+M,Analyst,24.0,46326,Finance,15.0,15.0,4.0,2,2
+M,Analyst,22.0,46367,Web,28.0,2.0,2.0,0,3
+M,Analyst,24.0,43949,Finance,17.0,13.0,2.0,1,2
+F,Analyst,23.0,46217,Management,19.0,11.0,4.0,1,2
+M,Analyst,22.0,49140,Finance,21.0,9.0,5.0,0,3
+F,Analyst,24.0,47109,Marketing,25.0,5.0,5.0,1,2
+M,Analyst,22.0,43210,Operations,23.0,7.0,3.0,0,3
+F,Analyst,21.0,40041,IT,19.0,11.0,3.0,0,2
+F,Analyst,21.0,43383,IT,26.0,4.0,3.0,0,3
+M,Associate,29.0,93279,Operations,26.0,4.0,4.0,3,2
+M,Analyst,23.0,44416,Operations,15.0,15.0,4.0,1,2
+M,Analyst,21.0,41741,Marketing,27.0,3.0,2.0,0,3
+F,Analyst,25.0,40238,Web,28.0,2.0,3.0,2,2
+F,Analyst,24.0,43429,Web,15.0,15.0,3.0,0,3
+M,Analyst,25.0,42830,Operations,25.0,5.0,2.0,3,1
+F,Analyst,23.0,42837,Marketing,23.0,7.0,3.0,1,2
+F,Senior Analyst,26.0,57169,IT,19.0,11.0,4.0,0,3
+M,Analyst,24.0,45754,IT,20.0,10.0,2.0,1,2
+M,Senior Analyst,28.0,52739,Finance,22.0,8.0,3.0,1,4
+F,Analyst,22.0,48360,IT,26.0,4.0,4.0,0,3
+F,Analyst,21.0,49610,Marketing,20.0,10.0,3.0,0,1
+F,Analyst,23.0,48672,Operations,28.0,2.0,2.0,1,2
+F,Analyst,23.0,41756,Finance,25.0,5.0,5.0,1,2
+M,Analyst,23.0,43051,Marketing,15.0,15.0,2.0,0,3
+F,Analyst,21.0,42895,Web,24.0,6.0,2.0,0,3
+M,Senior Analyst,25.0,50524,Marketing,15.0,15.0,5.0,0,2
+F,Analyst,25.0,45128,Web,20.0,10.0,5.0,3,2
+M,Manager,33.0,129334,Marketing,26.0,4.0,4.0,4,6
+F,Analyst,24.0,46291,Management,24.0,6.0,3.0,2,2
+F,Analyst,23.0,42455,Finance,23.0,7.0,4.0,0,2
+M,Associate,29.0,95039,Web,30.0,0.0,3.0,7,1
+F,Analyst,23.0,49437,Finance,23.0,7.0,2.0,0,3
+M,Analyst,22.0,45108,Finance,26.0,4.0,2.0,0,3
+M,Analyst,24.0,47577,Web,28.0,2.0,5.0,0,3
+F,Associate,29.0,98323,Operations,26.0,4.0,4.0,0,4
+F,Analyst,22.0,40780,Web,16.0,14.0,4.0,0,3
+M,Analyst,22.0,40001,Operations,22.0,8.0,2.0,0,2
+F,Analyst,21.0,46012,Marketing,24.0,6.0,4.0,0,3
+F,Analyst,23.0,45380,Management,30.0,0.0,4.0,0,3
+M,Associate,32.0,75288,Management,26.0,4.0,3.0,6,3
+F,Analyst,22.0,41729,IT,27.0,3.0,5.0,0,3
+M,Analyst,24.0,42376,IT,15.0,15.0,2.0,1,3
+F,Analyst,21.0,46734,Web,26.0,4.0,5.0,0,3
+M,Analyst,23.0,42345,Web,30.0,0.0,5.0,0,3
+F,Senior Analyst,28.0,62859,Finance,30.0,0.0,4.0,3,4
+F,Analyst,21.0,41564,Finance,29.0,1.0,5.0,0,3
+F,Analyst,25.0,48808,Web,23.0,7.0,5.0,3,1
+F,Analyst,25.0,42112,Operations,24.0,6.0,3.0,3,2
+F,Analyst,24.0,40310,Web,22.0,8.0,5.0,1,3
+F,Manager,34.0,128068,Finance,30.0,0.0,2.0,10,3
+M,Analyst,22.0,48587,Operations,28.0,2.0,3.0,0,3
+F,Associate,29.0,89965,Operations,26.0,4.0,5.0,1,4
+M,Analyst,25.0,47289,Marketing,22.0,8.0,5.0,3,2
+F,Analyst,21.0,46597,IT,28.0,2.0,3.0,0,3
+F,Associate,28.0,95938,Web,23.0,7.0,5.0,2,2
+F,Manager,35.0,148890,Marketing,21.0,9.0,4.0,8,5
+F,Analyst,21.0,40551,Operations,16.0,14.0,4.0,0,3
+F,Analyst,24.0,46127,Operations,15.0,15.0,2.0,0,3
+F,Senior Analyst,28.0,56518,Finance,19.0,11.0,4.0,4,4
+F,Analyst,22.0,43096,Management,26.0,4.0,5.0,0,2
+F,Analyst,21.0,48203,Web,24.0,6.0,2.0,0,3
+F,Analyst,21.0,48190,Management,28.0,2.0,3.0,0,3
+F,Associate,28.0,97478,IT,20.0,10.0,2.0,4,2
+F,Associate,28.0,76887,IT,26.0,4.0,2.0,2,4
+F,Analyst,24.0,45619,Finance,22.0,8.0,2.0,0,3
+F,Analyst,25.0,45754,Marketing,17.0,13.0,2.0,2,2
+M,Analyst,25.0,47573,Web,25.0,5.0,4.0,2,2
+M,Analyst,21.0,45485,Operations,27.0,3.0,2.0,0,3
+M,Senior Analyst,27.0,65806,Finance,21.0,9.0,2.0,1,3
+F,Analyst,24.0,48976,Finance,18.0,12.0,4.0,2,2
+M,Analyst,25.0,47530,Web,23.0,7.0,3.0,2,2
+F,Senior Analyst,28.0,52324,Operations,26.0,4.0,4.0,3,2
+M,Analyst,25.0,43563,Web,19.0,11.0,5.0,3,1
+M,Analyst,23.0,48788,Finance,25.0,5.0,5.0,0,3
+F,Analyst,21.0,48240,Operations,29.0,1.0,5.0,0,3
+M,Analyst,25.0,47881,Marketing,18.0,12.0,3.0,3,2
+F,Director,41.0,234374,IT,30.0,0.0,2.0,17,2
+M,Analyst,23.0,45822,Management,17.0,13.0,4.0,0,3
+M,Analyst,24.0,40318,IT,18.0,12.0,5.0,2,2
+M,Analyst,21.0,48155,Web,22.0,8.0,4.0,0,3
+F,Senior Analyst,25.0,51565,Marketing,16.0,14.0,4.0,1,3
+M,Analyst,24.0,40285,IT,24.0,6.0,2.0,1,3
+M,Analyst,21.0,40929,Web,17.0,13.0,3.0,0,1
+F,Analyst,22.0,45528,Operations,25.0,5.0,4.0,0,2
+F,Analyst,25.0,41203,Management,24.0,6.0,5.0,1,3
+F,Analyst,23.0,42864,Marketing,19.0,11.0,5.0,0,3
+F,Senior Analyst,26.0,62169,Web,30.0,0.0,5.0,1,3
+M,Director,44.0,294564,Web,24.0,6.0,5.0,13,7
+F,Associate,29.0,92774,IT,25.0,5.0,5.0,6,3
+F,Senior Analyst,26.0,61956,Finance,29.0,1.0,2.0,0,4
+M,Analyst,23.0,44076,Web,18.0,12.0,5.0,1,2
+F,Analyst,21.0,44948,Operations,28.0,2.0,3.0,0,3
+M,Analyst,24.0,46935,IT,18.0,12.0,2.0,2,2
+F,Analyst,25.0,41125,Marketing,16.0,14.0,3.0,2,2
+F,Analyst,22.0,46151,Operations,29.0,1.0,3.0,0,2
+M,Senior Analyst,25.0,55885,Marketing,30.0,0.0,4.0,0,2
+F,Analyst,21.0,42751,Finance,21.0,9.0,3.0,0,3
+F,Analyst,22.0,45487,IT,22.0,8.0,2.0,0,2
+F,Senior Analyst,25.0,60125,Finance,21.0,9.0,3.0,1,3
+F,Senior Analyst,26.0,52224,IT,19.0,11.0,3.0,3,2
+M,Analyst,23.0,42793,Marketing,24.0,6.0,3.0,0,3
+F,Analyst,24.0,48393,Finance,18.0,12.0,4.0,0,3
+F,Senior Analyst,28.0,60853,Management,26.0,4.0,4.0,4,4
+F,Analyst,23.0,44412,Management,17.0,13.0,5.0,0,2
+M,Analyst,22.0,45689,Finance,22.0,8.0,3.0,0,2
+M,Analyst,25.0,44354,Finance,24.0,6.0,3.0,1,3
+F,Senior Analyst,26.0,68026,Management,17.0,13.0,2.0,0,3
+F,Senior Analyst,25.0,56291,IT,30.0,0.0,3.0,1,2
+M,Analyst,25.0,47564,Operations,26.0,4.0,5.0,2,2
+M,Analyst,24.0,45344,Web,25.0,5.0,3.0,1,2
+M,Senior Manager,35.0,176158,Management,16.0,14.0,4.0,10,5
+F,Analyst,23.0,46414,IT,20.0,10.0,4.0,0,3
+F,Analyst,23.0,42962,Web,24.0,6.0,3.0,1,2
+M,Manager,32.0,137754,IT,27.0,3.0,5.0,6,5
+F,Analyst,21.0,43797,IT,15.0,15.0,5.0,0,2
+F,Analyst,22.0,44697,Marketing,24.0,6.0,4.0,0,3
+F,Analyst,23.0,44214,Web,23.0,7.0,4.0,0,2
+F,Analyst,23.0,42455,Finance,23.0,7.0,4.0,0,2
+F,Analyst,21.0,43393,Marketing,27.0,3.0,4.0,0,2
+M,Analyst,23.0,47157,Marketing,27.0,3.0,4.0,1,1
+F,Analyst,23.0,43172,Management,23.0,7.0,4.0,0,2
+F,Manager,34.0,106755,Finance,30.0,0.0,2.0,7,3
+F,Analyst,21.0,40902,IT,15.0,15.0,5.0,0,3
+F,Analyst,22.0,40013,Operations,24.0,6.0,3.0,0,2
+F,Analyst,25.0,43162,Management,23.0,7.0,3.0,1,3
+M,Analyst,23.0,46612,Operations,20.0,10.0,2.0,0,3
+F,Analyst,23.0,47633,Operations,19.0,11.0,5.0,0,2
+F,Analyst,22.0,47039,Marketing,24.0,6.0,2.0,0,2
+M,Analyst,25.0,48406,Web,30.0,0.0,5.0,2,3
+M,Analyst,22.0,42840,Operations,22.0,8.0,4.0,0,2
+F,Analyst,25.0,46896,Management,22.0,8.0,4.0,2,3
+F,Analyst,25.0,48362,Web,27.0,3.0,2.0,1,3
+F,Senior Manager,35.0,196857,IT,20.0,10.0,2.0,10,3
+F,Analyst,23.0,49432,Marketing,20.0,10.0,3.0,0,3
+F,Analyst,24.0,42672,Finance,23.0,7.0,4.0,1,2
+F,Analyst,25.0,44373,Marketing,20.0,10.0,5.0,3,2
+M,Senior Analyst,28.0,69223,Marketing,23.0,7.0,3.0,3,2
+F,Analyst,24.0,46349,Web,22.0,8.0,2.0,1,3
+F,Manager,32.0,138026,Web,26.0,4.0,2.0,4,4
+M,Analyst,25.0,44129,Web,15.0,15.0,2.0,2,2
+F,Analyst,25.0,47343,Web,25.0,5.0,3.0,2,2
+F,Analyst,22.0,42375,Management,21.0,9.0,2.0,0,2
+M,Analyst,25.0,45083,Operations,29.0,1.0,4.0,2,2
+F,Analyst,25.0,44202,Management,22.0,8.0,2.0,3,2
+M,Senior Analyst,27.0,59124,Marketing,26.0,4.0,2.0,1,4
+M,Senior Analyst,25.0,64913,Finance,29.0,1.0,4.0,0,4
+F,Manager,33.0,129305,Finance,15.0,15.0,2.0,7,5
+M,Analyst,25.0,47477,Management,28.0,2.0,3.0,3,2
+F,Senior Analyst,26.0,52287,Web,22.0,8.0,4.0,3,2
+F,Analyst,22.0,45527,IT,16.0,14.0,3.0,0,3
+F,Analyst,24.0,45769,IT,22.0,8.0,3.0,0,3
+M,Senior Manager,35.0,192623,Marketing,17.0,13.0,3.0,6,5
+M,Analyst,24.0,48497,Finance,22.0,8.0,3.0,0,3
+F,Analyst,22.0,48007,IT,16.0,14.0,4.0,0,2
+M,Analyst,24.0,41900,Web,24.0,6.0,4.0,1,2
+M,Analyst,25.0,47257,Finance,25.0,5.0,2.0,2,2
+M,Analyst,21.0,40818,Web,24.0,6.0,2.0,0,3
+M,Analyst,23.0,42981,Marketing,20.0,10.0,4.0,1,2
+M,Analyst,22.0,47677,Marketing,29.0,1.0,5.0,0,3
+M,Senior Analyst,27.0,60206,Finance,19.0,11.0,2.0,2,4
+M,Analyst,24.0,47439,Operations,17.0,13.0,4.0,2,1
+M,Analyst,25.0,42410,Finance,25.0,5.0,5.0,2,2
+M,Analyst,25.0,43194,Operations,30.0,0.0,2.0,3,2
+M,Analyst,25.0,48455,IT,24.0,6.0,2.0,2,3
+F,Senior Manager,39.0,180778,Finance,23.0,7.0,4.0,11,4
+M,Associate,32.0,75024,IT,29.0,1.0,3.0,3,4
+F,Analyst,22.0,40479,Operations,18.0,12.0,4.0,0,1
+F,Analyst,23.0,43436,Operations,23.0,7.0,3.0,1,2
+F,Senior Analyst,25.0,63959,Operations,21.0,9.0,2.0,0,4
+M,Senior Analyst,27.0,53517,Finance,19.0,11.0,3.0,3,4
+M,Associate,29.0,99521,Web,26.0,4.0,5.0,0,5
+F,Analyst,24.0,42897,Finance,17.0,13.0,2.0,0,3
+F,Analyst,21.0,44742,IT,26.0,4.0,5.0,0,2
+F,Analyst,24.0,43748,Finance,28.0,2.0,3.0,1,3
+F,Analyst,23.0,47571,IT,16.0,14.0,2.0,1,2
+F,Analyst,23.0,45816,Management,30.0,0.0,3.0,1,1
+F,Senior Manager,35.0,162639,IT,19.0,11.0,5.0,9,5
+F,Analyst,24.0,49470,Operations,29.0,1.0,4.0,1,2
+M,Analyst,21.0,48529,Web,19.0,11.0,5.0,0,2
+M,Analyst,24.0,43688,Operations,26.0,4.0,5.0,2,2
+F,Analyst,21.0,44104,Marketing,22.0,8.0,5.0,0,3
+M,Analyst,21.0,48295,Web,30.0,0.0,4.0,0,3
+F,Analyst,25.0,40634,IT,23.0,7.0,5.0,1,3
+F,Analyst,24.0,40486,Finance,22.0,8.0,5.0,1,3
+F,Analyst,24.0,45002,Operations,26.0,4.0,4.0,2,2
+F,Senior Analyst,28.0,64248,IT,17.0,13.0,4.0,4,4
+F,Analyst,21.0,48831,IT,30.0,0.0,3.0,0,3
+M,Associate,32.0,70154,Management,19.0,11.0,3.0,8,4
+M,Analyst,22.0,46479,Marketing,25.0,5.0,5.0,0,2
+M,Analyst,22.0,48587,Operations,28.0,2.0,3.0,0,3
+M,Analyst,23.0,40567,IT,26.0,4.0,2.0,0,3
+F,Analyst,22.0,42322,Finance,22.0,8.0,3.0,0,3
+F,Analyst,23.0,48179,IT,30.0,0.0,2.0,0,3
+M,Analyst,21.0,48082,IT,29.0,1.0,2.0,0,2
+F,Analyst,23.0,46343,Web,29.0,1.0,4.0,1,1
+M,Analyst,22.0,49974,Marketing,25.0,5.0,2.0,0,3
+F,Analyst,22.0,45229,Operations,17.0,13.0,5.0,0,3
+M,Analyst,21.0,44160,Web,22.0,8.0,2.0,0,2
+M,Analyst,23.0,44371,Finance,22.0,8.0,2.0,0,3
+M,Analyst,24.0,46820,IT,23.0,7.0,2.0,1,2
+M,Analyst,21.0,40327,Finance,28.0,2.0,4.0,0,3
+M,Analyst,22.0,43481,Management,15.0,15.0,4.0,0,2
+F,Analyst,22.0,42720,Web,24.0,6.0,4.0,0,3
+F,Senior Manager,38.0,172445,Operations,18.0,12.0,4.0,11,4
+F,Analyst,22.0,42839,Finance,28.0,2.0,5.0,0,3
+F,Analyst,23.0,49052,IT,26.0,4.0,5.0,1,2
+M,Senior Analyst,25.0,59481,Web,28.0,2.0,2.0,1,3
+F,Analyst,24.0,47150,Web,28.0,2.0,2.0,1,3
+M,Analyst,23.0,46690,Marketing,16.0,14.0,4.0,1,2
+M,Senior Analyst,27.0,51240,Management,28.0,2.0,4.0,3,2
+M,Analyst,22.0,46540,Operations,29.0,1.0,3.0,0,2
+F,Analyst,22.0,45300,Web,30.0,0.0,3.0,0,2
+F,Analyst,24.0,44212,Management,30.0,0.0,5.0,1,2
+F,Analyst,24.0,45352,Finance,26.0,4.0,5.0,1,2
+M,Analyst,25.0,46071,Marketing,25.0,5.0,4.0,2,3
+M,Senior Analyst,28.0,60707,Finance,26.0,4.0,3.0,2,4
+F,Analyst,21.0,42129,Finance,19.0,11.0,4.0,0,2
+M,Analyst,23.0,47597,Finance,26.0,4.0,4.0,0,3
+M,Analyst,24.0,41819,Operations,21.0,9.0,3.0,1,2
+F,Senior Analyst,26.0,61956,Finance,29.0,1.0,2.0,0,4
+M,Analyst,22.0,46741,IT,15.0,15.0,5.0,0,2
+M,Analyst,23.0,47939,IT,17.0,13.0,3.0,1,2
+M,Analyst,21.0,43036,Operations,27.0,3.0,2.0,0,3
+M,Associate,30.0,98716,Finance,20.0,10.0,4.0,5,4
+F,Analyst,21.0,49085,Web,25.0,5.0,3.0,0,3
+F,Analyst,21.0,44681,Marketing,22.0,8.0,5.0,0,2
+F,Analyst,25.0,45298,Management,19.0,11.0,5.0,2,2
+M,Analyst,22.0,40384,Marketing,21.0,9.0,5.0,0,2
+M,Senior Analyst,25.0,67458,Operations,21.0,9.0,3.0,0,2
+F,Senior Manager,39.0,161799,Management,28.0,2.0,3.0,13,5
+M,Analyst,22.0,45099,Web,18.0,12.0,3.0,0,2
+M,Analyst,24.0,44472,Operations,17.0,13.0,5.0,2,2
+F,Analyst,22.0,46770,Web,28.0,2.0,3.0,0,2
+M,Associate,31.0,86993,Web,29.0,1.0,2.0,6,4
+M,Analyst,23.0,44344,Web,29.0,1.0,4.0,1,2
+F,Analyst,24.0,40986,Operations,27.0,3.0,5.0,1,3
+F,Senior Analyst,27.0,68182,IT,25.0,5.0,2.0,0,4
+M,Analyst,24.0,49955,IT,18.0,12.0,4.0,2,2
+F,Analyst,21.0,48283,IT,25.0,5.0,3.0,0,2
+M,Analyst,22.0,47859,IT,15.0,15.0,2.0,0,3
+F,Analyst,25.0,42666,Finance,22.0,8.0,5.0,2,3
+F,Analyst,25.0,49931,Operations,28.0,2.0,3.0,1,3
+M,Analyst,21.0,41605,Web,20.0,10.0,4.0,0,2
+M,Analyst,23.0,45927,Marketing,20.0,10.0,5.0,0,3
+F,Analyst,22.0,42263,Finance,17.0,13.0,4.0,0,2
+M,Analyst,21.0,44599,Web,19.0,11.0,4.0,0,3
+M,Analyst,25.0,42210,IT,28.0,2.0,5.0,2,3
+F,Analyst,25.0,41109,Marketing,29.0,1.0,3.0,2,2
+M,Analyst,23.0,46693,IT,20.0,10.0,3.0,0,3
+F,Analyst,24.0,45342,Management,16.0,14.0,2.0,1,2
+M,Analyst,22.0,42428,IT,18.0,12.0,4.0,0,2
+F,Analyst,21.0,46076,Operations,16.0,14.0,4.0,0,3
+F,Analyst,21.0,46064,Finance,25.0,5.0,3.0,0,3
+F,Analyst,23.0,46966,Finance,24.0,6.0,4.0,0,2
+M,Analyst,24.0,41445,Operations,22.0,8.0,2.0,2,1
+F,Analyst,23.0,44598,Finance,25.0,5.0,4.0,0,3
+M,Senior Analyst,26.0,64137,Web,27.0,3.0,5.0,0,2
+F,Associate,28.0,91920,Finance,19.0,11.0,4.0,6,1
+M,Analyst,25.0,46723,Web,19.0,11.0,4.0,2,3
+M,Analyst,21.0,44350,Finance,21.0,9.0,4.0,0,2
+F,Analyst,21.0,41979,Operations,18.0,12.0,2.0,0,3
+M,Senior Analyst,25.0,50524,Marketing,15.0,15.0,5.0,0,2
+F,Analyst,24.0,47723,IT,22.0,8.0,2.0,2,2
+F,Analyst,22.0,45926,Finance,29.0,1.0,2.0,0,2
+M,Analyst,22.0,40040,Finance,25.0,5.0,4.0,0,1
+F,Analyst,25.0,46767,IT,15.0,15.0,3.0,2,3
+F,Analyst,23.0,40886,Web,15.0,15.0,2.0,0,3
+F,Associate,28.0,93659,Management,24.0,6.0,3.0,5,2
+F,Analyst,25.0,44251,Web,29.0,1.0,3.0,3,2
+F,Analyst,22.0,48682,Management,27.0,3.0,3.0,0,2
+M,Senior Analyst,28.0,66184,Marketing,17.0,13.0,5.0,3,2
+F,Analyst,23.0,45379,Operations,15.0,15.0,5.0,1,2
+F,Senior Analyst,28.0,54749,Web,16.0,14.0,4.0,3,4
+F,Analyst,22.0,47832,Finance,22.0,8.0,3.0,0,2
+F,Associate,30.0,92184,Marketing,30.0,0.0,4.0,4,3
+F,Senior Analyst,25.0,60125,Finance,21.0,9.0,3.0,1,3
+F,Analyst,24.0,46591,Management,19.0,11.0,5.0,0,3
+M,Analyst,22.0,45673,Operations,29.0,1.0,2.0,0,2
+F,Senior Manager,35.0,182134,Web,20.0,10.0,5.0,9,4
+M,Analyst,24.0,49636,Operations,29.0,1.0,4.0,1,3
+F,Analyst,23.0,47376,Finance,22.0,8.0,2.0,0,2
+F,Analyst,25.0,44251,Web,29.0,1.0,3.0,3,2
+M,Analyst,22.0,45502,Management,27.0,3.0,4.0,0,2
+M,Analyst,23.0,45370,Web,29.0,1.0,5.0,0,2
+F,Analyst,24.0,48426,Marketing,22.0,8.0,2.0,2,2
+F,Analyst,24.0,43144,Web,27.0,3.0,5.0,1,3
+F,Director,39.0,366063,Marketing,20.0,10.0,3.0,13,4
+M,Senior Analyst,25.0,50266,IT,25.0,5.0,3.0,3,1
+M,Analyst,23.0,41760,IT,24.0,6.0,4.0,1,2
+M,Analyst,25.0,48877,Marketing,17.0,13.0,5.0,2,2
+F,Associate,31.0,96757,Finance,15.0,15.0,2.0,3,4
+F,Analyst,24.0,41714,Management,27.0,3.0,5.0,1,2
+F,Senior Analyst,28.0,65552,Management,28.0,2.0,4.0,1,3
+M,Analyst,25.0,45611,Marketing,27.0,3.0,5.0,2,2
+F,Senior Analyst,28.0,65267,Operations,22.0,8.0,4.0,1,2
+M,Senior Analyst,26.0,66184,IT,26.0,4.0,4.0,0,3
+M,Analyst,21.0,40732,Finance,23.0,7.0,2.0,0,2
+F,Analyst,21.0,49030,Management,25.0,5.0,2.0,0,3
+M,Analyst,24.0,48018,Management,28.0,2.0,3.0,1,2
+F,Analyst,21.0,47104,Marketing,16.0,14.0,2.0,0,2
+F,Analyst,23.0,40411,IT,16.0,14.0,4.0,1,2
+F,Analyst,24.0,44069,IT,26.0,4.0,4.0,1,3
+F,Analyst,23.0,45638,Operations,26.0,4.0,4.0,1,2
+F,Analyst,21.0,49395,Management,19.0,11.0,2.0,0,2
+M,Analyst,22.0,48667,Web,24.0,6.0,3.0,0,3
+F,Associate,29.0,84840,Web,26.0,4.0,5.0,2,3
+M,Analyst,25.0,42830,Operations,25.0,5.0,2.0,3,1
+F,Manager,34.0,124680,Finance,15.0,15.0,4.0,8,3
+F,Analyst,22.0,49537,Marketing,26.0,4.0,4.0,0,3
+F,Analyst,25.0,40600,IT,20.0,10.0,3.0,3,2
+M,Analyst,22.0,43464,IT,27.0,3.0,2.0,0,3
+F,Analyst,24.0,43493,Marketing,16.0,14.0,5.0,1,2
+M,Senior Analyst,28.0,67796,IT,21.0,9.0,5.0,2,4
+M,Analyst,21.0,41863,IT,16.0,14.0,4.0,0,2
+M,Senior Analyst,25.0,68996,Operations,16.0,14.0,2.0,0,3
+M,Analyst,23.0,47524,Finance,16.0,14.0,2.0,0,2
+M,Analyst,25.0,45534,Operations,21.0,9.0,3.0,3,2
+F,Analyst,22.0,41887,Finance,29.0,1.0,3.0,0,2
+F,Analyst,23.0,49434,IT,15.0,15.0,3.0,0,3
+M,Analyst,23.0,42992,Marketing,30.0,0.0,2.0,0,3
+M,Analyst,24.0,42086,IT,24.0,6.0,5.0,0,3
+M,Analyst,25.0,44496,IT,18.0,12.0,2.0,3,2
+F,Analyst,21.0,48492,Operations,16.0,14.0,4.0,0,3
+M,Analyst,22.0,45062,Web,20.0,10.0,4.0,0,3
+M,Analyst,21.0,44512,Marketing,25.0,5.0,3.0,0,3
+M,Analyst,22.0,45515,Finance,29.0,1.0,4.0,0,3
+F,Analyst,25.0,48762,IT,24.0,6.0,2.0,1,3
+M,Analyst,21.0,48182,Operations,21.0,9.0,4.0,0,1
+F,Analyst,21.0,42467,Marketing,21.0,9.0,3.0,0,2
+M,Analyst,23.0,43482,Web,21.0,9.0,3.0,0,2
+M,Analyst,22.0,41705,Operations,25.0,5.0,2.0,0,3
+F,Analyst,21.0,48751,Operations,15.0,15.0,4.0,0,2
+M,Analyst,22.0,42475,Management,19.0,11.0,2.0,0,2
+M,Analyst,25.0,47590,IT,16.0,14.0,4.0,3,2
+F,Analyst,23.0,46854,IT,20.0,10.0,5.0,0,3
+M,Analyst,21.0,43282,Finance,20.0,10.0,3.0,0,3
+F,Analyst,22.0,42641,Web,15.0,15.0,3.0,0,1
+M,Analyst,21.0,49470,Web,22.0,8.0,4.0,0,3
+F,Analyst,22.0,48160,Marketing,16.0,14.0,4.0,0,3
+M,Analyst,24.0,41728,IT,22.0,8.0,3.0,0,3
+F,Analyst,22.0,44976,Finance,15.0,15.0,2.0,0,2
+M,Analyst,23.0,44820,Operations,30.0,0.0,2.0,1,1
+M,Analyst,25.0,43833,Web,19.0,11.0,3.0,2,3
+F,Manager,32.0,100124,Web,29.0,1.0,2.0,5,4
+F,Analyst,25.0,46572,Marketing,21.0,9.0,5.0,1,3
+F,Analyst,25.0,45680,Management,27.0,3.0,5.0,3,2
+M,Senior Analyst,25.0,67458,Operations,21.0,9.0,3.0,0,2
+M,Director,44.0,225339,Management,23.0,7.0,5.0,16,4
+F,Senior Manager,36.0,195984,Management,17.0,13.0,4.0,10,4
+F,Analyst,24.0,45870,Web,18.0,12.0,3.0,1,3
+F,Associate,30.0,78202,IT,16.0,14.0,3.0,3,4
+M,Analyst,21.0,43378,Management,30.0,0.0,5.0,0,3
+M,Analyst,24.0,43587,Marketing,15.0,15.0,5.0,0,3
+M,Analyst,22.0,46038,IT,16.0,14.0,3.0,0,3
+M,Associate,29.0,85615,IT,30.0,0.0,3.0,3,3
+M,Analyst,23.0,42345,Web,30.0,0.0,5.0,0,3
+F,Analyst,22.0,44675,Finance,18.0,12.0,5.0,0,2
+F,Analyst,22.0,42054,Management,15.0,15.0,5.0,0,2
+M,Associate,30.0,94026,Operations,17.0,13.0,3.0,7,2
+M,Associate,32.0,76072,Operations,15.0,15.0,5.0,8,4
+M,Manager,32.0,138569,Management,15.0,15.0,5.0,6,4
+F,Analyst,22.0,43990,Finance,24.0,6.0,3.0,0,2
+M,Analyst,24.0,46485,Marketing,16.0,14.0,4.0,2,2
+F,Analyst,24.0,44684,IT,22.0,8.0,3.0,1,3
+M,Analyst,24.0,47639,Web,17.0,13.0,5.0,2,2
+F,Analyst,25.0,40417,Finance,18.0,12.0,4.0,1,3
+F,Senior Analyst,27.0,65090,Finance,30.0,0.0,2.0,4,3
+F,Analyst,24.0,48436,IT,21.0,9.0,3.0,2,1
+F,Senior Analyst,25.0,56028,Finance,26.0,4.0,5.0,0,4
+F,Director,39.0,213987,Web,24.0,6.0,5.0,13,6
+F,Analyst,23.0,48934,Web,19.0,11.0,3.0,0,3
+M,Analyst,23.0,40354,Management,20.0,10.0,2.0,0,2
+F,Senior Analyst,26.0,52287,Web,22.0,8.0,4.0,3,2
+F,Associate,30.0,83971,Marketing,29.0,1.0,4.0,8,2
+F,Analyst,25.0,43066,Finance,15.0,15.0,2.0,2,2
+F,Senior Manager,35.0,197526,IT,27.0,3.0,3.0,6,5
+F,Analyst,25.0,47499,Web,21.0,9.0,5.0,3,2
+F,Analyst,21.0,42122,IT,16.0,14.0,2.0,0,3
+M,Senior Analyst,26.0,68245,Finance,26.0,4.0,3.0,0,3
+F,Analyst,21.0,48661,Web,21.0,9.0,3.0,0,3
+F,Analyst,24.0,43433,Finance,24.0,6.0,5.0,0,3
+M,Analyst,21.0,41452,Marketing,25.0,5.0,2.0,0,2
+F,Senior Analyst,27.0,59877,Marketing,15.0,15.0,3.0,0,4
+F,Analyst,24.0,48769,IT,20.0,10.0,5.0,0,3
+F,Analyst,22.0,45221,Management,28.0,2.0,4.0,0,3
+M,Analyst,23.0,40524,Marketing,19.0,11.0,2.0,1,2
+M,Analyst,25.0,47692,Web,29.0,1.0,2.0,2,2
+M,Senior Analyst,28.0,59310,Marketing,20.0,10.0,2.0,3,4
+F,Analyst,21.0,48849,Management,22.0,8.0,5.0,0,3
+F,Analyst,23.0,46966,Finance,24.0,6.0,4.0,0,2
+M,Senior Manager,37.0,178590,IT,25.0,5.0,4.0,14,2
+F,Analyst,21.0,45774,Finance,18.0,12.0,5.0,0,1
+M,Manager,35.0,144095,Operations,26.0,4.0,5.0,6,6
+M,Senior Analyst,26.0,54987,Marketing,25.0,5.0,3.0,1,3
+M,Manager,32.0,118174,Marketing,27.0,3.0,4.0,8,4
+M,Analyst,23.0,40356,Management,15.0,15.0,3.0,1,2
+M,Analyst,23.0,47755,Marketing,18.0,12.0,4.0,0,2
+M,Analyst,23.0,48302,Finance,25.0,5.0,2.0,1,2
+F,Senior Analyst,25.0,56004,Web,24.0,6.0,2.0,0,4
+M,Associate,28.0,83197,Marketing,22.0,8.0,2.0,4,3
+F,Analyst,22.0,49660,Marketing,24.0,6.0,4.0,0,2
+F,Analyst,22.0,47668,Finance,20.0,10.0,5.0,0,3
+F,Associate,28.0,86413,Marketing,27.0,3.0,3.0,1,5
+M,Senior Manager,37.0,158394,IT,21.0,9.0,3.0,13,3
+F,Analyst,23.0,48602,Web,29.0,1.0,4.0,1,2
+M,Senior Analyst,26.0,52355,Management,23.0,7.0,4.0,1,2
+F,Analyst,25.0,40704,Marketing,29.0,1.0,5.0,2,2
+F,Analyst,25.0,40113,Management,15.0,15.0,4.0,1,3
+M,Analyst,21.0,47880,Management,29.0,1.0,3.0,0,2
+M,Analyst,23.0,43188,IT,19.0,11.0,2.0,0,2
+F,Analyst,23.0,40690,Operations,30.0,0.0,2.0,1,1
+M,Senior Analyst,26.0,53535,Operations,20.0,10.0,3.0,2,3
+F,Analyst,22.0,44448,Web,19.0,11.0,4.0,0,3
+M,Analyst,24.0,44149,Web,19.0,11.0,3.0,2,2
+M,Senior Analyst,28.0,51369,Management,20.0,10.0,3.0,2,3
+F,Analyst,25.0,41668,Finance,27.0,3.0,5.0,3,2
+M,Analyst,24.0,40727,IT,15.0,15.0,2.0,2,2
+M,Analyst,22.0,45249,Management,25.0,5.0,3.0,0,3
+F,Analyst,25.0,41688,Marketing,17.0,13.0,5.0,2,2
+M,Senior Analyst,25.0,55791,Web,22.0,8.0,3.0,2,2
+M,Analyst,23.0,41467,Web,19.0,11.0,3.0,0,2
+F,Analyst,23.0,45230,Marketing,23.0,7.0,5.0,0,2
+F,Analyst,23.0,41020,Web,28.0,2.0,4.0,0,2
+F,Senior Analyst,25.0,55980,IT,18.0,12.0,2.0,0,4
+M,Senior Analyst,25.0,51423,Marketing,24.0,6.0,5.0,0,3
+M,Analyst,25.0,48536,Operations,15.0,15.0,4.0,1,3
+F,Analyst,24.0,44359,Finance,18.0,12.0,5.0,1,3
+F,Manager,33.0,120988,IT,22.0,8.0,3.0,5,4
+M,Senior Analyst,27.0,57569,IT,26.0,4.0,4.0,4,2
+F,Analyst,23.0,43343,IT,22.0,8.0,2.0,1,2
+M,Analyst,21.0,47072,Operations,28.0,2.0,2.0,0,2
+M,Analyst,22.0,46074,Web,29.0,1.0,3.0,0,3
+M,Senior Manager,39.0,193319,Finance,20.0,10.0,5.0,10,4
+F,Senior Manager,35.0,151903,IT,21.0,9.0,5.0,12,2
+F,Analyst,23.0,45514,Finance,20.0,10.0,4.0,1,1
+F,Analyst,25.0,48722,IT,26.0,4.0,2.0,3,1
+M,Analyst,21.0,45522,Marketing,23.0,7.0,2.0,0,3
+F,Analyst,24.0,46776,Operations,26.0,4.0,5.0,1,2
+F,Analyst,25.0,46779,Management,18.0,12.0,4.0,2,2
+M,Analyst,23.0,48752,Finance,23.0,7.0,3.0,0,3
+M,Analyst,24.0,41950,IT,26.0,4.0,2.0,1,3
+M,Senior Analyst,25.0,57923,Management,28.0,2.0,3.0,1,3
+F,Analyst,23.0,48413,Management,22.0,8.0,5.0,0,2
+M,Manager,32.0,135210,Web,18.0,12.0,2.0,4,5
+F,Analyst,25.0,47250,Marketing,27.0,3.0,3.0,2,3
+F,Analyst,22.0,43472,Web,19.0,11.0,4.0,0,3
+F,Associate,31.0,96876,IT,25.0,5.0,4.0,4,2
+F,Analyst,25.0,48180,Marketing,20.0,10.0,2.0,1,3
+M,Associate,31.0,80367,Finance,15.0,15.0,2.0,8,2
+M,Analyst,22.0,48070,Finance,30.0,0.0,2.0,0,2
+F,Manager,35.0,140823,Web,19.0,11.0,5.0,11,2
+M,Analyst,21.0,41416,Marketing,17.0,13.0,5.0,0,2
+M,Manager,34.0,132054,Finance,16.0,14.0,4.0,5,6
+F,Analyst,23.0,42280,IT,18.0,12.0,2.0,1,2
+M,Analyst,24.0,45464,IT,23.0,7.0,5.0,2,2
+M,Analyst,25.0,45761,Web,28.0,2.0,5.0,2,3
+M,Associate,29.0,72237,Management,25.0,5.0,4.0,2,3
+F,Senior Analyst,26.0,51441,Finance,16.0,14.0,4.0,4,2
+F,Analyst,22.0,46540,Operations,19.0,11.0,2.0,0,2
+F,Analyst,24.0,45963,Finance,15.0,15.0,5.0,1,2
+M,Senior Manager,39.0,190626,Finance,30.0,0.0,5.0,13,4
+M,Analyst,22.0,48650,Operations,20.0,10.0,5.0,0,3
+F,Analyst,24.0,42250,Management,23.0,7.0,4.0,0,3
+F,Senior Analyst,26.0,64060,Web,28.0,2.0,4.0,1,3
+M,Analyst,21.0,42627,Operations,27.0,3.0,3.0,0,1
+M,Analyst,21.0,41487,Finance,16.0,14.0,3.0,0,3
+M,Analyst,24.0,40985,Web,18.0,12.0,5.0,2,2
+M,Analyst,22.0,46247,Operations,22.0,8.0,4.0,0,3
+F,Analyst,21.0,43681,Management,25.0,5.0,5.0,0,3
+M,Analyst,22.0,43161,Operations,21.0,9.0,4.0,0,3
+F,Associate,28.0,70589,Operations,25.0,5.0,5.0,0,5
+M,Senior Analyst,27.0,52533,Operations,25.0,5.0,3.0,1,4
+M,Analyst,21.0,42473,Operations,30.0,0.0,5.0,0,2
+F,Analyst,21.0,41726,Marketing,26.0,4.0,4.0,0,3
+F,Analyst,25.0,45674,Web,28.0,2.0,3.0,2,3
+F,Analyst,23.0,48225,IT,19.0,11.0,4.0,0,2
+M,Analyst,21.0,43414,IT,17.0,13.0,5.0,0,3
+M,Associate,30.0,81901,IT,22.0,8.0,4.0,6,4
+M,Analyst,24.0,48122,Management,20.0,10.0,2.0,1,2
+M,Analyst,22.0,41657,Web,23.0,7.0,5.0,0,3
+F,Analyst,22.0,40485,Management,27.0,3.0,5.0,0,2
+F,Analyst,25.0,43066,Finance,15.0,15.0,2.0,2,2
+M,Analyst,22.0,45836,Marketing,23.0,7.0,3.0,0,3
+M,Analyst,22.0,43168,Finance,24.0,6.0,5.0,0,3
+M,Analyst,23.0,48467,Operations,21.0,9.0,3.0,0,2
+F,Analyst,23.0,45696,IT,22.0,8.0,5.0,1,2
+M,Analyst,23.0,47719,Web,17.0,13.0,2.0,0,3
+M,Analyst,22.0,41290,Marketing,24.0,6.0,3.0,0,2
+F,Analyst,21.0,46550,Operations,19.0,11.0,2.0,0,2
+F,Analyst,25.0,48263,Operations,19.0,11.0,3.0,3,2
+M,Analyst,22.0,46312,Management,24.0,6.0,3.0,0,3
+M,Analyst,22.0,48854,IT,15.0,15.0,4.0,0,3
+M,Senior Analyst,25.0,52567,Marketing,19.0,11.0,3.0,0,4
+M,Analyst,23.0,49095,Finance,30.0,0.0,2.0,1,2
+F,Analyst,22.0,47248,Web,17.0,13.0,2.0,0,3
+M,Analyst,23.0,44364,Web,15.0,15.0,5.0,0,3
+M,Analyst,23.0,44610,Operations,29.0,1.0,5.0,0,3
+M,Analyst,22.0,48482,IT,29.0,1.0,3.0,0,3
+M,Manager,33.0,121962,Finance,16.0,14.0,3.0,7,6
+M,Analyst,22.0,48305,Web,25.0,5.0,5.0,0,2
+M,Analyst,25.0,41194,IT,17.0,13.0,4.0,3,2
+F,Analyst,25.0,49748,Operations,22.0,8.0,5.0,3,2
+F,Senior Analyst,28.0,58566,Operations,28.0,2.0,3.0,5,2
+F,Senior Analyst,28.0,50687,Management,23.0,7.0,5.0,5,2
+M,Director,39.0,301872,Operations,27.0,3.0,2.0,15,2
+M,Senior Analyst,26.0,66227,Operations,20.0,10.0,4.0,1,2
+F,Analyst,23.0,46105,Finance,16.0,14.0,3.0,0,3
+M,Senior Analyst,27.0,51055,Operations,27.0,3.0,2.0,2,4
+F,Senior Manager,36.0,197900,Marketing,29.0,1.0,4.0,14,2
+F,Analyst,25.0,42221,IT,25.0,5.0,4.0,2,2
+M,Analyst,25.0,41308,IT,19.0,11.0,3.0,1,3
+F,Analyst,23.0,45374,Operations,28.0,2.0,3.0,1,2
+F,Senior Analyst,25.0,59115,Management,26.0,4.0,4.0,0,3
+M,Analyst,24.0,42897,Web,30.0,0.0,3.0,2,2
+F,Analyst,24.0,48046,Operations,17.0,13.0,5.0,0,3
+F,Senior Analyst,28.0,57182,Management,28.0,2.0,4.0,3,3
+F,Analyst,22.0,44997,IT,16.0,14.0,4.0,0,2
+M,Analyst,23.0,40787,Web,29.0,1.0,5.0,0,3
+M,Associate,29.0,71488,IT,30.0,0.0,2.0,1,5
+M,Senior Analyst,25.0,51377,Marketing,22.0,8.0,5.0,0,3
+M,Analyst,22.0,45528,IT,18.0,12.0,2.0,0,3
+F,Analyst,21.0,43740,Marketing,20.0,10.0,3.0,0,3
+M,Analyst,24.0,43681,Marketing,22.0,8.0,4.0,1,2
+F,Director,42.0,236901,Operations,23.0,7.0,5.0,11,7
+F,Senior Analyst,25.0,57064,Management,18.0,12.0,5.0,0,3
+M,Analyst,25.0,44448,Operations,26.0,4.0,3.0,3,2
+F,Analyst,22.0,49141,Marketing,19.0,11.0,3.0,0,3
+M,Analyst,24.0,45589,IT,18.0,12.0,5.0,1,3
+M,Analyst,23.0,42055,Operations,19.0,11.0,3.0,1,2
+M,Analyst,21.0,46640,Operations,21.0,9.0,5.0,0,3
+M,Analyst,24.0,43385,Finance,25.0,5.0,4.0,0,3
+M,Analyst,24.0,40567,Operations,25.0,5.0,3.0,1,3
+F,Analyst,21.0,43932,Finance,30.0,0.0,3.0,0,3
+M,Analyst,24.0,41386,Web,20.0,10.0,4.0,2,1
+F,Analyst,22.0,42240,IT,25.0,5.0,3.0,0,2
+F,Analyst,21.0,41257,Web,21.0,9.0,3.0,0,2
+M,Analyst,23.0,42793,Marketing,24.0,6.0,3.0,0,3
+F,Associate,30.0,74929,Finance,21.0,9.0,5.0,6,4
+F,Analyst,24.0,46509,Marketing,29.0,1.0,3.0,2,1
+F,Analyst,24.0,48082,Marketing,17.0,13.0,3.0,2,2
+F,Analyst,24.0,43710,Finance,17.0,13.0,5.0,1,3
+M,Analyst,24.0,43464,Operations,30.0,0.0,4.0,2,1
+M,Associate,29.0,84058,Management,18.0,12.0,3.0,1,4
+F,Analyst,21.0,47029,IT,22.0,8.0,5.0,0,3
+F,Analyst,22.0,49634,Operations,16.0,14.0,2.0,0,2
+M,Analyst,25.0,41357,Operations,21.0,9.0,3.0,2,3
+F,Analyst,23.0,45349,Finance,17.0,13.0,3.0,0,3
+M,Analyst,25.0,42306,IT,28.0,2.0,5.0,1,3
+F,Analyst,22.0,48860,Management,17.0,13.0,3.0,0,2
+F,Analyst,25.0,48923,Management,29.0,1.0,3.0,2,2
+F,Associate,28.0,82388,Finance,26.0,4.0,2.0,4,2
+M,Analyst,22.0,40992,Finance,23.0,7.0,5.0,0,3
+F,Director,45.0,324783,Finance,24.0,6.0,5.0,19,4
+F,Analyst,24.0,49901,Web,24.0,6.0,4.0,0,3
+M,Analyst,25.0,43176,Marketing,30.0,0.0,4.0,2,2
+F,Analyst,22.0,41132,Operations,19.0,11.0,4.0,0,3
+M,Analyst,23.0,42624,Management,17.0,13.0,4.0,0,3
+M,Analyst,22.0,42136,Finance,23.0,7.0,4.0,0,3
+F,Analyst,22.0,43308,Web,19.0,11.0,2.0,0,3
+F,Senior Analyst,26.0,50492,Management,18.0,12.0,2.0,3,3
+M,Analyst,23.0,40698,Operations,29.0,1.0,4.0,0,3
+M,Analyst,25.0,46788,Web,28.0,2.0,5.0,2,3
+M,Analyst,21.0,40246,Marketing,24.0,6.0,5.0,0,3
+M,Analyst,23.0,45957,Operations,16.0,14.0,3.0,0,3
+F,Analyst,24.0,42952,Operations,28.0,2.0,3.0,1,2
+F,Analyst,23.0,47266,Operations,27.0,3.0,3.0,1,1
+F,Senior Analyst,28.0,56552,Marketing,17.0,13.0,5.0,2,2
+M,Manager,33.0,105657,Management,29.0,1.0,2.0,7,2
+M,Analyst,22.0,48572,IT,18.0,12.0,5.0,0,2
+M,Analyst,24.0,48414,Finance,23.0,7.0,3.0,1,3
+F,Analyst,24.0,48046,Operations,17.0,13.0,5.0,0,3
+M,Analyst,24.0,42144,Finance,26.0,4.0,3.0,2,1
+M,Analyst,21.0,44044,Management,19.0,11.0,5.0,0,3
+M,Analyst,22.0,48695,Web,17.0,13.0,4.0,0,3
+F,Analyst,21.0,42395,IT,27.0,3.0,3.0,0,2
+M,Manager,32.0,100764,IT,19.0,11.0,4.0,7,2
+F,Manager,33.0,142291,Management,26.0,4.0,4.0,9,2
+F,Senior Analyst,28.0,52324,Operations,26.0,4.0,4.0,3,2
+M,Analyst,25.0,48776,Management,15.0,15.0,3.0,2,2
+F,Analyst,23.0,43063,Marketing,27.0,3.0,3.0,1,2
+M,Senior Analyst,25.0,58290,Operations,25.0,5.0,3.0,0,4
+F,Analyst,22.0,45054,Marketing,19.0,11.0,2.0,0,2
+F,Analyst,25.0,43272,Operations,18.0,12.0,4.0,2,2
+F,Analyst,23.0,43260,Management,29.0,1.0,5.0,1,2
+M,Analyst,23.0,42237,Finance,15.0,15.0,4.0,1,2
+F,Senior Analyst,26.0,58366,Finance,28.0,2.0,5.0,2,2
+F,Analyst,24.0,46351,Finance,18.0,12.0,4.0,2,2
+F,Analyst,22.0,41381,Marketing,29.0,1.0,3.0,0,2
+F,Analyst,23.0,45704,Web,19.0,11.0,5.0,1,1
+F,Associate,29.0,97161,Finance,15.0,15.0,2.0,0,5
+M,Senior Analyst,26.0,67194,Web,15.0,15.0,2.0,0,2
+M,Analyst,24.0,42303,Management,16.0,14.0,4.0,1,2
+F,Analyst,22.0,44919,Management,23.0,7.0,3.0,0,2
+M,Associate,29.0,92590,Operations,26.0,4.0,4.0,3,4
+F,Analyst,24.0,48841,Operations,19.0,11.0,3.0,1,3
+M,Senior Analyst,26.0,60987,Finance,17.0,13.0,2.0,0,4
+M,Senior Analyst,25.0,56926,Finance,22.0,8.0,5.0,0,4
+F,Analyst,21.0,40684,Web,25.0,5.0,2.0,0,3
+M,Senior Manager,35.0,170971,Marketing,28.0,2.0,2.0,8,4
+F,Analyst,23.0,48511,Management,23.0,7.0,2.0,0,3
+F,Analyst,21.0,40271,Web,29.0,1.0,2.0,0,2
+M,Analyst,24.0,42805,Web,25.0,5.0,4.0,1,3
+M,Analyst,22.0,48030,Marketing,15.0,15.0,5.0,0,2
+F,Analyst,23.0,48730,IT,27.0,3.0,2.0,0,3
+M,Analyst,22.0,44638,Finance,15.0,15.0,5.0,0,3
+F,Analyst,25.0,43592,Web,18.0,12.0,2.0,2,3
+F,Senior Analyst,25.0,52704,Finance,28.0,2.0,4.0,0,2
+M,Senior Analyst,26.0,62533,IT,18.0,12.0,5.0,0,4
+F,Manager,33.0,129305,Finance,15.0,15.0,2.0,7,5
+F,Analyst,22.0,41144,IT,26.0,4.0,5.0,0,2
+F,Analyst,21.0,48025,Finance,26.0,4.0,5.0,0,2
+M,Analyst,23.0,42992,Marketing,30.0,0.0,2.0,0,3
+F,Analyst,21.0,45621,Marketing,23.0,7.0,2.0,0,3
+F,Analyst,25.0,43453,Management,25.0,5.0,5.0,1,3
+F,Analyst,24.0,48042,Finance,27.0,3.0,5.0,2,2
+F,Director,40.0,225412,Marketing,25.0,5.0,4.0,15,3
+F,Associate,31.0,88029,Finance,23.0,7.0,3.0,6,2
+M,Analyst,25.0,43418,Management,20.0,10.0,5.0,2,2
+F,Analyst,25.0,49968,IT,17.0,13.0,4.0,2,2
+F,Senior Analyst,25.0,62791,Web,23.0,7.0,5.0,0,4
+M,Analyst,23.0,40403,IT,15.0,15.0,5.0,1,1
+M,Senior Analyst,25.0,57923,Management,28.0,2.0,3.0,1,3
+M,Analyst,23.0,44799,Finance,25.0,5.0,3.0,1,2
+F,Senior Analyst,28.0,66747,Marketing,30.0,0.0,3.0,5,2
+M,Analyst,24.0,41955,Management,24.0,6.0,3.0,0,3
+F,Analyst,21.0,41962,Management,22.0,8.0,3.0,0,2
+F,Analyst,21.0,48240,Management,16.0,14.0,4.0,0,2
+M,Analyst,24.0,45631,Marketing,29.0,1.0,2.0,0,3
+F,Associate,28.0,94962,Web,17.0,13.0,2.0,1,3
+F,Analyst,22.0,45371,Operations,30.0,0.0,2.0,0,2
+M,Analyst,23.0,41888,Marketing,22.0,8.0,3.0,1,1
+M,Analyst,21.0,42822,Marketing,29.0,1.0,2.0,0,2
+F,Analyst,24.0,43900,Operations,23.0,7.0,5.0,1,2
+F,Analyst,24.0,47588,IT,19.0,11.0,3.0,2,2
+F,Analyst,23.0,43818,Management,17.0,13.0,3.0,1,2
+M,Associate,30.0,75507,Web,15.0,15.0,2.0,5,2
+F,Analyst,24.0,49822,Operations,18.0,12.0,3.0,1,2
+M,Senior Analyst,26.0,64540,Operations,26.0,4.0,5.0,0,2
+F,Analyst,24.0,41720,Marketing,24.0,6.0,4.0,0,3
+F,Analyst,22.0,40900,IT,29.0,1.0,5.0,0,3
+M,Analyst,23.0,42925,Management,26.0,4.0,3.0,0,3
+M,Senior Analyst,26.0,66540,Management,25.0,5.0,4.0,1,3
+F,Analyst,23.0,41394,IT,16.0,14.0,4.0,0,3
+F,Analyst,24.0,44946,Finance,28.0,2.0,3.0,2,2
+F,Analyst,24.0,49624,IT,17.0,13.0,4.0,0,3
+M,Analyst,23.0,47590,IT,24.0,6.0,2.0,0,2
+F,Senior Analyst,28.0,60155,Marketing,27.0,3.0,5.0,4,2
+F,Analyst,23.0,49296,Web,20.0,10.0,3.0,0,2
+F,Analyst,25.0,45729,IT,18.0,12.0,5.0,1,3
+M,Analyst,21.0,48682,Web,25.0,5.0,2.0,0,3
+F,Senior Analyst,28.0,51184,Web,24.0,6.0,2.0,2,3
+M,Senior Analyst,26.0,53602,Web,26.0,4.0,4.0,1,4
+M,Analyst,25.0,49976,Web,25.0,5.0,2.0,1,3
+M,Analyst,22.0,40312,Operations,29.0,1.0,4.0,0,2
+F,Analyst,23.0,46325,Management,20.0,10.0,4.0,0,2
+M,Analyst,21.0,41930,Finance,27.0,3.0,2.0,0,2
+M,Analyst,24.0,42289,Operations,18.0,12.0,4.0,1,3
+M,Analyst,24.0,45748,IT,15.0,15.0,5.0,2,2
+M,Analyst,23.0,41273,Finance,28.0,2.0,2.0,0,2
+M,Analyst,22.0,44391,Operations,18.0,12.0,5.0,0,2
+F,Analyst,25.0,47051,Operations,27.0,3.0,4.0,2,2
+F,Senior Manager,35.0,176567,IT,18.0,12.0,2.0,9,5
+F,Manager,35.0,123504,Marketing,15.0,15.0,2.0,9,4
+F,Analyst,22.0,48789,IT,27.0,3.0,2.0,0,2
+F,Analyst,21.0,42760,Marketing,20.0,10.0,2.0,0,3
+M,Analyst,24.0,48451,Finance,22.0,8.0,3.0,1,3
+F,Analyst,25.0,49310,Web,23.0,7.0,4.0,1,3
+F,Senior Manager,37.0,190414,Management,26.0,4.0,4.0,9,5
+F,Analyst,23.0,42538,IT,20.0,10.0,4.0,0,3
+M,Analyst,24.0,49469,Finance,22.0,8.0,3.0,2,2
+F,Analyst,23.0,41457,IT,18.0,12.0,4.0,0,2
+M,Analyst,23.0,47534,Finance,29.0,1.0,3.0,0,3
+M,Analyst,21.0,47658,Operations,29.0,1.0,3.0,0,3
+M,Manager,34.0,139615,Web,19.0,11.0,5.0,6,6
+M,Analyst,22.0,44103,Web,25.0,5.0,3.0,0,2
+M,Senior Analyst,26.0,66184,IT,26.0,4.0,4.0,0,3
+M,Analyst,22.0,41694,Finance,30.0,0.0,3.0,0,2
+F,Analyst,21.0,45185,Marketing,29.0,1.0,4.0,0,2
+F,Analyst,24.0,44938,Management,19.0,11.0,5.0,1,2
+M,Analyst,25.0,41546,Marketing,16.0,14.0,3.0,1,3
+F,Associate,29.0,86548,Operations,19.0,11.0,3.0,3,5
+M,Analyst,23.0,42056,IT,29.0,1.0,3.0,0,3
+F,Analyst,25.0,49190,Marketing,17.0,13.0,3.0,2,3
+M,Analyst,21.0,45716,Management,19.0,11.0,3.0,0,3
+F,Associate,30.0,77015,Finance,29.0,1.0,3.0,2,5
+M,Analyst,24.0,42527,Operations,30.0,0.0,3.0,1,2
+F,Director,41.0,355337,IT,24.0,6.0,3.0,12,6
+F,Analyst,25.0,43354,IT,27.0,3.0,4.0,1,3
+M,Senior Manager,35.0,170611,Web,25.0,5.0,2.0,8,4
+M,Analyst,25.0,47893,Management,21.0,9.0,2.0,2,3
+F,Analyst,25.0,46808,Operations,28.0,2.0,5.0,2,3
+F,Analyst,23.0,45815,IT,28.0,2.0,5.0,0,2
+M,Manager,35.0,103289,Web,29.0,1.0,3.0,11,4
+M,Analyst,25.0,44025,Operations,30.0,0.0,3.0,2,3
+F,Analyst,22.0,44005,Marketing,18.0,12.0,4.0,0,3
+F,Manager,33.0,119570,Finance,24.0,6.0,2.0,4,6
+F,Associate,32.0,92350,IT,23.0,7.0,2.0,5,4
+M,Analyst,24.0,46791,Finance,26.0,4.0,2.0,1,3
+F,Manager,32.0,143778,Management,16.0,14.0,4.0,6,5
+M,Analyst,21.0,48948,Marketing,29.0,1.0,4.0,0,3
+F,Analyst,21.0,48223,IT,19.0,11.0,2.0,0,3
+M,Analyst,25.0,40149,Finance,16.0,14.0,2.0,1,3
+M,Analyst,22.0,47674,Operations,16.0,14.0,2.0,0,2
+F,Analyst,21.0,48939,Web,26.0,4.0,3.0,0,2
+F,Analyst,22.0,44100,Finance,29.0,1.0,3.0,0,3
+F,Senior Analyst,26.0,58051,Web,21.0,9.0,2.0,2,4
+F,Analyst,24.0,47877,Web,24.0,6.0,5.0,0,3
+M,Analyst,22.0,46157,Marketing,22.0,8.0,3.0,0,2
+F,Analyst,21.0,42047,Finance,17.0,13.0,4.0,0,2
+F,Analyst,21.0,46999,Marketing,17.0,13.0,3.0,0,2
+F,Analyst,23.0,45131,Management,16.0,14.0,3.0,0,3
+F,Analyst,21.0,46862,Finance,29.0,1.0,4.0,0,3
+F,Analyst,23.0,49015,IT,21.0,9.0,3.0,1,2
+F,Associate,29.0,80173,Management,28.0,2.0,4.0,2,3
+M,Analyst,22.0,43113,Marketing,25.0,5.0,2.0,0,2
+M,Associate,31.0,86669,Marketing,19.0,11.0,3.0,5,4
+M,Analyst,21.0,40397,Marketing,26.0,4.0,3.0,0,3
+F,Analyst,22.0,44694,Operations,23.0,7.0,2.0,0,2
+M,Associate,29.0,97946,Management,21.0,9.0,4.0,5,3
+M,Analyst,24.0,41396,Web,22.0,8.0,3.0,1,2
+M,Analyst,25.0,42280,Management,17.0,13.0,5.0,1,3
+F,Senior Analyst,27.0,61390,Management,22.0,8.0,2.0,4,2
+F,Analyst,24.0,43310,Web,29.0,1.0,4.0,1,3
+M,Senior Analyst,28.0,60522,Marketing,17.0,13.0,5.0,2,2
+F,Analyst,25.0,45081,Finance,25.0,5.0,3.0,2,2
+F,Manager,32.0,144332,IT,17.0,13.0,4.0,6,5
+F,Analyst,21.0,49576,Management,24.0,6.0,5.0,0,2
+F,Analyst,24.0,40329,Finance,29.0,1.0,2.0,1,3
+M,Analyst,25.0,41781,Web,18.0,12.0,5.0,2,2
+M,Analyst,25.0,49522,Finance,17.0,13.0,2.0,2,2
+M,Senior Analyst,26.0,61046,Finance,28.0,2.0,5.0,1,2
+M,Senior Analyst,28.0,65656,Operations,30.0,0.0,2.0,3,2
+F,Analyst,24.0,49949,Finance,22.0,8.0,3.0,1,3
+F,Analyst,25.0,40161,Operations,17.0,13.0,4.0,2,2
+F,Analyst,24.0,42052,IT,25.0,5.0,5.0,1,2
+F,Analyst,24.0,45722,Marketing,22.0,8.0,2.0,0,3
+M,Associate,28.0,78615,Marketing,16.0,14.0,2.0,3,3
+M,Analyst,23.0,40565,Marketing,23.0,7.0,3.0,1,2
+M,Analyst,24.0,46662,Management,22.0,8.0,3.0,0,3
+F,Senior Manager,38.0,190850,Marketing,25.0,5.0,2.0,11,6
+M,Analyst,25.0,40752,Operations,29.0,1.0,2.0,1,3
+F,Analyst,23.0,41988,Operations,17.0,13.0,3.0,1,2
+F,Analyst,25.0,43328,Operations,17.0,13.0,4.0,2,2
+M,Senior Analyst,27.0,58848,IT,30.0,0.0,3.0,2,2
+M,Analyst,21.0,44718,Management,28.0,2.0,4.0,0,2
+M,Analyst,25.0,40231,Web,29.0,1.0,2.0,3,2
+F,Senior Analyst,26.0,54475,IT,21.0,9.0,5.0,0,2
+F,Analyst,24.0,40329,Finance,29.0,1.0,2.0,1,3
+M,Analyst,23.0,40085,Finance,24.0,6.0,4.0,0,3
+M,Senior Analyst,26.0,52198,Web,25.0,5.0,5.0,4,2
+M,Analyst,21.0,49666,IT,27.0,3.0,4.0,0,3
+M,Analyst,21.0,45277,IT,27.0,3.0,3.0,0,2
+F,Analyst,24.0,44002,Web,27.0,3.0,5.0,2,2
+F,Analyst,24.0,45621,Marketing,25.0,5.0,4.0,0,3
+F,Analyst,24.0,40578,Marketing,26.0,4.0,4.0,1,2
+M,Analyst,21.0,42879,Finance,21.0,9.0,5.0,0,3
+M,Analyst,21.0,40095,Finance,17.0,13.0,2.0,0,2
+F,Analyst,23.0,49364,Management,22.0,8.0,4.0,0,2
+F,Analyst,22.0,46078,Operations,15.0,15.0,3.0,0,3
+M,Senior Analyst,25.0,58428,Finance,29.0,1.0,2.0,0,3
+F,Analyst,24.0,40043,Management,21.0,9.0,4.0,1,2
+F,Analyst,22.0,41193,Finance,22.0,8.0,3.0,0,2
+F,Analyst,24.0,49045,Web,24.0,6.0,3.0,1,3
+F,Analyst,24.0,47291,Marketing,18.0,12.0,5.0,0,3
+M,Analyst,25.0,45296,Marketing,26.0,4.0,2.0,2,3
+F,Analyst,21.0,44281,Operations,15.0,15.0,4.0,0,2
+F,Senior Analyst,26.0,51655,Finance,28.0,2.0,5.0,4,2
+F,Senior Analyst,25.0,50605,IT,23.0,7.0,5.0,0,3
+M,Analyst,23.0,46612,Operations,20.0,10.0,2.0,0,3
+M,Analyst,22.0,48858,Management,23.0,7.0,3.0,0,3
+F,Senior Analyst,26.0,57783,Management,23.0,7.0,3.0,0,2
+M,Senior Analyst,28.0,61413,Web,21.0,9.0,5.0,3,4
+M,Senior Analyst,25.0,51423,Marketing,24.0,6.0,5.0,0,3
+M,Analyst,25.0,43074,Marketing,25.0,5.0,5.0,2,3
+M,Analyst,24.0,46659,Web,30.0,0.0,5.0,0,3
+F,Analyst,25.0,43893,Finance,20.0,10.0,5.0,1,3
+M,Analyst,23.0,40526,Management,24.0,6.0,4.0,0,3
+F,Analyst,25.0,48903,IT,16.0,14.0,3.0,3,2
+M,Manager,32.0,130328,Finance,18.0,12.0,3.0,4,4
+F,Analyst,22.0,43886,Finance,28.0,2.0,5.0,0,3
+F,Analyst,22.0,49868,Finance,20.0,10.0,4.0,0,2
+F,Analyst,23.0,43964,Management,17.0,13.0,3.0,1,2
+F,Analyst,22.0,45721,IT,17.0,13.0,3.0,0,2
+M,Analyst,25.0,44738,Marketing,28.0,2.0,3.0,1,3
+F,Analyst,21.0,41365,Marketing,17.0,13.0,3.0,0,3
+M,Analyst,22.0,41159,IT,20.0,10.0,5.0,0,3
+F,Analyst,21.0,43328,Web,20.0,10.0,3.0,0,3
+F,Analyst,25.0,40219,Marketing,22.0,8.0,4.0,1,3
+M,Analyst,23.0,41718,Management,28.0,2.0,4.0,0,3
+F,Analyst,23.0,41304,Web,20.0,10.0,4.0,0,3
+M,Analyst,23.0,42012,IT,30.0,0.0,5.0,0,2
+F,Analyst,25.0,41619,IT,23.0,7.0,2.0,2,3
+M,Analyst,22.0,48976,IT,30.0,0.0,3.0,0,3
+F,Analyst,21.0,46224,Operations,23.0,7.0,2.0,0,3
+F,Analyst,23.0,41144,IT,22.0,8.0,5.0,0,3
+M,Analyst,21.0,44850,Web,21.0,9.0,2.0,0,2
+F,Director,41.0,234374,IT,30.0,0.0,2.0,17,2
+F,Analyst,23.0,48279,IT,15.0,15.0,4.0,0,3
+F,Analyst,21.0,47061,Management,30.0,0.0,4.0,0,2
+M,Analyst,21.0,47422,Management,16.0,14.0,3.0,0,3
+M,Analyst,21.0,44602,Web,15.0,15.0,4.0,0,2
+F,Analyst,25.0,40288,Finance,16.0,14.0,3.0,3,1
+M,Senior Analyst,28.0,63156,Finance,26.0,4.0,5.0,4,2
+F,Analyst,23.0,45380,Management,30.0,0.0,4.0,0,3
+M,Analyst,22.0,49896,IT,20.0,10.0,4.0,0,2
+F,Analyst,22.0,46427,IT,19.0,11.0,4.0,0,2
+F,Analyst,24.0,44795,Finance,29.0,1.0,5.0,2,1
+F,Analyst,24.0,49183,IT,19.0,11.0,2.0,1,2
+M,Analyst,25.0,48042,IT,22.0,8.0,4.0,2,3
+M,Analyst,24.0,46126,Marketing,21.0,9.0,2.0,1,2
+F,Analyst,25.0,40946,Finance,23.0,7.0,5.0,2,2
+F,Analyst,25.0,40113,Management,15.0,15.0,4.0,1,3
+F,Analyst,22.0,48808,Finance,24.0,6.0,4.0,0,3
+M,Analyst,25.0,46956,Marketing,18.0,12.0,2.0,3,2
+F,Analyst,24.0,43201,Operations,16.0,14.0,4.0,0,3
+M,Senior Analyst,25.0,61368,Finance,20.0,10.0,3.0,0,4
+M,Analyst,24.0,47890,Management,20.0,10.0,2.0,1,3
+F,Associate,28.0,71816,Management,20.0,10.0,4.0,4,2
+M,Analyst,25.0,44182,IT,15.0,15.0,3.0,2,3
+F,Analyst,25.0,49466,Marketing,25.0,5.0,4.0,2,2
+M,Analyst,24.0,40927,IT,18.0,12.0,4.0,2,2
+M,Manager,32.0,110064,Web,30.0,0.0,2.0,9,2
+F,Analyst,24.0,41904,Web,20.0,10.0,2.0,1,2
+M,Associate,28.0,99505,Marketing,20.0,10.0,3.0,1,5
+M,Analyst,21.0,49980,IT,23.0,7.0,3.0,0,3
+F,Analyst,21.0,42277,Marketing,17.0,13.0,4.0,0,2
+M,Analyst,22.0,47500,Operations,28.0,2.0,5.0,0,3
+F,Analyst,22.0,49785,Finance,18.0,12.0,2.0,0,2
+M,Analyst,22.0,45319,Web,22.0,8.0,4.0,0,2
+M,Analyst,24.0,45329,Management,27.0,3.0,2.0,1,2
+F,Analyst,25.0,42214,Finance,18.0,12.0,5.0,3,2
+F,Analyst,21.0,41225,IT,18.0,12.0,5.0,0,2
+M,Analyst,24.0,47143,Management,27.0,3.0,3.0,1,3
+F,Analyst,22.0,43064,Management,19.0,11.0,5.0,0,2
+M,Analyst,23.0,41277,Operations,28.0,2.0,4.0,0,2
+F,Analyst,21.0,47458,Web,16.0,14.0,4.0,0,3
+F,Analyst,23.0,41608,Management,19.0,11.0,3.0,0,3
+F,Senior Analyst,27.0,60352,IT,16.0,14.0,2.0,0,3
+F,Analyst,23.0,44988,Web,22.0,8.0,4.0,0,2
+F,Analyst,25.0,46004,Marketing,29.0,1.0,2.0,1,3
+M,Analyst,25.0,46386,IT,22.0,8.0,3.0,1,3
+M,Analyst,25.0,41135,Operations,19.0,11.0,2.0,2,3
+M,Manager,34.0,147110,Finance,20.0,10.0,5.0,10,2
+F,Associate,31.0,88069,Management,15.0,15.0,5.0,3,4
+M,Analyst,24.0,41146,IT,21.0,9.0,5.0,0,3
+M,Senior Analyst,27.0,50084,Management,27.0,3.0,2.0,1,2
+F,Analyst,25.0,46519,Web,16.0,14.0,2.0,2,2
+M,Analyst,22.0,40438,Operations,16.0,14.0,5.0,0,3
+F,Director,40.0,225412,Marketing,25.0,5.0,4.0,15,3
+F,Associate,31.0,94836,Finance,18.0,12.0,2.0,6,2
+F,Senior Analyst,26.0,66244,Operations,27.0,3.0,4.0,0,4
+F,Analyst,24.0,46823,Finance,27.0,3.0,3.0,1,3
+M,Analyst,25.0,49706,Web,20.0,10.0,3.0,2,2
+M,Associate,32.0,75780,Finance,30.0,0.0,3.0,5,3
+M,Analyst,24.0,43295,Operations,22.0,8.0,3.0,2,2
+F,Analyst,23.0,43902,Marketing,16.0,14.0,3.0,0,3
+F,Director,42.0,270193,Operations,28.0,2.0,4.0,15,3
+F,Analyst,25.0,49766,Management,21.0,9.0,5.0,3,2
+F,Analyst,21.0,45000,Operations,18.0,12.0,3.0,0,3
+M,Analyst,23.0,47691,Web,17.0,13.0,4.0,1,2
+M,Senior Analyst,25.0,69966,Marketing,21.0,9.0,5.0,2,3
+M,Analyst,24.0,41679,Web,22.0,8.0,4.0,1,2
+M,Analyst,25.0,42466,IT,21.0,9.0,4.0,2,2
+F,Analyst,25.0,44366,Web,20.0,10.0,4.0,3,2
+M,Analyst,25.0,48098,Web,16.0,14.0,2.0,2,2
+F,Analyst,23.0,42225,IT,15.0,15.0,5.0,0,3
+F,Associate,28.0,70567,Marketing,25.0,5.0,5.0,2,4
+F,Senior Analyst,27.0,57497,Operations,30.0,0.0,3.0,1,2
+M,Senior Analyst,26.0,54573,Operations,23.0,7.0,2.0,0,4
+F,Analyst,23.0,45525,Management,17.0,13.0,5.0,0,3
+M,Associate,29.0,76494,IT,16.0,14.0,2.0,2,3
+F,Analyst,22.0,48177,IT,15.0,15.0,3.0,0,3
+M,Analyst,24.0,49866,Marketing,25.0,5.0,5.0,2,2
+M,Associate,28.0,79118,Management,24.0,6.0,4.0,6,2
+M,Analyst,24.0,46043,Finance,16.0,14.0,2.0,1,2
+M,Manager,32.0,114239,IT,18.0,12.0,2.0,7,4
+F,Analyst,25.0,48353,Management,30.0,0.0,2.0,1,3
+M,Analyst,21.0,46644,Operations,19.0,11.0,4.0,0,3
+M,Analyst,25.0,41071,IT,26.0,4.0,2.0,2,2
+F,Senior Analyst,25.0,60307,Management,25.0,5.0,2.0,0,4
+F,Manager,33.0,103640,Operations,16.0,14.0,3.0,6,3
+M,Senior Analyst,26.0,60394,Marketing,17.0,13.0,5.0,1,4
+M,Senior Analyst,27.0,50084,Management,27.0,3.0,2.0,1,2
+M,Analyst,21.0,41353,IT,25.0,5.0,2.0,0,2
+M,Senior Analyst,27.0,59182,Management,21.0,9.0,2.0,5,1
+F,Analyst,24.0,40820,Operations,28.0,2.0,3.0,1,2
+M,Analyst,22.0,42828,Management,27.0,3.0,4.0,0,3
+M,Analyst,23.0,46137,Management,28.0,2.0,5.0,0,2
+M,Analyst,21.0,46306,Management,16.0,14.0,4.0,0,2
+M,Analyst,25.0,41942,Finance,26.0,4.0,2.0,2,2
+F,Analyst,23.0,46669,Marketing,17.0,13.0,4.0,0,3
+M,Analyst,25.0,48363,Operations,26.0,4.0,5.0,3,2
+M,Manager,33.0,128247,Management,28.0,2.0,2.0,6,3
+M,Analyst,24.0,48015,IT,26.0,4.0,5.0,0,3
+M,Senior Analyst,25.0,55455,Finance,30.0,0.0,3.0,0,3
+M,Analyst,25.0,42735,Marketing,20.0,10.0,2.0,1,3
+F,Analyst,25.0,41956,Marketing,18.0,12.0,5.0,3,2
+M,Analyst,22.0,48868,Finance,24.0,6.0,2.0,0,2
+F,Analyst,25.0,46623,Management,16.0,14.0,5.0,1,3
+M,Analyst,24.0,47899,IT,15.0,15.0,4.0,2,2
+F,Analyst,25.0,46808,Operations,28.0,2.0,5.0,2,3
+M,Analyst,24.0,40188,Finance,18.0,12.0,4.0,0,3
+M,Associate,32.0,91602,Management,27.0,3.0,2.0,7,3
+F,Analyst,21.0,49048,Operations,15.0,15.0,2.0,0,2
+M,Analyst,24.0,41412,Marketing,30.0,0.0,2.0,2,2
+M,Analyst,23.0,41951,Management,26.0,4.0,3.0,1,2
+F,Analyst,24.0,45896,Web,20.0,10.0,2.0,2,2
+M,Analyst,25.0,45597,Operations,30.0,0.0,3.0,2,2
+F,Senior Manager,39.0,151373,Marketing,24.0,6.0,4.0,16,2
+M,Senior Analyst,27.0,65596,Operations,25.0,5.0,3.0,1,2
+M,Analyst,25.0,42494,Management,20.0,10.0,5.0,3,2
+M,Analyst,24.0,41312,Web,22.0,8.0,3.0,1,2
+F,Analyst,22.0,48555,Operations,17.0,13.0,4.0,0,2
+M,Analyst,21.0,49632,Marketing,18.0,12.0,3.0,0,3
+M,Associate,29.0,89791,IT,27.0,3.0,5.0,3,4
+F,Analyst,23.0,44886,Marketing,23.0,7.0,4.0,0,2
+M,Analyst,25.0,40886,IT,25.0,5.0,4.0,1,3
+M,Senior Analyst,26.0,65383,Management,17.0,13.0,2.0,0,3
+F,Director,45.0,320148,Management,18.0,12.0,2.0,18,4
+F,Analyst,24.0,48696,IT,18.0,12.0,2.0,0,3
+M,Analyst,23.0,47701,Operations,22.0,8.0,5.0,1,2
+M,Director,40.0,232682,IT,16.0,14.0,4.0,15,4
+M,Analyst,22.0,46157,Marketing,22.0,8.0,3.0,0,2
+F,Analyst,21.0,42747,Web,29.0,1.0,2.0,0,3
+M,Analyst,21.0,46170,IT,26.0,4.0,2.0,0,3
+M,Director,44.0,225339,Management,23.0,7.0,5.0,16,4
+M,Analyst,22.0,45997,Operations,24.0,6.0,2.0,0,3
+F,Analyst,22.0,48962,Web,18.0,12.0,2.0,0,3
+F,Analyst,23.0,42847,Web,17.0,13.0,4.0,0,3
+M,Analyst,24.0,40704,Marketing,26.0,4.0,5.0,2,2
+M,Senior Analyst,28.0,61867,IT,23.0,7.0,5.0,5,2
+F,Analyst,21.0,48067,Management,29.0,1.0,4.0,0,2
+M,Analyst,23.0,48939,Management,15.0,15.0,5.0,1,2
+F,Analyst,22.0,41230,Finance,27.0,3.0,3.0,0,2
+F,Senior Analyst,26.0,52224,IT,19.0,11.0,3.0,3,2
+F,Analyst,24.0,49624,IT,17.0,13.0,4.0,0,3
+F,Analyst,23.0,45561,Web,16.0,14.0,4.0,0,3
+F,Analyst,22.0,41449,IT,18.0,12.0,3.0,0,2
+M,Associate,29.0,93073,Marketing,28.0,2.0,3.0,2,3
+F,Analyst,24.0,42625,Marketing,28.0,2.0,4.0,0,3
+F,Analyst,24.0,47458,Finance,19.0,11.0,3.0,0,3
+M,Analyst,24.0,43070,Finance,19.0,11.0,3.0,0,3
+F,Analyst,21.0,40431,Management,22.0,8.0,5.0,0,3
+M,Manager,33.0,141477,IT,15.0,15.0,5.0,9,2
+M,Analyst,25.0,45555,Operations,20.0,10.0,4.0,2,3
+M,Senior Analyst,28.0,58745,Finance,19.0,11.0,3.0,2,3
+F,Analyst,25.0,41580,Operations,25.0,5.0,5.0,3,2
+F,Analyst,25.0,45739,Management,16.0,14.0,2.0,1,3
+M,Director,40.0,218098,IT,25.0,5.0,5.0,11,6
+M,Analyst,25.0,40935,Operations,30.0,0.0,2.0,2,3
+F,Analyst,25.0,41310,Operations,27.0,3.0,2.0,2,2
+M,Senior Analyst,28.0,52071,Management,23.0,7.0,3.0,0,4
+F,Analyst,24.0,44594,Operations,18.0,12.0,2.0,2,2
+M,Analyst,22.0,49957,Web,24.0,6.0,2.0,0,3
+F,Analyst,22.0,48993,Marketing,28.0,2.0,4.0,0,3
+F,Associate,30.0,89043,Management,27.0,3.0,4.0,5,5
+F,Associate,31.0,96276,Finance,16.0,14.0,5.0,3,5
+F,Analyst,22.0,47904,Web,20.0,10.0,3.0,0,2
+F,Analyst,21.0,43835,Marketing,22.0,8.0,2.0,0,3
+M,Senior Manager,36.0,177587,Operations,15.0,15.0,2.0,8,4
+F,Analyst,22.0,43628,Web,25.0,5.0,5.0,0,3
+F,Senior Analyst,27.0,60827,Web,18.0,12.0,2.0,0,2
+M,Analyst,25.0,42735,Marketing,20.0,10.0,2.0,1,3
+F,Analyst,22.0,49592,Management,24.0,6.0,4.0,0,3
+M,Analyst,21.0,48331,Operations,27.0,3.0,3.0,0,2
+M,Senior Analyst,28.0,68604,Marketing,17.0,13.0,4.0,5,3
+M,Associate,31.0,71026,Marketing,26.0,4.0,4.0,6,5
+M,Analyst,21.0,47014,Marketing,27.0,3.0,2.0,0,2
+M,Analyst,22.0,41329,Management,22.0,8.0,2.0,0,3
+M,Manager,35.0,129107,Web,30.0,0.0,4.0,6,5
+F,Analyst,24.0,43714,IT,20.0,10.0,2.0,1,3
+F,Analyst,22.0,40031,Management,18.0,12.0,2.0,0,3
+F,Analyst,22.0,44739,IT,23.0,7.0,4.0,0,3
+M,Analyst,25.0,49499,Operations,19.0,11.0,4.0,2,3
+M,Senior Analyst,26.0,53988,Web,30.0,0.0,2.0,0,2
+F,Associate,32.0,99412,Marketing,21.0,9.0,5.0,7,3
+F,Analyst,21.0,46071,Management,24.0,6.0,2.0,0,3
+M,Analyst,22.0,47148,IT,26.0,4.0,2.0,0,3
+M,Analyst,23.0,43007,IT,23.0,7.0,3.0,0,2
+M,Analyst,23.0,46469,Operations,24.0,6.0,4.0,0,2
+M,Manager,32.0,100952,Management,20.0,10.0,2.0,5,4
+M,Analyst,24.0,48114,Finance,23.0,7.0,2.0,2,2
+F,Senior Analyst,25.0,58736,Finance,17.0,13.0,2.0,0,3
+F,Analyst,24.0,42037,Management,15.0,15.0,5.0,1,3
+F,Analyst,25.0,46350,Finance,22.0,8.0,5.0,2,2
+M,Analyst,23.0,44538,Operations,15.0,15.0,5.0,1,2
+F,Senior Analyst,25.0,68319,Operations,26.0,4.0,5.0,0,3
+M,Senior Analyst,25.0,65324,Management,17.0,13.0,2.0,2,3
+M,Analyst,21.0,45042,Marketing,19.0,11.0,5.0,0,2
+M,Analyst,23.0,47305,Finance,19.0,11.0,2.0,0,2
+F,Analyst,23.0,43776,Operations,18.0,12.0,2.0,0,3
+M,Analyst,21.0,41621,Management,29.0,1.0,4.0,0,3
+M,Analyst,21.0,43542,Marketing,24.0,6.0,5.0,0,2
+F,Associate,32.0,92074,Web,16.0,14.0,5.0,7,2
+F,Senior Analyst,25.0,50813,Marketing,26.0,4.0,2.0,0,3
+F,Analyst,23.0,45735,Finance,28.0,2.0,3.0,0,3
+M,Analyst,23.0,44767,Operations,26.0,4.0,4.0,0,2
+F,Analyst,25.0,45429,IT,28.0,2.0,3.0,2,3
+F,Analyst,23.0,41786,Marketing,21.0,9.0,3.0,1,2
+F,Analyst,21.0,47143,Management,21.0,9.0,3.0,0,2
+F,Analyst,25.0,47286,Finance,29.0,1.0,3.0,2,2
+F,Analyst,22.0,47892,Operations,29.0,1.0,5.0,0,3
+M,Analyst,22.0,41250,Operations,29.0,1.0,5.0,0,1
+F,Analyst,22.0,41953,IT,16.0,14.0,4.0,0,2
+F,Analyst,22.0,46244,Operations,16.0,14.0,4.0,0,2
+F,Associate,30.0,87011,Marketing,20.0,10.0,4.0,6,3
+F,Analyst,24.0,49529,Finance,18.0,12.0,4.0,1,3
+M,Analyst,23.0,46752,IT,20.0,10.0,2.0,0,2
+M,Analyst,24.0,45402,Finance,22.0,8.0,4.0,1,2
+F,Analyst,23.0,41142,Operations,23.0,7.0,3.0,0,3
+F,Senior Analyst,26.0,64060,Web,28.0,2.0,4.0,1,3
+F,Analyst,21.0,48221,Management,28.0,2.0,3.0,0,3
+F,Manager,32.0,102996,IT,24.0,6.0,2.0,4,4
+M,Senior Analyst,25.0,60990,IT,21.0,9.0,3.0,3,2
+F,Associate,32.0,91767,IT,21.0,9.0,4.0,6,4
+M,Analyst,22.0,45781,Marketing,16.0,14.0,4.0,0,2
+M,Analyst,23.0,48049,IT,27.0,3.0,5.0,0,3
+F,Analyst,24.0,49368,Management,19.0,11.0,5.0,1,3
+F,Associate,32.0,88400,IT,25.0,5.0,4.0,6,2
+M,Associate,29.0,94321,Web,29.0,1.0,2.0,4,2
+F,Senior Analyst,28.0,58566,Operations,28.0,2.0,3.0,5,2
+F,Analyst,21.0,45411,Management,23.0,7.0,3.0,0,2
+F,Analyst,23.0,48612,IT,26.0,4.0,5.0,1,2
+F,Senior Analyst,28.0,64108,Web,20.0,10.0,5.0,4,2
+F,Analyst,21.0,45774,Finance,18.0,12.0,5.0,0,1
+M,Analyst,22.0,48198,Web,17.0,13.0,4.0,0,3
+M,Associate,29.0,86942,Management,18.0,12.0,3.0,2,5
+M,Analyst,24.0,46471,Management,28.0,2.0,5.0,1,3
+F,Analyst,24.0,44649,IT,30.0,0.0,3.0,1,2
+F,Senior Analyst,27.0,54048,Management,20.0,10.0,5.0,3,3
+M,Analyst,24.0,45217,Finance,23.0,7.0,2.0,1,2
+M,Director,42.0,324129,Web,27.0,3.0,3.0,16,1
+M,Analyst,24.0,40570,Marketing,15.0,15.0,3.0,1,2
+M,Analyst,25.0,45011,Management,18.0,12.0,5.0,2,2
+F,Analyst,21.0,47547,Web,15.0,15.0,2.0,0,3
+M,Analyst,23.0,49798,IT,22.0,8.0,3.0,0,3
+F,Analyst,23.0,44824,Marketing,28.0,2.0,5.0,0,3
+F,Analyst,22.0,41192,Marketing,28.0,2.0,4.0,0,3
+M,Analyst,25.0,46295,Operations,18.0,12.0,4.0,1,3
+F,Analyst,25.0,47135,Operations,19.0,11.0,5.0,1,3
+M,Analyst,24.0,41845,Marketing,29.0,1.0,3.0,1,3
+M,Senior Analyst,26.0,52678,Finance,15.0,15.0,3.0,0,3
+F,Analyst,25.0,44039,IT,25.0,5.0,4.0,3,2
+M,Associate,28.0,83947,Web,27.0,3.0,5.0,3,5
+F,Analyst,25.0,49173,Finance,16.0,14.0,2.0,3,2
+M,Analyst,24.0,40340,Management,22.0,8.0,2.0,0,3
+M,Senior Analyst,26.0,54573,Operations,23.0,7.0,2.0,0,4
+M,Analyst,23.0,49032,Marketing,21.0,9.0,2.0,0,3
+M,Senior Analyst,26.0,58638,Marketing,25.0,5.0,2.0,1,4
+F,Senior Analyst,26.0,52225,Operations,26.0,4.0,5.0,0,4
+F,Analyst,21.0,40980,Marketing,17.0,13.0,3.0,0,3
+M,Analyst,21.0,45335,Operations,20.0,10.0,3.0,0,2
+M,Analyst,22.0,41593,Web,19.0,11.0,2.0,0,2
+M,Analyst,25.0,43910,Marketing,16.0,14.0,4.0,2,2
+M,Senior Analyst,25.0,66563,IT,16.0,14.0,2.0,0,4
+F,Analyst,23.0,45573,Web,16.0,14.0,4.0,0,3
+M,Analyst,21.0,46241,Management,25.0,5.0,2.0,0,2
+M,Analyst,24.0,44892,Management,16.0,14.0,3.0,1,3
+F,Analyst,23.0,41312,Marketing,17.0,13.0,2.0,1,2
+M,Analyst,22.0,45099,Operations,17.0,13.0,2.0,0,2
+F,Manager,34.0,128265,Finance,30.0,0.0,3.0,11,2
+F,Analyst,22.0,49710,Management,17.0,13.0,4.0,0,2
+F,Analyst,22.0,43307,IT,27.0,3.0,4.0,0,2
+F,Analyst,22.0,40357,Marketing,27.0,3.0,2.0,0,3
+M,Analyst,22.0,49974,Marketing,25.0,5.0,2.0,0,3
+F,Analyst,24.0,48817,Management,25.0,5.0,4.0,2,1
+F,Analyst,22.0,45392,IT,28.0,2.0,2.0,0,3
+M,Analyst,25.0,46566,Management,16.0,14.0,5.0,1,3
+F,Analyst,21.0,47336,Management,19.0,11.0,4.0,0,3
+F,Associate,32.0,96410,Management,25.0,5.0,4.0,6,4
+M,Analyst,22.0,49878,Marketing,24.0,6.0,5.0,0,3
+F,Analyst,22.0,45147,Marketing,30.0,0.0,2.0,0,3
+F,Analyst,23.0,45645,Web,15.0,15.0,3.0,0,3
+M,Analyst,25.0,46064,IT,18.0,12.0,3.0,2,3
+F,Analyst,23.0,43288,Operations,27.0,3.0,5.0,0,2
+F,Analyst,22.0,40208,Operations,17.0,13.0,3.0,0,3
+M,Analyst,25.0,42070,Management,23.0,7.0,2.0,3,2
+M,Analyst,22.0,49577,Web,19.0,11.0,4.0,0,2
+M,Senior Analyst,27.0,56112,Management,18.0,12.0,5.0,0,4
+M,Analyst,24.0,46762,Marketing,19.0,11.0,2.0,1,3
+F,Analyst,21.0,44323,Operations,20.0,10.0,2.0,0,2
+M,Senior Manager,37.0,153769,Marketing,19.0,11.0,3.0,8,4
+M,Analyst,21.0,40762,IT,30.0,0.0,4.0,0,3
+F,Analyst,24.0,49567,Operations,21.0,9.0,4.0,2,2
+F,Senior Analyst,28.0,65810,Finance,21.0,9.0,2.0,5,2
+F,Associate,30.0,99311,Finance,25.0,5.0,4.0,5,4
+F,Analyst,23.0,43495,Finance,26.0,4.0,2.0,0,3
+F,Analyst,25.0,40073,IT,15.0,15.0,5.0,2,3
+M,Analyst,21.0,49380,Management,30.0,0.0,4.0,0,3
+M,Senior Analyst,26.0,64480,Finance,30.0,0.0,5.0,2,4
+M,Analyst,22.0,49549,Finance,23.0,7.0,5.0,0,3
+M,Analyst,24.0,46369,Management,28.0,2.0,3.0,1,3
+F,Analyst,25.0,46488,IT,15.0,15.0,2.0,3,2
+M,Analyst,23.0,49101,Marketing,20.0,10.0,5.0,1,2
+M,Analyst,23.0,41895,Operations,20.0,10.0,5.0,1,2
+M,Analyst,25.0,40786,IT,25.0,5.0,5.0,2,2
+F,Analyst,25.0,48957,Web,23.0,7.0,3.0,3,2
+M,Analyst,21.0,49271,Management,28.0,2.0,4.0,0,2
+M,Manager,34.0,139380,Marketing,29.0,1.0,2.0,4,5
+M,Senior Manager,38.0,189435,Marketing,19.0,11.0,4.0,10,3
+F,Senior Analyst,26.0,66244,Operations,27.0,3.0,4.0,0,4
+F,Analyst,25.0,47229,Marketing,17.0,13.0,5.0,2,2
+M,Analyst,25.0,47747,Operations,22.0,8.0,5.0,3,2
+M,Analyst,23.0,47348,Operations,19.0,11.0,4.0,0,2
+M,Analyst,22.0,44163,Management,16.0,14.0,2.0,0,3
+F,Associate,32.0,78556,Marketing,16.0,14.0,3.0,5,3
+F,Analyst,23.0,46984,Web,24.0,6.0,4.0,0,2
+M,Analyst,25.0,45435,Operations,24.0,6.0,5.0,2,3
+M,Senior Analyst,26.0,54987,Marketing,25.0,5.0,3.0,1,3
+M,Analyst,21.0,47301,Web,24.0,6.0,4.0,0,3
+F,Analyst,24.0,42428,Management,15.0,15.0,3.0,1,2
+M,Analyst,24.0,49654,Finance,27.0,3.0,4.0,1,2
+M,Analyst,24.0,42266,Management,20.0,10.0,5.0,0,3
+M,Analyst,21.0,47781,IT,17.0,13.0,3.0,0,3
+M,Associate,29.0,70823,Web,26.0,4.0,5.0,0,4
+M,Senior Analyst,26.0,58638,Marketing,25.0,5.0,2.0,1,4
+M,Analyst,22.0,48266,IT,21.0,9.0,3.0,0,2
+M,Analyst,24.0,45776,Management,17.0,13.0,4.0,1,2
+F,Senior Analyst,28.0,69841,Management,21.0,9.0,5.0,0,3
+F,Director,39.0,368887,Management,21.0,9.0,3.0,13,2
+M,Analyst,23.0,41454,Finance,25.0,5.0,4.0,1,2
+F,Analyst,21.0,49799,Web,15.0,15.0,2.0,0,2
+F,Director,39.0,213987,Web,24.0,6.0,5.0,13,6
+F,Associate,32.0,95768,Web,15.0,15.0,5.0,2,5
+M,Analyst,25.0,47993,Marketing,26.0,4.0,5.0,2,3
+M,Analyst,24.0,45100,Operations,28.0,2.0,2.0,1,2
+M,Analyst,23.0,45797,Marketing,17.0,13.0,3.0,0,3
+M,Analyst,22.0,46098,Operations,21.0,9.0,4.0,0,3
+M,Analyst,21.0,41854,Operations,29.0,1.0,5.0,0,2
+M,Analyst,21.0,41250,IT,23.0,7.0,5.0,0,2
+M,Manager,34.0,108931,Operations,22.0,8.0,5.0,10,2
+F,Manager,32.0,112363,Finance,18.0,12.0,3.0,7,4
+F,Analyst,23.0,41037,Management,24.0,6.0,3.0,0,2
+M,Analyst,25.0,49730,Marketing,26.0,4.0,5.0,3,1
+F,Associate,28.0,88281,Marketing,28.0,2.0,4.0,2,2
+F,Analyst,21.0,49725,Finance,25.0,5.0,4.0,0,2
+M,Senior Analyst,27.0,69877,Management,27.0,3.0,2.0,5,2
+F,Manager,32.0,139804,Marketing,21.0,9.0,4.0,7,4
+M,Analyst,24.0,41531,Management,19.0,11.0,3.0,2,2
+F,Analyst,23.0,45082,Operations,17.0,13.0,2.0,1,2
+M,Analyst,23.0,49904,Management,28.0,2.0,4.0,0,3
+F,Analyst,23.0,43905,IT,24.0,6.0,5.0,0,3
+F,Analyst,22.0,40357,Marketing,27.0,3.0,2.0,0,3
+F,Analyst,25.0,41147,Finance,19.0,11.0,3.0,2,3
+M,Analyst,23.0,40086,Marketing,25.0,5.0,4.0,0,3
+F,Analyst,25.0,49734,Management,18.0,12.0,3.0,3,2
+F,Senior Analyst,27.0,51277,Operations,24.0,6.0,5.0,2,3
+M,Analyst,24.0,40065,IT,24.0,6.0,2.0,1,3
+F,Analyst,24.0,40707,Web,21.0,9.0,4.0,1,3
+M,Analyst,23.0,49913,Operations,27.0,3.0,3.0,0,2
+F,Analyst,23.0,43534,Finance,20.0,10.0,4.0,0,3
+F,Senior Manager,36.0,195985,Finance,26.0,4.0,4.0,10,4
+M,Analyst,23.0,41052,IT,15.0,15.0,5.0,1,2
+F,Analyst,21.0,40720,Web,15.0,15.0,4.0,0,2
+F,Analyst,21.0,45351,Finance,15.0,15.0,2.0,0,3
+M,Associate,32.0,77218,Finance,25.0,5.0,3.0,6,5
+M,Analyst,21.0,40882,Finance,16.0,14.0,5.0,0,2
+F,Analyst,25.0,44318,Operations,25.0,5.0,2.0,1,3
+F,Associate,30.0,96322,Web,24.0,6.0,2.0,5,3
+M,Analyst,23.0,49322,Web,23.0,7.0,4.0,0,2
+F,Senior Manager,38.0,187837,Web,19.0,11.0,2.0,11,3
+F,Senior Analyst,28.0,51566,Web,16.0,14.0,4.0,2,3
+F,Analyst,22.0,43418,Finance,29.0,1.0,4.0,0,2
+M,Senior Analyst,28.0,68079,Management,21.0,9.0,5.0,2,2
+M,Analyst,21.0,44146,Operations,19.0,11.0,5.0,0,3
+M,Analyst,22.0,40343,Management,15.0,15.0,2.0,0,2
+F,Analyst,22.0,45358,Marketing,19.0,11.0,5.0,0,3
+M,Analyst,24.0,48651,Web,27.0,3.0,5.0,1,2
+M,Senior Analyst,25.0,61235,Management,24.0,6.0,3.0,0,4
+F,Analyst,22.0,40319,Operations,16.0,14.0,4.0,0,1
+M,Analyst,23.0,47558,Marketing,26.0,4.0,5.0,0,3
+F,Senior Manager,38.0,194701,Management,26.0,4.0,5.0,8,6
+M,Analyst,23.0,45680,Operations,22.0,8.0,3.0,0,3
+F,Analyst,24.0,43984,Marketing,29.0,1.0,5.0,2,1
+M,Analyst,24.0,40800,Finance,16.0,14.0,2.0,1,3
+M,Analyst,22.0,46310,IT,28.0,2.0,4.0,0,2
+F,Analyst,25.0,49559,Management,22.0,8.0,5.0,2,3
+F,Analyst,24.0,44054,Web,27.0,3.0,5.0,0,3
+M,Analyst,22.0,41222,IT,30.0,0.0,2.0,0,2
+M,Senior Manager,38.0,154120,Management,26.0,4.0,3.0,12,4
+F,Analyst,23.0,42250,Operations,21.0,9.0,2.0,0,3
+F,Analyst,24.0,49075,IT,17.0,13.0,3.0,2,2
+M,Analyst,24.0,49217,Operations,24.0,6.0,4.0,2,2
+F,Senior Analyst,26.0,56733,Finance,28.0,2.0,3.0,4,2
+F,Associate,32.0,86705,Operations,20.0,10.0,4.0,8,4
+M,Analyst,22.0,43228,Management,25.0,5.0,4.0,0,2
+F,Senior Analyst,25.0,52370,Operations,24.0,6.0,5.0,0,3
+M,Associate,32.0,94345,Management,17.0,13.0,4.0,5,5
+F,Analyst,21.0,46432,Operations,30.0,0.0,4.0,0,3
+F,Analyst,24.0,44599,IT,22.0,8.0,2.0,1,3
+F,Analyst,22.0,42418,Marketing,20.0,10.0,3.0,0,2
+F,Analyst,21.0,41498,Web,21.0,9.0,5.0,0,2
+F,Analyst,22.0,41515,Finance,25.0,5.0,5.0,0,3
+F,Analyst,25.0,48541,Operations,24.0,6.0,2.0,2,3
+F,Senior Analyst,26.0,66661,Finance,30.0,0.0,5.0,2,3
+F,Analyst,22.0,44676,Operations,15.0,15.0,3.0,0,3
+F,Analyst,21.0,41378,Finance,21.0,9.0,5.0,0,3
+F,Analyst,22.0,42369,IT,18.0,12.0,4.0,0,2
+F,Analyst,22.0,42662,Finance,29.0,1.0,3.0,0,2
+M,Analyst,22.0,41760,Finance,21.0,9.0,2.0,0,3
+M,Analyst,22.0,45364,Web,20.0,10.0,2.0,0,2
+F,Analyst,21.0,49892,Finance,28.0,2.0,4.0,0,3
+M,Analyst,22.0,49617,Marketing,16.0,14.0,5.0,0,3
+F,Analyst,23.0,42877,Operations,21.0,9.0,2.0,1,2
+M,Analyst,21.0,48866,Finance,20.0,10.0,3.0,0,3
+M,Analyst,25.0,47849,IT,22.0,8.0,2.0,2,3
+F,Analyst,24.0,44424,IT,25.0,5.0,2.0,0,3
+M,Analyst,25.0,43884,Finance,23.0,7.0,4.0,1,3
+F,Analyst,22.0,43835,Management,26.0,4.0,4.0,0,2
+F,Analyst,24.0,40277,Web,17.0,13.0,4.0,2,2
+F,Senior Manager,36.0,185977,Management,15.0,15.0,5.0,10,5
+F,Analyst,23.0,45758,IT,17.0,13.0,2.0,0,2
+F,Analyst,21.0,47315,Web,29.0,1.0,5.0,0,2
+F,Analyst,24.0,45172,Web,23.0,7.0,3.0,1,2
+M,Analyst,24.0,49176,Marketing,17.0,13.0,2.0,2,2
